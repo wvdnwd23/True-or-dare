@@ -1,0 +1,49 @@
+name: Android CI from ZIP (APK Artifact)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Unzip project
+        run: |
+          ZIP=$(ls -1 *.zip | head -n1)
+          mkdir src
+          unzip -q "$ZIP" -d src
+          ROOT=$(find src -maxdepth 2 -type f -name gradlew -print -quit)
+          PRJDIR=$(dirname "$ROOT")
+          echo "PRJDIR=$PRJDIR" >> $GITHUB_ENV
+
+      - name: Make gradlew executable
+        run: chmod +x "$PRJDIR/gradlew"
+
+      - name: Cache Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Build Debug APK
+        run: |
+          cd "$PRJDIR"
+          ./gradlew :app:assembleDebug --stacktrace
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: truth-or-dare-debug-apk
+          path: ${{ env.PRJDIR }}/app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
