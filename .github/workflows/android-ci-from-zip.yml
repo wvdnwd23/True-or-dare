@@ -21,28 +21,27 @@ jobs:
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
 
-      - name: Unzip project
+      - name: Unzip and detect project
         run: |
-          set -e
-          ZIP=$(ls -1 *.zip | head -n1)
-          if [ -z "$ZIP" ]; then echo "No ZIP found at repo root"; exit 1; fi
-          mkdir src
-          unzip -q "$ZIP" -d src
-          ROOT=$(find src -maxdepth 3 -type f -name gradlew -print -quit)
-          if [ -z "$ROOT" ]; then echo "gradlew not found inside ZIP"; ls -R src; exit 1; fi
-          PRJDIR=$(dirname "$ROOT")
+          set -euxo pipefail
+          ZIP_FILE="$(ls -1 *.zip | head -n1)"
+          test -n "$ZIP_FILE"
+          mkdir -p src
+          unzip -q "$ZIP_FILE" -d src
+          ROOT="$(find src -type f -name gradlew -print -quit)"
+          test -n "$ROOT"
+          PRJDIR="$(dirname "$ROOT")"
           echo "PRJDIR=$PRJDIR" >> $GITHUB_ENV
-
-      - name: Make gradlew executable
-        run: chmod +x "$PRJDIR/gradlew"
+          # line-endings safeguard
+          sed -i 's/\r$//' "$ROOT"
+          chmod +x "$ROOT"
 
       - name: Cache Gradle
         uses: gradle/actions/setup-gradle@v4
 
       - name: Build Debug APK
         run: |
-          cd "$PRJDIR"
-          ./gradlew :app:assembleDebug --stacktrace
+          "${PRJDIR}/gradlew" -p "${PRJDIR}" :app:assembleDebug --stacktrace
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
