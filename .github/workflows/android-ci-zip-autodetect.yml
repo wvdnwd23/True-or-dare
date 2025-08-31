@@ -1,0 +1,76 @@
+name: Android CI — ZIP Autodetect (APK)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Unzip and detect Android project root
+        shell: bash
+        run: |
+          set -euxo pipefail
+
+          # 1) Pak eerste ZIP in de repo-root uit
+          ZIP_FILE="$(ls -1 *.zip | head -n1)"
+          test -n "$ZIP_FILE"
+          mkdir -p project
+          unzip -q "$ZIP_FILE" -d project
+
+          # 2) Vind de map met settings.gradle(.kts) (max 5 niveaus diep)
+          PRJDIR="$(find project -maxdepth 5 -type f \( -name 'settings.gradle' -o -name 'settings.gradle.kts' \) -exec dirname {} \; | head -n1)"
+          test -n "$PRJDIR"
+          echo "PRJDIR=$PRJDIR" | tee -a $GITHUB_ENV
+
+          # 3) Toon structuur voor debug
+          echo "== Project root detected =="
+          echo "$PRJDIR"
+          echo "== Tree (first 200 lines) =="
+          (cd "$PRJDIR" && find . -maxdepth 3 | head -n 200 || true)
+
+      - name: Cache Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Build Debug APK (with robust wrapper fallback)
+        shell: bash
+        run: |
+          set -euxo pipefail
+
+          # A) Probeer ./gradlew als hij bestaat (fix CRLF + chmod)
+          if [ -f "${PRJDIR}/gradlew" ]; then
+            sed -i 's/\r$//' "${PRJDIR}/gradlew" || true
+            chmod +x "${PRJDIR}/gradlew"
+            "${PRJDIR}/gradlew" -p "${PRJDIR}" :app:assembleDebug --stacktrace || WRAP_FALLBACK=1
+          else
+            WRAP_FALLBACK=1
+          fi
+
+          # B) Fallback: start Gradle Wrapper direct via Java (omzeilt corrupte gradlew)
+          if [ "${WRAP_FALLBACK:-0}" = "1" ]; then
+            WRAPPER_JAR="$(find "${PRJDIR}" -type f -name 'gradle-wrapper.jar' -print -quit)"
+            test -n "$WRAPPER_JAR"
+            java -cp "${WRAPPER_JAR}" org.gradle.wrapper.GradleWrapperMain \
+              -p "${PRJDIR}" :app:assembleDebug --stacktrace
+          fi
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: truth-or-dare-debug-apk
+          path: ${{ env.PRJDIR }}/app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
