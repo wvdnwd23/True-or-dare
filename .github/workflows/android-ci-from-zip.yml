@@ -28,20 +28,27 @@ jobs:
           test -n "$ZIP_FILE"
           mkdir -p src
           unzip -q "$ZIP_FILE" -d src
-          ROOT="$(find src -type f -name gradlew -print -quit)"
-          test -n "$ROOT"
-          PRJDIR="$(dirname "$ROOT")"
+
+          # Zoek de echte projectmap (waar build.gradle(.kts) staat)
+          PRJDIR="$(find src -maxdepth 3 \( -name 'settings.gradle' -o -name 'settings.gradle.kts' \) -printf '%h\n' -quit)"
+          test -n "$PRJDIR"
           echo "PRJDIR=$PRJDIR" >> $GITHUB_ENV
-          # line-endings safeguard
-          sed -i 's/\r$//' "$ROOT"
-          chmod +x "$ROOT"
+
+          # Zoek de wrapper-jar (omzeilt corrupte gradlew)
+          WRAPPER_JAR="$(find "$PRJDIR" -type f -name 'gradle-wrapper.jar' -print -quit)"
+          test -n "$WRAPPER_JAR"
+          echo "WRAPPER_JAR=$WRAPPER_JAR" >> $GITHUB_ENV
 
       - name: Cache Gradle
         uses: gradle/actions/setup-gradle@v4
 
-      - name: Build Debug APK
+      - name: Build Debug APK (call wrapper directly)
         run: |
-          "${PRJDIR}/gradlew" -p "${PRJDIR}" :app:assembleDebug --stacktrace
+          set -euxo pipefail
+          java -version
+          # Start Gradle Wrapper Main rechtstreeks, zonder ./gradlew
+          java -cp "${WRAPPER_JAR}" org.gradle.wrapper.GradleWrapperMain \
+            -p "${PRJDIR}" :app:assembleDebug --stacktrace
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
