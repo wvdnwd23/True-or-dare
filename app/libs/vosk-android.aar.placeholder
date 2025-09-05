@@ -1,0 +1,11 @@
+This is a placeholder for the Vosk Android ASR model.
+In a real implementation, you would need to download the Vosk Android AAR from:
+https://github.com/alphacep/vosk-android/releases
+
+And place it in the app/libs directory as vosk-android.aar.
+
+The Dutch language model should be placed in:
+app/src/main/assets/models/nl/
+
+You can download the Dutch model from:
+https://alphacephei.com/vosk/models

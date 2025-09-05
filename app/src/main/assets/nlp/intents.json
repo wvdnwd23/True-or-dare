@@ -1,0 +1,94 @@
+{
+  "agree": [
+    "ja", "zeker", "absoluut", "inderdaad", "klopt", "precies", "helemaal", "natuurlijk", "uiteraard", "correct",
+    "dat klopt", "je hebt gelijk", "ik ben het eens", "zo is het", "dat is waar", "zeker weten"
+  ],
+  "disagree": [
+    "nee", "niet", "nope", "neen", "onjuist", "fout", "incorrect", "dat klopt niet", "ik ben het oneens",
+    "ik denk het niet", "absoluut niet", "zeker niet", "helemaal niet", "nee hoor", "nee joh"
+  ],
+  "unsure": [
+    "misschien", "wellicht", "mogelijk", "ik weet het niet", "geen idee", "twijfel", "niet zeker", "hangt ervan af",
+    "kan zijn", "zou kunnen", "wie weet", "ik twijfel", "dat is lastig", "moeilijk te zeggen"
+  ],
+  "question": [
+    "wat", "waarom", "hoe", "wanneer", "waar", "wie", "welke", "hoeveel", "hoezo", "?",
+    "kun je", "weet je", "mag ik vragen", "vertel me", "leg uit", "ik vraag me af"
+  ],
+  "surprise": [
+    "wow", "wauw", "echt waar", "serieus", "echt", "ongelooflijk", "niet te geloven", "no way", "oh mijn god",
+    "omg", "wtf", "wat", "echt?", "meen je dat", "ben je serieus", "dat meen je niet"
+  ],
+  "happy": [
+    "blij", "gelukkig", "vrolijk", "geweldig", "fantastisch", "super", "leuk", "top", "cool", "awesome",
+    "haha", "lol", "lachen", "genieten", "plezier", "feest", "yay", "hoera", "yes"
+  ],
+  "sad": [
+    "verdrietig", "triest", "jammer", "helaas", "spijt", "teleurgesteld", "ongelukkig", "depressief", "somber",
+    "huilen", "tranen", "pijn", "pijnlijk", "moeilijk", "zwaar", "niet leuk"
+  ],
+  "angry": [
+    "boos", "kwaad", "woedend", "geïrriteerd", "gefrustreerd", "ergernis", "haat", "afschuw", "verafschuw",
+    "grrr", "stom", "irritant", "vervelend", "ugh", "zucht", "godverdomme", "shit"
+  ],
+  "afraid": [
+    "bang", "angstig", "nerveus", "gespannen", "stress", "zorgen", "bezorgd", "ongerust", "paniek", "schrik",
+    "eng", "griezelig", "horror", "doodsbang", "doodsangst", "help", "oh nee"
+  ],
+  "love": [
+    "liefde", "hou van", "houden van", "verliefd", "aantrekking", "crush", "romantisch", "passie", "intiem",
+    "knuffelen", "kussen", "date", "relatie", "partner", "samen", "voor altijd"
+  ],
+  "dislike": [
+    "hekel", "haat", "afkeer", "niet leuk", "vind ik niet", "mag ik niet", "hou niet van", "vreselijk", "verschrikkelijk",
+    "bah", "jakkes", "gatver", "nee bedankt", "liever niet", "absoluut niet"
+  ],
+  "preference": [
+    "liever", "voorkeur", "favoriet", "het liefst", "verkies", "kies", "wil graag", "zou willen", "prefereer",
+    "beter vinden", "meer houden van", "eerder", "vooral", "met name", "in het bijzonder"
+  ],
+  "gratitude": [
+    "bedankt", "dank je", "dankjewel", "dank", "thanks", "thank you", "merci", "gracias", "dankbaar",
+    "waarderen", "waardeer", "erkentelijk", "veel dank", "super bedankt"
+  ],
+  "apology": [
+    "sorry", "excuses", "excuseer", "pardon", "mijn fout", "neem me niet kwalijk", "vergeef me", "het spijt me",
+    "niet de bedoeling", "niet expres", "per ongeluk", "mijn schuld"
+  ],
+  "greeting": [
+    "hallo", "hoi", "hey", "hi", "goedemorgen", "goedemiddag", "goedenavond", "dag", "yo", "hai",
+    "alles goed", "hoe gaat het", "aangenaam", "leuk je te ontmoeten"
+  ],
+  "farewell": [
+    "doei", "dag", "tot ziens", "tot later", "later", "bye", "ciao", "adios", "tot de volgende keer",
+    "fijne dag", "fijne avond", "welterusten", "slaap lekker", "tot morgen"
+  ],
+  "request": [
+    "alsjeblieft", "please", "kun je", "wil je", "zou je", "mag ik", "is het mogelijk", "graag", "help",
+    "assisteren", "ondersteunen", "verzoek", "vraag", "behoefte"
+  ],
+  "opinion": [
+    "ik denk", "ik vind", "volgens mij", "naar mijn mening", "mijns inziens", "ik geloof", "ik ben van mening",
+    "mijn idee", "mijn gedachte", "mijn visie", "persoonlijk", "wat mij betreft"
+  ],
+  "suggestion": [
+    "misschien kunnen we", "wat dacht je van", "heb je gedacht aan", "zou je niet", "wellicht is het beter",
+    "ik stel voor", "suggestie", "idee", "tip", "advies", "raad", "aanbeveling"
+  ],
+  "confusion": [
+    "ik snap het niet", "begrijp ik niet", "verwarrend", "onduidelijk", "wat bedoel je", "hoe bedoel je",
+    "pardon", "huh", "eh", "wat", "hoezo", "waarom", "hoe dan"
+  ],
+  "confirmation": [
+    "echt waar", "zeker weten", "absoluut", "zonder twijfel", "100 procent", "gegarandeerd", "vast en zeker",
+    "dat staat vast", "dat is zeker", "ongetwijfeld", "beslist", "zeker en vast"
+  ],
+  "denial": [
+    "dat is niet waar", "klopt niet", "onjuist", "incorrect", "fout", "niet juist", "niet correct", "nee hoor",
+    "absoluut niet", "zeker niet", "in geen geval", "nooit", "geen sprake van"
+  ],
+  "hesitation": [
+    "uhm", "eh", "euh", "hmm", "nou", "tja", "weet je", "zeg maar", "eigenlijk", "om eerlijk te zijn",
+    "laat me denken", "even nadenken", "momentje", "wacht even", "hoe zeg je dat"
+  ]
+}

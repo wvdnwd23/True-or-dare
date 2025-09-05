@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Prevent all network access -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <!-- No trusted certificates defined -->
+        </trust-anchors>
+    </base-config>
+    <!-- No domain-specific configurations -->
+</network-security-config>
