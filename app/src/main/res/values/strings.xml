@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Truth or Dare Deluxe</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Welkom bij Truth or Dare Deluxe</string>
+    <string name="onboarding_privacy">Volledig offline. Jouw privacy staat voorop.</string>
+    <string name="onboarding_get_started">Aan de slag</string>
+    
+    <!-- Players -->
+    <string name="players_title">Spelers</string>
+    <string name="players_add">Voeg speler toe</string>
+    <string name="players_start">Start spel</string>
+    <string name="players_min_required">Minimaal 2 spelers nodig</string>
+    
+    <!-- Categories -->
+    <string name="categories_title">Categorieën</string>
+    <string name="categories_select">Selecteer categorieën</string>
+    <string name="categories_continue">Doorgaan</string>
+    
+    <!-- Game -->
+    <string name="game_truth">Truth</string>
+    <string name="game_dare">Dare</string>
+    <string name="game_skip">Overslaan</string>
+    <string name="game_next">Volgende</string>
+    <string name="game_follow_up">Vervolgvraag</string>
+    <string name="game_star">⭐</string>
+    <string name="game_mic">🎤</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_voice_mode">Luister-modus</string>
+    <string name="settings_journal">Journal/Vault</string>
+    <string name="settings_haptics">Haptics</string>
+    <string name="settings_volume">Volume</string>
+    <string name="settings_deep_talk">Deep Talk niveau</string>
+    <string name="settings_wipe_data">Alle data wissen</string>
+    <string name="settings_wipe_confirm">Weet je het zeker?</string>
+    
+    <!-- Reflect -->
+    <string name="reflect_title">Reflectie</string>
+    <string name="reflect_summary">Sessie samenvatting</string>
+    <string name="reflect_save">Opslaan in journal</string>
+    <string name="reflect_share">Delen</string>
+    
+    <!-- Safety -->
+    <string name="safety_continue">Doorgaan</string>
+    <string name="safety_milder">Mildere vraag</string>
+    <string name="safety_skip">Overslaan</string>
+    
+    <!-- General -->
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="cancel">Annuleren</string>
+    <string name="save">Opslaan</string>
+    <string name="delete">Verwijderen</string>
+</resources>
