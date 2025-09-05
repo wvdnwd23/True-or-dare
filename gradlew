@@ -36,7 +36,7 @@ while [ -h "$PRG" ] ; do
     fi
 done
 SAVED="`pwd`"
-cd "`dirname &quot;$PRG&quot;`/" >/dev/null
+cd "`dirname "$PRG"`/" >/dev/null
 APP_HOME="`pwd -P`"
 cd "$SAVED" >/dev/null
 
@@ -123,7 +123,7 @@ fi
 
 # For Darwin, add options to specify how the application appears in the dock
 if $darwin; then
-    GRADLE_OPTS="$GRADLE_OPTS &quot;-Xdock:name=$APP_NAME&quot; &quot;-Xdock:icon=$APP_HOME/media/gradle.icns&quot;"
+    GRADLE_OPTS="$GRADLE_OPTS "-Xdock:name=$APP_NAME" "-Xdock:icon=$APP_HOME/media/gradle.icns""
 fi
 
 # For Cygwin or MSYS, switch paths to Windows format before running java
