@@ -9,7 +9,25 @@ A completely offline Truth or Dare app built with Kotlin and Jetpack Compose.
 - Follow-up questions based on answers
 - Adaptive learning to user preferences
 - Privacy-focused design
-- 12,000 questions across 12 categories
+- Enhanced question system with 4 game modes:
+  - Classic mode: 12,000 questions (1000 per category)
+  - Couples mode: 12,000 questions (1000 per category)
+  - Party mode: 12,000 questions (1000 per category)
+  - Drink mode: 1,200 questions (100 per category)
+
+## Game Modes
+
+### Classic Mode
+Traditional truth or dare gameplay with a wide variety of questions suitable for all ages and settings.
+
+### Couples Mode
+Romantic and relationship-focused questions designed for partners to learn more about each other and strengthen their bond.
+
+### Party Mode
+High-energy, fun questions perfect for group settings and social gatherings.
+
+### Drink Mode
+Adult-oriented questions with drinking challenges (all with non-alcoholic alternatives). Limited to 100 questions per category to encourage responsible drinking.
 
 ## Project Structure
 
@@ -59,6 +77,14 @@ The app follows a modular architecture with the following components:
 
 - **Theme**: Colors, typography, and styles
 
+## Question Generation
+
+The app includes an enhanced question generator that creates:
+- 1000 questions per category for Classic, Couples, and Party modes
+- 100 questions per category for Drink mode
+
+See [QUESTION_GENERATOR_README.md](QUESTION_GENERATOR_README.md) for details on how to use and customize the question generator.
+
 ## Building the Project
 
 ### Prerequisites
@@ -71,8 +97,18 @@ The app follows a modular architecture with the following components:
 
 1. Clone the repository
 2. Open the project in Android Studio
-3. Sync Gradle files
+3. Generate questions using the provided script:
+   ```
+   ./generate_enhanced_questions.sh
+   ```
 4. Build the project
+
+### Automated Build with GitHub Actions
+
+The project includes a GitHub Actions workflow that automatically:
+1. Generates all questions
+2. Builds the APK
+3. Makes the APK available as an artifact
 
 ## License
 
