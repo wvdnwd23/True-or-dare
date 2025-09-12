@@ -21,6 +21,8 @@ import com.wes.truthdare.ui.screens.players.PlayersScreen
 import com.wes.truthdare.ui.screens.players.PlayersViewModel
 import com.wes.truthdare.ui.screens.reflect.ReflectScreen
 import com.wes.truthdare.ui.screens.reflect.ReflectViewModel
+import com.wes.truthdare.ui.screens.report.ReportListScreen
+import com.wes.truthdare.ui.screens.report.ReportScreen
 import com.wes.truthdare.ui.screens.settings.SettingsScreen
 import com.wes.truthdare.ui.screens.settings.SettingsViewModel
 
@@ -70,6 +72,9 @@ fun TruthDareNavHost(
                 },
                 onNavigateToSettings = {
                     navController.navigate(NavRoutes.SETTINGS)
+                },
+                onNavigateToReports = {
+                    navController.navigate(NavRoutes.REPORT_LIST)
                 }
             )
         }
@@ -87,7 +92,7 @@ fun TruthDareNavHost(
                 viewModel = viewModel,
                 playerIds = playerIds,
                 onNavigateToGame = { sessionId ->
-                    navController.navigate("${NavRoutes.GAME}/$sessionId") {
+                    navController.navigate(NavRoutes.game(sessionId)) {
                         popUpTo(NavRoutes.CATEGORIES) { inclusive = true }
                     }
                 },
@@ -99,7 +104,7 @@ fun TruthDareNavHost(
         
         // Game screen
         composable(
-            route = "${NavRoutes.GAME}/{sessionId}",
+            route = NavRoutes.GAME,
             arguments = listOf(
                 navArgument("sessionId") { type = NavType.StringType }
             )
@@ -110,7 +115,7 @@ fun TruthDareNavHost(
                 viewModel = viewModel,
                 sessionId = sessionId,
                 onEndGame = { sessionId ->
-                    navController.navigate("${NavRoutes.REFLECT}/$sessionId") {
+                    navController.navigate(NavRoutes.reflect(sessionId)) {
                         popUpTo(NavRoutes.GAME) { inclusive = true }
                     }
                 },
@@ -132,13 +137,16 @@ fun TruthDareNavHost(
                     navController.navigate(NavRoutes.PLAYERS) {
                         popUpTo(NavRoutes.SETTINGS) { inclusive = true }
                     }
+                },
+                onNavigateToReports = {
+                    navController.navigate(NavRoutes.REPORT_LIST)
                 }
             )
         }
         
         // Reflect screen
         composable(
-            route = "${NavRoutes.REFLECT}/{sessionId}",
+            route = NavRoutes.REFLECT,
             arguments = listOf(
                 navArgument("sessionId") { type = NavType.StringType }
             )
@@ -157,6 +165,50 @@ fun TruthDareNavHost(
                     navController.navigate("${NavRoutes.CATEGORIES}/${playerIds.joinToString(",")}") {
                         popUpTo(NavRoutes.REFLECT) { inclusive = true }
                     }
+                },
+                onNavigateToReport = {
+                    navController.navigate(NavRoutes.REPORT) {
+                        popUpTo(NavRoutes.REFLECT) { inclusive = true }
+                    }
+                }
+            )
+        }
+        
+        // Report screen (for current session)
+        composable(NavRoutes.REPORT) {
+            ReportScreen(
+                onNavigateBack = {
+                    navController.navigate(NavRoutes.PLAYERS) {
+                        popUpTo(NavRoutes.REPORT) { inclusive = true }
+                    }
+                }
+            )
+        }
+        
+        // Report list screen
+        composable(NavRoutes.REPORT_LIST) {
+            ReportListScreen(
+                onNavigateBack = {
+                    navController.popBackStack()
+                },
+                onViewReport = { reportId ->
+                    navController.navigate(NavRoutes.reportDetail(reportId))
+                }
+            )
+        }
+        
+        // Report detail screen
+        composable(
+            route = NavRoutes.REPORT_DETAIL,
+            arguments = listOf(
+                navArgument("reportId") { type = NavType.StringType }
+            )
+        ) { backStackEntry ->
+            val reportId = backStackEntry.arguments?.getString("reportId") ?: ""
+            ReportScreen(
+                reportId = reportId,
+                onNavigateBack = {
+                    navController.popBackStack()
                 }
             )
         }
