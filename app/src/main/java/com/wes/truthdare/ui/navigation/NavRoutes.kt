@@ -10,4 +10,5 @@ object NavRoutes {
     const val GAME = "game"
     const val SETTINGS = "settings"
     const val REFLECT = "reflect"
+    const val DRINK_MODE = "drink_mode"
 }
