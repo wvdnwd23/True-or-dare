@@ -1,0 +1,299 @@
+{
+  "category": {
+    "id": "hot",
+    "name": "Hot 18+",
+    "emoji": "🔥",
+    "description": "Flirty and spicy content for adults",
+    "isAgeRestricted": true,
+    "requiresOptIn": false
+  },
+  "subOptions": [
+    {
+      "id": "flirty_truths",
+      "name": "Flirty Truths",
+      "description": "Revealing questions about attractions and desires"
+    },
+    {
+      "id": "kissing_touch_dares",
+      "name": "Kissing / Touch Dares",
+      "description": "Physical challenges involving kissing or touching"
+    },
+    {
+      "id": "preference_scale",
+      "name": "Preference Scale",
+      "description": "Rate your likes and dislikes on various topics"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hot_flirty_001",
+      "type": "TRUTH",
+      "text": "What's your biggest turn-on?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_002",
+      "type": "TRUTH",
+      "text": "What's the most romantic thing someone has done for you?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_003",
+      "type": "TRUTH",
+      "text": "What's your ideal date night?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_004",
+      "type": "TRUTH",
+      "text": "What's the most attractive quality in a person for you?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_005",
+      "type": "TRUTH",
+      "text": "Have you ever had a crush on someone in this room? Who?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_006",
+      "type": "TRUTH",
+      "text": "What's your favorite physical feature about yourself?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_007",
+      "type": "TRUTH",
+      "text": "What's the most adventurous place you've ever wanted to be intimate?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "HOT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_008",
+      "type": "TRUTH",
+      "text": "What's a fantasy you've never told anyone about?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "HOT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_009",
+      "type": "TRUTH",
+      "text": "What's the most attractive thing someone can wear?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_flirty_010",
+      "type": "TRUTH",
+      "text": "What's your idea of perfect physical chemistry with someone?",
+      "subOptionIds": ["flirty_truths"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_001",
+      "type": "DARE",
+      "text": "Kiss the hand of the person to your right.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_002",
+      "type": "DARE",
+      "text": "Give a shoulder massage to the person of your choice for 30 seconds.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_003",
+      "type": "DARE",
+      "text": "Whisper something flirty in the ear of the person to your left.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_004",
+      "type": "DARE",
+      "text": "Let someone trace a word on your back with their finger, and you have to guess what it is.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_005",
+      "type": "DARE",
+      "text": "Demonstrate your ideal romantic kiss on your hand.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_006",
+      "type": "DARE",
+      "text": "Let someone feed you a bite of food or a drink.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_007",
+      "type": "DARE",
+      "text": "Give a compliment while maintaining eye contact for 15 seconds with someone of your choice.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_008",
+      "type": "DARE",
+      "text": "Let someone draw a heart somewhere on your arm or hand.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_009",
+      "type": "DARE",
+      "text": "Slow dance with someone of your choice for 30 seconds.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_kiss_010",
+      "type": "DARE",
+      "text": "Let the group decide two people who have to hold hands until the next round.",
+      "subOptionIds": ["kissing_touch_dares"],
+      "targets": "GROUP",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_001",
+      "type": "TRUTH",
+      "text": "On a scale of 1-10, how important is physical attraction in a relationship for you?",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_002",
+      "type": "TRUTH",
+      "text": "Rate your kissing skills from 1-10 and explain why.",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_003",
+      "type": "TRUTH",
+      "text": "On a scale of 1-10, how adventurous are you in the bedroom?",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "HOT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_004",
+      "type": "TRUTH",
+      "text": "Rate your ideal first date from 1-10 in terms of romance level.",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_005",
+      "type": "TRUTH",
+      "text": "On a scale of 1-10, how important is emotional connection before physical intimacy?",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_006",
+      "type": "TRUTH",
+      "text": "Rate your preference from 1-10: lights on or lights off?",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_007",
+      "type": "TRUTH",
+      "text": "On a scale of 1-10, how comfortable are you discussing your desires with a partner?",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_008",
+      "type": "TRUTH",
+      "text": "Rate from 1-10: How important is it that your partner is adventurous?",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_009",
+      "type": "TRUTH",
+      "text": "On a scale of 1-10, how important is physical touch as a love language for you?",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "HIGH"
+    },
+    {
+      "id": "hot_pref_010",
+      "type": "TRUTH",
+      "text": "Rate from 1-10 how much you enjoy being the dominant one in a relationship.",
+      "subOptionIds": ["preference_scale"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "HIGH"
+    }
+  ]
+}

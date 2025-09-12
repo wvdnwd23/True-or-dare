@@ -1,0 +1,299 @@
+{
+  "category": {
+    "id": "trauma_healing",
+    "name": "Trauma & Healing",
+    "emoji": "❤️‍🩹",
+    "description": "Supportive questions about difficult experiences",
+    "isAgeRestricted": false,
+    "requiresOptIn": true
+  },
+  "subOptions": [
+    {
+      "id": "safe_sharing",
+      "name": "Safe Sharing",
+      "description": "Discuss difficult experiences in a supportive space"
+    },
+    {
+      "id": "triggers_comfort",
+      "name": "Triggers & Comfort",
+      "description": "Identify what upsets you and what helps"
+    },
+    {
+      "id": "consent_boundaries",
+      "name": "Consent & Boundaries",
+      "description": "Explore personal boundaries and respect"
+    }
+  ],
+  "questions": [
+    {
+      "id": "trauma_safe_001",
+      "type": "TRUTH",
+      "text": "What's something difficult you've experienced that you feel comfortable sharing with the group?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_002",
+      "type": "TRUTH",
+      "text": "What's a challenge you've overcome that you're proud of?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_003",
+      "type": "TRUTH",
+      "text": "What's something you wish people understood about a difficult experience you've had?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_004",
+      "type": "TRUTH",
+      "text": "What has helped you most during challenging times in your life?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_005",
+      "type": "TRUTH",
+      "text": "What's a lesson you've learned from a difficult experience?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_006",
+      "type": "TRUTH",
+      "text": "How has a challenging experience changed your perspective on life?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_007",
+      "type": "TRUTH",
+      "text": "What's something you're still working through that you'd like support with?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_008",
+      "type": "TRUTH",
+      "text": "What's a strength you've discovered in yourself through adversity?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_009",
+      "type": "TRUTH",
+      "text": "How do you practice self-compassion when dealing with difficult memories?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_safe_010",
+      "type": "TRUTH",
+      "text": "What would you tell someone going through something similar to what you've experienced?",
+      "subOptionIds": ["safe_sharing"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_001",
+      "type": "TRUTH",
+      "text": "What are some situations or topics that you find triggering, and how do you handle them?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_002",
+      "type": "TRUTH",
+      "text": "What helps you feel safe when you're feeling overwhelmed?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_003",
+      "type": "TRUTH",
+      "text": "What are some signs that you're feeling triggered or unsafe?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_004",
+      "type": "TRUTH",
+      "text": "What's a grounding technique that works for you when you're feeling anxious?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_005",
+      "type": "TRUTH",
+      "text": "What's something that always brings you comfort when you're feeling down?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_006",
+      "type": "TRUTH",
+      "text": "How do you recognize when you need to step back and take care of yourself?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_007",
+      "type": "TRUTH",
+      "text": "What's a healthy coping mechanism you've developed?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_008",
+      "type": "TRUTH",
+      "text": "What helps you feel reconnected to the present moment when difficult memories arise?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_009",
+      "type": "TRUTH",
+      "text": "What's something you do to take care of yourself after a difficult day?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_trigger_010",
+      "type": "TRUTH",
+      "text": "Who or what has been most helpful in your healing journey?",
+      "subOptionIds": ["triggers_comfort"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_001",
+      "type": "TRUTH",
+      "text": "How do you communicate your boundaries to others?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_002",
+      "type": "TRUTH",
+      "text": "What's a boundary you've learned to set that's important for your wellbeing?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_003",
+      "type": "TRUTH",
+      "text": "How do you recognize when someone is respecting your boundaries?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_004",
+      "type": "TRUTH",
+      "text": "What helps you feel comfortable saying 'no' when you need to?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_005",
+      "type": "TRUTH",
+      "text": "How do you check in with yourself about your own comfort levels in different situations?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_006",
+      "type": "TRUTH",
+      "text": "What's a boundary you wish you had set earlier in your life?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_007",
+      "type": "TRUTH",
+      "text": "How do you respond when someone crosses a boundary you've set?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_008",
+      "type": "TRUTH",
+      "text": "What's something you've learned about respecting others' boundaries?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_009",
+      "type": "TRUTH",
+      "text": "How do you check in with others about their comfort levels and boundaries?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "MEDIUM"
+    },
+    {
+      "id": "trauma_consent_010",
+      "type": "TRUTH",
+      "text": "What does consent mean to you in different types of relationships?",
+      "subOptionIds": ["consent_boundaries"],
+      "targets": "SINGLE",
+      "intensityLevel": "MEDIUM",
+      "contentFilterLevel": "MEDIUM"
+    }
+  ]
+}

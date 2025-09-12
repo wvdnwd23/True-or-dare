@@ -1,0 +1,299 @@
+{
+  "category": {
+    "id": "soft",
+    "name": "Soft",
+    "emoji": "🙂",
+    "description": "Light and fun questions to break the ice",
+    "isAgeRestricted": false,
+    "requiresOptIn": false
+  },
+  "subOptions": [
+    {
+      "id": "icebreakers",
+      "name": "Icebreakers",
+      "description": "Easy questions to get the conversation flowing"
+    },
+    {
+      "id": "funny_mini_dares",
+      "name": "Funny Mini-Dares",
+      "description": "Quick, harmless dares that will make everyone laugh"
+    },
+    {
+      "id": "would_you_rather",
+      "name": "Would You Rather",
+      "description": "Choose between two fun or silly options"
+    }
+  ],
+  "questions": [
+    {
+      "id": "soft_ice_001",
+      "type": "TRUTH",
+      "text": "What's the most unusual talent you have?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_002",
+      "type": "TRUTH",
+      "text": "If you could have dinner with any historical figure, who would it be and why?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_003",
+      "type": "TRUTH",
+      "text": "What's your go-to karaoke song?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_004",
+      "type": "TRUTH",
+      "text": "What's the most interesting place you've ever visited?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_005",
+      "type": "TRUTH",
+      "text": "What's your favorite childhood memory?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_006",
+      "type": "TRUTH",
+      "text": "If you could instantly learn any skill, what would it be?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_007",
+      "type": "TRUTH",
+      "text": "What's your favorite way to spend a rainy day?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_008",
+      "type": "TRUTH",
+      "text": "What's the best piece of advice you've ever received?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_009",
+      "type": "TRUTH",
+      "text": "What's your favorite board game or card game?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_ice_010",
+      "type": "TRUTH",
+      "text": "If you could have any animal as a pet, what would it be?",
+      "subOptionIds": ["icebreakers"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_001",
+      "type": "DARE",
+      "text": "Do your best impression of another player in the room.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_002",
+      "type": "DARE",
+      "text": "Sing the chorus of your favorite song right now.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_003",
+      "type": "DARE",
+      "text": "Show everyone your best dance move.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_004",
+      "type": "DARE",
+      "text": "Take a silly selfie with the person to your right.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_005",
+      "type": "DARE",
+      "text": "Make up a 30-second commercial about an object in the room.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_006",
+      "type": "DARE",
+      "text": "Speak in an accent of your choice until your next turn.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_007",
+      "type": "DARE",
+      "text": "Do 10 jumping jacks right now.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_008",
+      "type": "DARE",
+      "text": "Let another player style your hair however they want.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_009",
+      "type": "DARE",
+      "text": "Make up a short rap about the person to your left.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "PAIR",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_dare_010",
+      "type": "DARE",
+      "text": "Balance a book on your head and walk around the room.",
+      "subOptionIds": ["funny_mini_dares"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_001",
+      "type": "TRUTH",
+      "text": "Would you rather have the ability to fly or be invisible?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_002",
+      "type": "TRUTH",
+      "text": "Would you rather live in a world with no internet or no air conditioning/heating?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_003",
+      "type": "TRUTH",
+      "text": "Would you rather be able to speak every language in the world or play every musical instrument?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_004",
+      "type": "TRUTH",
+      "text": "Would you rather have a personal chef or a personal trainer?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_005",
+      "type": "TRUTH",
+      "text": "Would you rather live in a house on the beach or in a cabin in the mountains?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_006",
+      "type": "TRUTH",
+      "text": "Would you rather be famous for your intelligence or your looks?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_007",
+      "type": "TRUTH",
+      "text": "Would you rather never have to sleep again or never have to eat again?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_008",
+      "type": "TRUTH",
+      "text": "Would you rather be able to talk to animals or speak all human languages?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_009",
+      "type": "TRUTH",
+      "text": "Would you rather have unlimited money or unlimited time?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    },
+    {
+      "id": "soft_wyr_010",
+      "type": "TRUTH",
+      "text": "Would you rather be able to teleport or read minds?",
+      "subOptionIds": ["would_you_rather"],
+      "targets": "SINGLE",
+      "intensityLevel": "SOFT",
+      "contentFilterLevel": "LOW"
+    }
+  ]
+}
