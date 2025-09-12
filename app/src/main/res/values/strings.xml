@@ -48,10 +48,44 @@
     <string name="safety_milder">Mildere vraag</string>
     <string name="safety_skip">Overslaan</string>
     
+    <!-- Drink Mode -->
+    <string name="drink_mode_title">Drink Mode</string>
+    <string name="drink_mode_shot_counter">Shot Counter</string>
+    <string name="drink_mode_lie_cards">Lie Cards</string>
+    <string name="drink_mode_mini_games">Mini-Games</string>
+    <string name="drink_mode_rules">Drinking Rules</string>
+    <string name="drink_responsibly">Drink Responsibly</string>
+    <string name="water_reminder_title">Water Reminder</string>
+    <string name="designated_driver">Designated Driver</string>
+    <string name="session_limits">Session Limits</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="filter_by_difficulty">Filter by Difficulty</string>
+    <string name="view_instructions">View Instructions</string>
+    <string name="random_mini_game">Random Mini-Game</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="all_difficulties">All Difficulties</string>
+    <string name="additional_instructions">Additional Instructions</string>
+    <string name="got_it">Got it!</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="remind_later">Remind Later</string>
+    <string name="time_limit_minutes">Time Limit (minutes)</string>
+    <string name="drink_limit_count">Drink Limit (count)</string>
+    <string name="clear_limits">Clear Limits</string>
+    <string name="set_limits">Set Limits</string>
+    <string name="emergency_resources">Emergency Resources</string>
+    <string name="emergency_services">Emergency Services</string>
+    <string name="taxi_services">Taxi Services</string>
+    <string name="poison_control">Poison Control</string>
+    <string name="call">Call</string>
+    <string name="call_taxi">Call Taxi</string>
+    
     <!-- General -->
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
     <string name="cancel">Annuleren</string>
     <string name="save">Opslaan</string>
     <string name="delete">Verwijderen</string>
+    <string name="close">Close</string>
 </resources>

@@ -13,6 +13,8 @@ import androidx.navigation.navArgument
 import com.wes.truthdare.core.data.AppPreferences
 import com.wes.truthdare.ui.screens.categories.CategoriesScreen
 import com.wes.truthdare.ui.screens.categories.CategoriesViewModel
+import com.wes.truthdare.ui.screens.drink.DrinkModeScreen
+import com.wes.truthdare.ui.screens.drink.DrinkModeViewModel
 import com.wes.truthdare.ui.screens.game.GameScreen
 import com.wes.truthdare.ui.screens.game.GameViewModel
 import com.wes.truthdare.ui.screens.onboarding.OnboardingScreen
@@ -70,6 +72,9 @@ fun TruthDareNavHost(
                 },
                 onNavigateToSettings = {
                     navController.navigate(NavRoutes.SETTINGS)
+                },
+                onNavigateToDrinkMode = { playerIds ->
+                    navController.navigate("${NavRoutes.DRINK_MODE}/${playerIds.joinToString(",")}")
                 }
             )
         }
@@ -117,6 +122,23 @@ fun TruthDareNavHost(
                 onNavigateToSettings = {
                     navController.navigate(NavRoutes.SETTINGS)
                 }
+            )
+        }
+        
+        // Drink Mode screen
+        composable(
+            route = "${NavRoutes.DRINK_MODE}/{playerIds}",
+            arguments = listOf(
+                navArgument("playerIds") { type = NavType.StringType }
+            )
+        ) { backStackEntry ->
+            val playerIds = backStackEntry.arguments?.getString("playerIds")?.split(",") ?: emptyList()
+            val viewModel = hiltViewModel<DrinkModeViewModel>()
+            DrinkModeScreen(
+                onNavigateBack = {
+                    navController.popBackStack()
+                },
+                viewModel = viewModel
             )
         }
         

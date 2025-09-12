@@ -30,6 +30,7 @@ import androidx.compose.material.icons.filled.Add
 import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Delete
+import androidx.compose.material.icons.filled.LocalBar
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
@@ -38,6 +39,7 @@ import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Surface
@@ -69,7 +71,8 @@ import com.wes.truthdare.core.data.entities.PlayerEntity
 fun PlayersScreen(
     viewModel: PlayersViewModel,
     onNavigateToCategories: (List<String>) -> Unit,
-    onNavigateToSettings: () -> Unit
+    onNavigateToSettings: () -> Unit,
+    onNavigateToDrinkMode: (List<String>) -> Unit
 ) {
     val state by viewModel.state.collectAsState()
     var showAddPlayerDialog by remember { mutableStateOf(false) }
@@ -122,13 +125,33 @@ fun PlayersScreen(
             
             Spacer(modifier = Modifier.height(16.dp))
             
-            // Start game button
-            Button(
-                onClick = { onNavigateToCategories(state.selectedPlayerIds.toList()) },
-                enabled = state.selectedPlayerIds.size >= 2,
-                modifier = Modifier.fillMaxWidth()
+            // Game mode buttons
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                horizontalArrangement = Arrangement.spacedBy(8.dp)
             ) {
-                Text(stringResource(R.string.players_start))
+                // Classic mode button
+                Button(
+                    onClick = { onNavigateToCategories(state.selectedPlayerIds.toList()) },
+                    enabled = state.selectedPlayerIds.size >= 2,
+                    modifier = Modifier.weight(1f)
+                ) {
+                    Text(stringResource(R.string.players_start))
+                }
+                
+                // Drink mode button
+                OutlinedButton(
+                    onClick = { onNavigateToDrinkMode(state.selectedPlayerIds.toList()) },
+                    enabled = state.selectedPlayerIds.size >= 2,
+                    modifier = Modifier.weight(1f)
+                ) {
+                    Icon(
+                        Icons.Default.LocalBar,
+                        contentDescription = "Drink Mode",
+                        modifier = Modifier.padding(end = 4.dp)
+                    )
+                    Text("Drink Mode")
+                }
             }
             
             // Show message if not enough players are selected

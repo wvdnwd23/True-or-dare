@@ -10,6 +10,8 @@ A completely offline Truth or Dare app built with Kotlin and Jetpack Compose.
 - Adaptive learning to user preferences
 - Privacy-focused design
 - 12,000 questions across 12 categories
+- 100 mini-games in Drink Mode across three difficulty levels
+- Responsible drinking features including water reminders and session limits
 
 ## Project Structure
 
@@ -52,12 +54,36 @@ The app follows a modular architecture with the following components:
   - Players selection
   - Categories selection
   - Game screen
+  - Drink mode screen
   - Settings
   - Reflection/summary
 
 - **Navigation**: NavHost and routes
 
 - **Theme**: Colors, typography, and styles
+
+### Game Modes
+
+- **Classic Mode**: Traditional truth or dare questions
+- **Party Mode**: Fun and exciting questions for group settings
+- **Couples Mode**: Romantic and intimate questions for couples
+- **Family Mode**: Age-appropriate questions for family gatherings
+- **Teen Mode**: Questions suitable for teenagers
+- **Drink Mode**: Drinking games with 100 mini-games across three difficulty levels
+
+## Drink Mode Features
+
+The Drink Mode includes:
+
+- **100 Mini-Games**: Diverse mini-games across three difficulty levels (Easy, Medium, Hard)
+- **Shot Counter**: Keep track of shots taken during the game
+- **Lie Cards**: Allow players to avoid answering truthfully a limited number of times
+- **Drinking Rules**: Clear rules for the drinking game
+- **Responsible Drinking Features**:
+  - Water reminder notifications
+  - Designated driver functionality
+  - Session time and drink limits
+  - Emergency contacts access
 
 ## Building the Project
 
@@ -73,6 +99,10 @@ The app follows a modular architecture with the following components:
 2. Open the project in Android Studio
 3. Sync Gradle files
 4. Build the project
+
+## Documentation
+
+- See the [docs/mini-games](docs/mini-games) directory for detailed documentation on the mini-games feature
 
 ## License
 
