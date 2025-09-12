@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Truth or Dare Deluxe</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Willkommen bei Truth or Dare Deluxe</string>
+    <string name="onboarding_privacy">Komplett offline. Deine Privatsphäre steht an erster Stelle.</string>
+    <string name="onboarding_get_started">Loslegen</string>
+    
+    <!-- Players -->
+    <string name="players_title">Spieler</string>
+    <string name="players_add">Spieler hinzufügen</string>
+    <string name="players_start">Spiel starten</string>
+    <string name="players_min_required">Mindestens 2 Spieler erforderlich</string>
+    
+    <!-- Categories -->
+    <string name="categories_title">Kategorien</string>
+    <string name="categories_select">Kategorien auswählen</string>
+    <string name="categories_continue">Weiter</string>
+    
+    <!-- Game -->
+    <string name="game_truth">Wahrheit</string>
+    <string name="game_dare">Pflicht</string>
+    <string name="game_skip">Überspringen</string>
+    <string name="game_next">Weiter</string>
+    <string name="game_follow_up">Folgefrage</string>
+    <string name="game_star">⭐</string>
+    <string name="game_mic">🎤</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_voice_mode">Sprachmodus</string>
+    <string name="settings_journal">Journal/Tresor</string>
+    <string name="settings_haptics">Haptik</string>
+    <string name="settings_volume">Lautstärke</string>
+    <string name="settings_deep_talk">Deep Talk Niveau</string>
+    <string name="settings_wipe_data">Alle Daten löschen</string>
+    <string name="settings_wipe_confirm">Bist du sicher?</string>
+    
+    <!-- Reflect -->
+    <string name="reflect_title">Reflexion</string>
+    <string name="reflect_summary">Sitzungszusammenfassung</string>
+    <string name="reflect_save">Im Journal speichern</string>
+    <string name="reflect_share">Teilen</string>
+    
+    <!-- Safety -->
+    <string name="safety_continue">Fortfahren</string>
+    <string name="safety_milder">Mildere Frage</string>
+    <string name="safety_skip">Überspringen</string>
+    
+    <!-- General -->
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="delete">Löschen</string>
+    
+    <!-- Drink Mode -->
+    <string name="drink_mode_title">Trinkmodus</string>
+    <string name="drink_mode_shot_counter">Shot-Zähler</string>
+    <string name="drink_mode_lie_cards">Lügenkarten</string>
+    <string name="drink_mode_mini_games">Mini-Spiele</string>
+    <string name="drink_mode_rules">Trinkregeln</string>
+</resources>

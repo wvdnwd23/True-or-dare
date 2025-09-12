@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Game Mode Selection -->
+    <string name="game_mode_selection_title">Choose Game Mode</string>
+    <string name="select_game_mode">Select a Game Mode</string>
+    
+    <!-- Game Modes -->
+    <string name="classic_mode">Classic Mode</string>
+    <string name="drink_mode">Drink Mode</string>
+    <string name="party_mode">Party Mode</string>
+    <string name="couples_mode">Couples Mode</string>
+    <string name="family_mode">Family Mode</string>
+    <string name="teen_mode">Teen Mode</string>
+    <string name="hardcore_mode">Hardcore Mode</string>
+    
+    <!-- Age Restrictions -->
+    <string name="age_restricted">%1$d+</string>
+    <string name="age_confirmation_title">Age Confirmation</string>
+    <string name="age_confirmation_message">This game mode is intended for players aged %1$d and older. By continuing, you confirm that all players meet this age requirement.</string>
+    
+    <!-- Game Mode Descriptions -->
+    <string name="classic_mode_description">The traditional Truth or Dare game with a mix of fun and challenging questions.</string>
+    <string name="drink_mode_description">Party-oriented version with drinking rules, shot counter, and mini-games.</string>
+    <string name="party_mode_description">Fun, crazy, and group-based dares perfect for livening up any gathering.</string>
+    <string name="couples_mode_description">Romantic and intimate questions and dares for couples to enjoy together.</string>
+    <string name="family_mode_description">Safe, kid-friendly content suitable for family game nights.</string>
+    <string name="teen_mode_description">Age-appropriate questions and dares for teenagers.</string>
+    <string name="hardcore_mode_description">Extreme, adults-only dares and questions for the most daring players.</string>
+    
+    <!-- Buttons -->
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="start_game">Start Game</string>
+    <string name="back_to_menu">Back to Menu</string>
+    
+    <!-- Statistics -->
+    <string name="statistics">Statistics</string>
+    <string name="leaderboard">Leaderboard</string>
+    
+    <!-- New Features -->
+    <string name="daily_dare">Daily Dare</string>
+    <string name="custom_questions">Custom Questions</string>
+    <string name="premium_features">Premium Features</string>
+</resources>

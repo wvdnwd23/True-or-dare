@@ -19,6 +19,7 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Assessment
 import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.Save
 import androidx.compose.material.icons.filled.Share
@@ -56,7 +57,8 @@ fun ReflectScreen(
     viewModel: ReflectViewModel,
     sessionId: String,
     onNavigateToPlayers: () -> Unit,
-    onStartNewGame: (List<String>) -> Unit
+    onStartNewGame: (List<String>) -> Unit,
+    onNavigateToReport: () -> Unit
 ) {
     val uiState by viewModel.uiState.collectAsState()
     
@@ -138,7 +140,8 @@ fun ReflectScreen(
                         journalSaved = uiState.journalSaved,
                         onSaveToJournal = { viewModel.saveToJournal() },
                         onNewGame = { onStartNewGame(uiState.players.map { it.id }) },
-                        onNavigateToPlayers = onNavigateToPlayers
+                        onNavigateToPlayers = onNavigateToPlayers,
+                        onViewReport = onNavigateToReport
                     )
                 }
             }
@@ -484,11 +487,28 @@ fun ActionButtons(
     journalSaved: Boolean,
     onSaveToJournal: () -> Unit,
     onNewGame: () -> Unit,
-    onNavigateToPlayers: () -> Unit
+    onNavigateToPlayers: () -> Unit,
+    onViewReport: () -> Unit
 ) {
     Column(
         modifier = Modifier.fillMaxWidth()
     ) {
+        // View detailed report button
+        Button(
+            onClick = onViewReport,
+            modifier = Modifier.fillMaxWidth()
+        ) {
+            Icon(Icons.Default.Assessment, contentDescription = null)
+            
+            Spacer(modifier = Modifier.width(8.dp))
+            
+            Text(
+                text = stringResource(R.string.view_detailed_report)
+            )
+        }
+        
+        Spacer(modifier = Modifier.height(8.dp))
+        
         // Save to journal button
         if (journalEnabled) {
             Button(

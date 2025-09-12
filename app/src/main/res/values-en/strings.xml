@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Truth or Dare Deluxe</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Welcome to Truth or Dare Deluxe</string>
+    <string name="onboarding_privacy">Completely offline. Your privacy comes first.</string>
+    <string name="onboarding_get_started">Get Started</string>
+    
+    <!-- Players -->
+    <string name="players_title">Players</string>
+    <string name="players_add">Add Player</string>
+    <string name="players_start">Start Game</string>
+    <string name="players_min_required">Minimum 2 players required</string>
+    
+    <!-- Categories -->
+    <string name="categories_title">Categories</string>
+    <string name="categories_select">Select categories</string>
+    <string name="categories_continue">Continue</string>
+    
+    <!-- Game -->
+    <string name="game_truth">Truth</string>
+    <string name="game_dare">Dare</string>
+    <string name="game_skip">Skip</string>
+    <string name="game_next">Next</string>
+    <string name="game_follow_up">Follow-up Question</string>
+    <string name="game_star">⭐</string>
+    <string name="game_mic">🎤</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_voice_mode">Voice Mode</string>
+    <string name="settings_journal">Journal/Vault</string>
+    <string name="settings_haptics">Haptics</string>
+    <string name="settings_volume">Volume</string>
+    <string name="settings_deep_talk">Deep Talk Level</string>
+    <string name="settings_wipe_data">Wipe All Data</string>
+    <string name="settings_wipe_confirm">Are you sure?</string>
+    
+    <!-- Reflect -->
+    <string name="reflect_title">Reflection</string>
+    <string name="reflect_summary">Session Summary</string>
+    <string name="reflect_save">Save to Journal</string>
+    <string name="reflect_share">Share</string>
+    
+    <!-- Safety -->
+    <string name="safety_continue">Continue</string>
+    <string name="safety_milder">Milder Question</string>
+    <string name="safety_skip">Skip</string>
+    
+    <!-- General -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Drink Mode -->
+    <string name="drink_mode_title">Drink Mode</string>
+    <string name="drink_mode_shot_counter">Shot Counter</string>
+    <string name="drink_mode_lie_cards">Lie Cards</string>
+    <string name="drink_mode_mini_games">Mini-Games</string>
+    <string name="drink_mode_rules">Drinking Rules</string>
+    
+    <!-- Water Reminder -->
+    <string name="water_reminder_title">Time for water!</string>
+    <string name="water_reminder_message">Remember to drink water between alcoholic beverages. Stay hydrated for a safer and more enjoyable evening!</string>
+    <string name="remind_later">Remind me later</string>
+    <string name="got_it">Got it!</string>
+    
+    <!-- Responsible Drinking -->
+    <string name="designated_driver">Designated Driver</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="session_limits">Session Limits</string>
+    <string name="drink_responsibly">Drink Responsibly</string>
+    <string name="time_limit">Time Limit</string>
+    <string name="drink_limit">Drink Limit</string>
+    <string name="set_time_limit">Set Time Limit</string>
+    <string name="set_drink_limit">Set Drink Limit</string>
+    <string name="minutes">minutes</string>
+    <string name="drinks">drinks</string>
+</resources>

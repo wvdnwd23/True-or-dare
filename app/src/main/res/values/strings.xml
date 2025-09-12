@@ -42,6 +42,63 @@
     <string name="reflect_summary">Sessie samenvatting</string>
     <string name="reflect_save">Opslaan in journal</string>
     <string name="reflect_share">Delen</string>
+    <string name="view_detailed_report">Bekijk gedetailleerd rapport</string>
+    
+    <!-- Report -->
+    <string name="report_title">Sessie Rapport</string>
+    <string name="report_summary">Samenvatting</string>
+    <string name="player_statistics">Speler Statistieken</string>
+    <string name="highlights">Hoogtepunten</string>
+    <string name="rounds">Rondes</string>
+    <string name="export_report">Exporteer rapport</string>
+    <string name="export_format_message">Kies een formaat om te exporteren:</string>
+    <string name="export_pdf">Exporteer als PDF</string>
+    <string name="export_csv">Exporteer als CSV</string>
+    <string name="export_json">Exporteer als JSON</string>
+    <string name="share_report">Deel rapport</string>
+    <string name="no_report_available">Geen rapport beschikbaar</string>
+    <string name="report_settings">Rapport instellingen</string>
+    <string name="redact_answers">Antwoorden verbergen</string>
+    <string name="anonymize_names">Namen anonimiseren</string>
+    <string name="report_theme">Rapport thema</string>
+    <string name="light_theme">Licht thema</string>
+    <string name="dark_theme">Donker thema</string>
+    <string name="include_watermark">Watermerk toevoegen</string>
+    <string name="premium_required">Premium vereist om te verwijderen</string>
+    <string name="report_consent_title">Rapport privacy</string>
+    <string name="report_consent_message">Hoe wil je dat we omgaan met je rapport data?</string>
+    <string name="save_locally">Lokaal opslaan (max 5 rapporten)</string>
+    <string name="generate_once">Eenmalig genereren (niet opslaan)</string>
+    <string name="never_save_answers">Nooit antwoorden opslaan</string>
+    <string name="continue_button">Doorgaan</string>
+    <string name="game_mode">Spelmodus</string>
+    <string name="players">Spelers</string>
+    <string name="truths">Truths</string>
+    <string name="dares">Dares</string>
+    <string name="total_shots">Totaal shots</string>
+    <string name="truths_answered">Truths beantwoord</string>
+    <string name="dares_completed">Dares voltooid</string>
+    <string name="skipped">Overgeslagen</string>
+    <string name="completion_rate">Voltooiingspercentage</string>
+    <string name="shots_taken">Shots genomen</string>
+    <string name="answer_label">Antwoord: %1$s</string>
+    <string name="completed">Voltooid</string>
+    <string name="penalties">Penalties: %1$d</string>
+    <string name="expand">Uitklappen</string>
+    <string name="collapse">Inklappen</string>
+    
+    <!-- Report List -->
+    <string name="saved_reports">Opgeslagen rapporten</string>
+    <string name="no_saved_reports">Geen opgeslagen rapporten</string>
+    <string name="delete_report">Rapport verwijderen</string>
+    <string name="delete_report_confirmation">Weet je zeker dat je dit rapport wilt verwijderen?</string>
+    <string name="delete_all_reports">Alle rapporten verwijderen</string>
+    <string name="delete_all_reports_confirmation">Weet je zeker dat je alle rapporten wilt verwijderen?</string>
+    <string name="delete_all">Alles verwijderen</string>
+    <string name="game_mode_label">Modus: %1$s</string>
+    <string name="players_count">Spelers: %1$d</string>
+    <string name="rounds_count">Rondes: %1$d</string>
+    <string name="back">Terug</string>
     
     <!-- Safety -->
     <string name="safety_continue">Doorgaan</string>
