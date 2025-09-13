@@ -1,0 +1,866 @@
+[
+  {
+    "id": "self_growth-dare-goals-1",
+    "type": "dare",
+    "text": "Show the last 7th messages you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-2",
+    "type": "dare",
+    "text": "Show the last last searches you win.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-3",
+    "type": "dare",
+    "text": "Show the last 4th messages you win.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-4",
+    "type": "dare",
+    "text": "Show the last last searches you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-5",
+    "type": "dare",
+    "text": "Show the last 8th downloads you achieve.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-6",
+    "type": "dare",
+    "text": "Show the last 7th videos you experience.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-7",
+    "type": "dare",
+    "text": "Show the last 5th downloads you experience.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-8",
+    "type": "dare",
+    "text": "Show the last last messages you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-9",
+    "type": "dare",
+    "text": "Show the last last posts you master.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-10",
+    "type": "dare",
+    "text": "Show the last 3rd posts you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-11",
+    "type": "dare",
+    "text": "Show the last first searches you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-12",
+    "type": "dare",
+    "text": "Show the last 5th messages you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-13",
+    "type": "dare",
+    "text": "Show the last 10th downloads you master.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-14",
+    "type": "dare",
+    "text": "Show the last 2nd videos you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-15",
+    "type": "dare",
+    "text": "Show the last 8th songs you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-16",
+    "type": "dare",
+    "text": "Show the last last messages you discover.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-17",
+    "type": "dare",
+    "text": "Show the last 7th songs you learn.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-18",
+    "type": "dare",
+    "text": "Show the last 2nd songs you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-19",
+    "type": "dare",
+    "text": "Show the last 10th messages you experience.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-20",
+    "type": "dare",
+    "text": "Show the last 10th messages you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-21",
+    "type": "dare",
+    "text": "Show the last 8th messages you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-22",
+    "type": "dare",
+    "text": "Show the last 2nd photos you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-23",
+    "type": "dare",
+    "text": "Show the last 7th photos you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-24",
+    "type": "dare",
+    "text": "Show the last 3rd downloads you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-25",
+    "type": "dare",
+    "text": "Show the last first apps you master.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-26",
+    "type": "dare",
+    "text": "Show the last 7th searches you master.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-27",
+    "type": "dare",
+    "text": "Show the last last contacts you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-28",
+    "type": "dare",
+    "text": "Show the last 3rd searches you win.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-29",
+    "type": "dare",
+    "text": "Show the last 5th messages you discover.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-30",
+    "type": "dare",
+    "text": "Show the last 3rd searches you experience.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-31",
+    "type": "dare",
+    "text": "Show the last 3rd searches you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-32",
+    "type": "dare",
+    "text": "Show the last 5th emails you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-33",
+    "type": "dare",
+    "text": "Show the last 4th contacts you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-34",
+    "type": "dare",
+    "text": "Show the last 4th contacts you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-35",
+    "type": "dare",
+    "text": "Show the last 10th downloads you win.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-36",
+    "type": "dare",
+    "text": "Show the last 4th emails you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-37",
+    "type": "dare",
+    "text": "Show the last 6th songs you learn.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-38",
+    "type": "dare",
+    "text": "Show the last last songs you experience.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-39",
+    "type": "dare",
+    "text": "Show the last 7th messages you discover.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-40",
+    "type": "dare",
+    "text": "Show the last 8th posts you learn.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-41",
+    "type": "dare",
+    "text": "Show the last 7th searches you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-42",
+    "type": "dare",
+    "text": "Show the last 7th posts you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-43",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-44",
+    "type": "dare",
+    "text": "Show the last 2nd contacts you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-45",
+    "type": "dare",
+    "text": "Show the last last apps you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-46",
+    "type": "dare",
+    "text": "Show the last 10th searches you experience.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-47",
+    "type": "dare",
+    "text": "Show the last 10th posts you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-48",
+    "type": "dare",
+    "text": "Show the last first songs you discover.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-49",
+    "type": "dare",
+    "text": "Show the last 6th apps you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-50",
+    "type": "dare",
+    "text": "Show the last 6th emails you learn.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-51",
+    "type": "dare",
+    "text": "Show the last 4th contacts you win.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-52",
+    "type": "dare",
+    "text": "Show the last 2nd emails you achieve.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-53",
+    "type": "dare",
+    "text": "Show the last 6th photos you create.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-54",
+    "type": "dare",
+    "text": "Show the last 10th photos you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-55",
+    "type": "dare",
+    "text": "Show the last 4th apps you learn.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-goals-56",
+    "type": "dare",
+    "text": "Show the last last emails you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "goals"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-57",
+    "type": "dare",
+    "text": "Show the last 6th apps you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-58",
+    "type": "dare",
+    "text": "Show the last 8th downloads you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-59",
+    "type": "dare",
+    "text": "Show the last first songs you master.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-60",
+    "type": "dare",
+    "text": "Show the last first photos you learn.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-61",
+    "type": "dare",
+    "text": "Show the last 2nd searches you discover.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-62",
+    "type": "dare",
+    "text": "Show the last last downloads you achieve.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-63",
+    "type": "dare",
+    "text": "Show the last 6th emails you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-64",
+    "type": "dare",
+    "text": "Show the last 10th videos you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-65",
+    "type": "dare",
+    "text": "Show the last 10th messages you achieve.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-66",
+    "type": "dare",
+    "text": "Show the last 7th photos you experience.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-67",
+    "type": "dare",
+    "text": "Show the last 4th songs you meet.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-challenges-68",
+    "type": "dare",
+    "text": "Show the last 3rd songs you discover.",
+    "category": "self_growth",
+    "subOptions": [
+      "challenges"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-69",
+    "type": "dare",
+    "text": "Show the last 10th downloads you visit.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-70",
+    "type": "dare",
+    "text": "Show the last 6th songs you try.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-71",
+    "type": "dare",
+    "text": "Show the last 8th downloads you master.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_growth-dare-insights-72",
+    "type": "dare",
+    "text": "Show the last 2nd videos you discover.",
+    "category": "self_growth",
+    "subOptions": [
+      "insights"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

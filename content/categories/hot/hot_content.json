@@ -1,0 +1,546 @@
+{
+  "category": "hot",
+  "ageRestricted": true,
+  "items": [
+    {
+      "id": "hot-truth-1",
+      "type": "truth",
+      "text": "What's your biggest turn-on?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-2",
+      "type": "truth",
+      "text": "Have you ever had a crush on someone in this room?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-3",
+      "type": "truth",
+      "text": "What's the most romantic thing you've ever done for someone?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-4",
+      "type": "truth",
+      "text": "What's your idea of a perfect date?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-5",
+      "type": "truth",
+      "text": "What's the boldest move you've ever made on someone you were attracted to?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-6",
+      "type": "truth",
+      "text": "What's something you find attractive that most people might not?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-7",
+      "type": "truth",
+      "text": "What's the most embarrassing thing that's happened to you during a romantic encounter?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-8",
+      "type": "truth",
+      "text": "What's your favorite physical feature about yourself?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-9",
+      "type": "truth",
+      "text": "What's the most attractive quality in a potential partner?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-10",
+      "type": "truth",
+      "text": "Have you ever been caught in an intimate moment?",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-1",
+      "type": "dare",
+      "text": "Give a flirty compliment to each person in the room.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-2",
+      "type": "dare",
+      "text": "Show the group your best flirtatious look.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-3",
+      "type": "dare",
+      "text": "Demonstrate your best pick-up line on someone in the group.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-4",
+      "type": "dare",
+      "text": "Send a flirty text to the last person you texted (show the group first).",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-5",
+      "type": "dare",
+      "text": "Do your sexiest dance move.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-6",
+      "type": "dare",
+      "text": "Whisper something flirty in the ear of the person to your right.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-7",
+      "type": "dare",
+      "text": "Take a selfie in your most flattering pose and post it to social media with a flirty caption.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-8",
+      "type": "dare",
+      "text": "Let the group choose someone for you to serenade with a romantic song.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-9",
+      "type": "dare",
+      "text": "Feed a small bite of food to the person of your choice.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-10",
+      "type": "dare",
+      "text": "Give a brief shoulder massage to the person of your choice.",
+      "category": "hot",
+      "subOptions": ["flirty"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-11",
+      "type": "truth",
+      "text": "What's the most sensual experience you've ever had?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-12",
+      "type": "truth",
+      "text": "What's something that always puts you in the mood?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-13",
+      "type": "truth",
+      "text": "What's your favorite part of someone else's body?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-14",
+      "type": "truth",
+      "text": "What's the most intimate non-sexual thing you can do with a partner?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-15",
+      "type": "truth",
+      "text": "What's something you've always wanted to try but haven't yet?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-16",
+      "type": "truth",
+      "text": "What's your favorite form of physical touch?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-17",
+      "type": "truth",
+      "text": "What's the most unexpected place you've been turned on?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-18",
+      "type": "truth",
+      "text": "What's something that someone has done that immediately attracted you to them?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-19",
+      "type": "truth",
+      "text": "What's your favorite way to be touched?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-20",
+      "type": "truth",
+      "text": "What's the most sensual non-sexual experience you've had?",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-11",
+      "type": "dare",
+      "text": "Demonstrate what you consider to be the most attractive way to eat something.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-12",
+      "type": "dare",
+      "text": "Use only body language to show how you'd approach someone you're attracted to.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-13",
+      "type": "dare",
+      "text": "Describe the person to your left using only sensual adjectives.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-14",
+      "type": "dare",
+      "text": "Demonstrate your most seductive walk across the room.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-15",
+      "type": "dare",
+      "text": "Close your eyes and describe your perfect romantic evening in detail.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-16",
+      "type": "dare",
+      "text": "Show everyone your most attractive facial expression.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-17",
+      "type": "dare",
+      "text": "Trace the outline of someone's hand with your finger while maintaining eye contact.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-18",
+      "type": "dare",
+      "text": "Read a paragraph from your phone in your most seductive voice.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-19",
+      "type": "dare",
+      "text": "Let someone feed you a bite of food with your eyes closed.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-20",
+      "type": "dare",
+      "text": "Demonstrate how you would approach someone at a bar that you find attractive.",
+      "category": "hot",
+      "subOptions": ["sensual"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-21",
+      "type": "truth",
+      "text": "What's the most daring thing you've ever done?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-22",
+      "type": "truth",
+      "text": "What's something you've always wanted to do but were too afraid to try?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-23",
+      "type": "truth",
+      "text": "What's the boldest thing you've ever said to someone you were attracted to?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-24",
+      "type": "truth",
+      "text": "What's the most spontaneous romantic encounter you've had?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-25",
+      "type": "truth",
+      "text": "What's something you've done that you never thought you would?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-26",
+      "type": "truth",
+      "text": "What's the most adventurous place you've been intimate?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-27",
+      "type": "truth",
+      "text": "What's a bold move you wish someone would make on you?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-28",
+      "type": "truth",
+      "text": "What's the biggest risk you've taken that paid off?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-29",
+      "type": "truth",
+      "text": "What's something you've always wanted to ask a partner but haven't had the courage to?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-truth-30",
+      "type": "truth",
+      "text": "What's the most daring outfit you've ever worn?",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-21",
+      "type": "dare",
+      "text": "Text your crush or a recent match something bold (show the group first).",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-22",
+      "type": "dare",
+      "text": "Call someone you're attracted to and give them a genuine compliment.",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-23",
+      "type": "dare",
+      "text": "Let the group choose a flirty status for you to post on social media.",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-24",
+      "type": "dare",
+      "text": "Remove an article of clothing (nothing essential) for three rounds.",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-25",
+      "type": "dare",
+      "text": "Let someone in the group give you a hickey on your arm or hand.",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-26",
+      "type": "dare",
+      "text": "Demonstrate your most seductive dance move.",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-27",
+      "type": "dare",
+      "text": "Let the group pose you for a 'spicy' profile picture (keeping it appropriate).",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "medium",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-28",
+      "type": "dare",
+      "text": "Tell an attractive stranger (in person or via dating app) that you're playing Truth or Dare and ask for their number.",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-29",
+      "type": "dare",
+      "text": "Let someone blindfold you and try to identify them by touch (hands, arms, or face only).",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    },
+    {
+      "id": "hot-dare-30",
+      "type": "dare",
+      "text": "Take a body shot (with water) off someone's hand or arm.",
+      "category": "hot",
+      "subOptions": ["daring"],
+      "intensity": "hot",
+      "ageRestricted": true
+    }
+  ]
+}

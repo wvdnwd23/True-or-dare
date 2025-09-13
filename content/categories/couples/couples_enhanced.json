@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "couples-truth-bonding-1",
+    "type": "truth",
+    "text": "What's your go-to dancing when you're inspired?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-2",
+    "type": "truth",
+    "text": "What's your go-to painting when you're happy?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-3",
+    "type": "truth",
+    "text": "What's the biggest wrong decision you've made in a job?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-4",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a family situation?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-5",
+    "type": "truth",
+    "text": "What's the biggest miscalculation you've made in a personal matter?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-6",
+    "type": "truth",
+    "text": "What's your biggest phobia related to habits?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-7",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a personal matter?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-8",
+    "type": "truth",
+    "text": "What's the biggest wrong decision you've made in a social setting?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-9",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a friendship?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-10",
+    "type": "truth",
+    "text": "What's a disclosure you've kept from your colleague?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-11",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to hobbies?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-12",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your acquaintance?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-13",
+    "type": "truth",
+    "text": "What's the biggest fault you've made in a private moment?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-14",
+    "type": "truth",
+    "text": "What's a admission you've kept from your roommate?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-15",
+    "type": "truth",
+    "text": "What's a confession you've kept from your classmate?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-16",
+    "type": "truth",
+    "text": "What's a undisclosed fact you've kept from your classmate?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-17",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your acquaintance?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-bonding-18",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your parent?",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-19",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you try.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-20",
+    "type": "dare",
+    "text": "Show the last 2nd searches you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-21",
+    "type": "dare",
+    "text": "Text the 2nd person in your contacts something interesting (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-22",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something memorable (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-23",
+    "type": "dare",
+    "text": "Show the last last emails you visit.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-24",
+    "type": "dare",
+    "text": "Show the last 7th searches you experience.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-25",
+    "type": "dare",
+    "text": "Show the last 3rd photos you meet.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-26",
+    "type": "dare",
+    "text": "Show the last 8th contacts you learn.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-27",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something impressive (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-28",
+    "type": "dare",
+    "text": "Show the last 5th songs you try.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-29",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something interesting (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-30",
+    "type": "dare",
+    "text": "Show the last 7th emails you discover.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-31",
+    "type": "dare",
+    "text": "Show the last 10th apps you learn.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-32",
+    "type": "dare",
+    "text": "Show the last 2nd photos you learn.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-33",
+    "type": "dare",
+    "text": "Text the 2nd person in your contacts something memorable (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-34",
+    "type": "dare",
+    "text": "Show the last 8th messages you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-35",
+    "type": "dare",
+    "text": "Show the last 4th messages you meet.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-36",
+    "type": "dare",
+    "text": "Show the last 8th posts you discover.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-37",
+    "type": "dare",
+    "text": "Show the last first searches you meet.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-38",
+    "type": "dare",
+    "text": "Text the 4th person in your contacts something unexpected (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-39",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you meet.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-40",
+    "type": "dare",
+    "text": "Show the last 10th messages you try.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-41",
+    "type": "dare",
+    "text": "Show the last 2nd messages you experience.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-42",
+    "type": "dare",
+    "text": "Show the last first apps you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-43",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something unusual (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-44",
+    "type": "dare",
+    "text": "Show the last 4th searches you win.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-45",
+    "type": "truth",
+    "text": "What's your go-to swimming when you're creative?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-46",
+    "type": "truth",
+    "text": "What's your go-to singing when you're inspired?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-47",
+    "type": "truth",
+    "text": "What's the biggest wrong decision you've made in a private moment?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-48",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to friendship?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-49",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a job?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-50",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to personality?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-51",
+    "type": "truth",
+    "text": "What's your biggest panic related to personality?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-52",
+    "type": "truth",
+    "text": "What's the biggest oversight you've made in a relationship?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-53",
+    "type": "truth",
+    "text": "What's a undisclosed fact you've kept from your sibling?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-54",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a relationship?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-55",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your sibling?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-56",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your family member?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-romantic-57",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your classmate?",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-58",
+    "type": "dare",
+    "text": "Text the 7th person in your contacts something interesting (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-59",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something challenging (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-60",
+    "type": "dare",
+    "text": "Show the last 6th searches you experience.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-61",
+    "type": "dare",
+    "text": "Show the last 4th videos you experience.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-62",
+    "type": "dare",
+    "text": "Show the last 5th contacts you win.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-63",
+    "type": "dare",
+    "text": "Show the last first videos you try.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-64",
+    "type": "dare",
+    "text": "Show the last 6th videos you experience.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-65",
+    "type": "dare",
+    "text": "Show the last 3rd apps you learn.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-66",
+    "type": "dare",
+    "text": "Text the 4th person in your contacts something interesting (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-67",
+    "type": "dare",
+    "text": "Show the last 10th contacts you meet.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-68",
+    "type": "dare",
+    "text": "Show the last 7th songs you discover.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-69",
+    "type": "dare",
+    "text": "Show the last first posts you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-70",
+    "type": "dare",
+    "text": "Show the last first videos you meet.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-71",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you discover.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-72",
+    "type": "dare",
+    "text": "Show the last last videos you discover.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-73",
+    "type": "dare",
+    "text": "Show the last 10th apps you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-74",
+    "type": "dare",
+    "text": "Text the last person in your contacts something impressive (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-75",
+    "type": "dare",
+    "text": "Show the last first downloads you visit.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-76",
+    "type": "dare",
+    "text": "Show the last 3rd apps you try.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-77",
+    "type": "dare",
+    "text": "Show the last first songs you experience.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-78",
+    "type": "dare",
+    "text": "Show the last 7th emails you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-79",
+    "type": "truth",
+    "text": "What's your go-to dancing when you're curious?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-80",
+    "type": "truth",
+    "text": "What's your go-to reading when you're excited?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-81",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your parent?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-82",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a friendship?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-83",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your colleague?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-84",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a family situation?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-85",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your neighbor?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-86",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your friend?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-87",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your neighbor?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-88",
+    "type": "truth",
+    "text": "What's your biggest worry related to childhood?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-truth-playful-89",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your partner?",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-90",
+    "type": "dare",
+    "text": "Show the last 10th contacts you try.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-91",
+    "type": "dare",
+    "text": "Show the last 7th songs you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-92",
+    "type": "dare",
+    "text": "Show the last first songs you meet.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-93",
+    "type": "dare",
+    "text": "Show the last 2nd messages you try.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-94",
+    "type": "dare",
+    "text": "Show the last 3rd videos you meet.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-95",
+    "type": "dare",
+    "text": "Show the last 7th emails you learn.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-96",
+    "type": "dare",
+    "text": "Text the 4th person in your contacts something challenging (show the group before sending).",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-97",
+    "type": "dare",
+    "text": "Show the last 4th downloads you try.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-98",
+    "type": "dare",
+    "text": "Show the last 6th searches you visit.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-99",
+    "type": "dare",
+    "text": "Show the last 10th searches you visit.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-100",
+    "type": "dare",
+    "text": "Show the last first downloads you win.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-101",
+    "type": "dare",
+    "text": "Show the last 7th messages you create.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-102",
+    "type": "dare",
+    "text": "Show the last 10th contacts you create.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-103",
+    "type": "dare",
+    "text": "Show the last 5th songs you visit.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-104",
+    "type": "dare",
+    "text": "Show the last 2nd emails you try.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-105",
+    "type": "dare",
+    "text": "Show the last 10th songs you master.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-106",
+    "type": "dare",
+    "text": "Show the last 6th posts you win.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-107",
+    "type": "dare",
+    "text": "Show the last 2nd messages you discover.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-108",
+    "type": "dare",
+    "text": "Show the last 7th downloads you meet.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-109",
+    "type": "dare",
+    "text": "Show the last 6th photos you achieve.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-110",
+    "type": "dare",
+    "text": "Show the last 2nd emails you create.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-111",
+    "type": "dare",
+    "text": "Show the last 5th emails you master.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-112",
+    "type": "dare",
+    "text": "Show the last 10th posts you master.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-113",
+    "type": "dare",
+    "text": "Show the last 4th searches you create.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-114",
+    "type": "dare",
+    "text": "Show the last last messages you experience.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-115",
+    "type": "dare",
+    "text": "Show the last 5th messages you master.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-116",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you master.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-117",
+    "type": "dare",
+    "text": "Show the last last songs you try.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-118",
+    "type": "dare",
+    "text": "Show the last 8th contacts you discover.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-119",
+    "type": "dare",
+    "text": "Show the last 5th posts you discover.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-120",
+    "type": "dare",
+    "text": "Show the last 3rd songs you experience.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-121",
+    "type": "dare",
+    "text": "Show the last 4th videos you win.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-122",
+    "type": "dare",
+    "text": "Show the last last searches you visit.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-123",
+    "type": "dare",
+    "text": "Show the last 3rd searches you visit.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-124",
+    "type": "dare",
+    "text": "Show the last first videos you master.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-125",
+    "type": "dare",
+    "text": "Show the last first apps you try.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-126",
+    "type": "dare",
+    "text": "Show the last 8th messages you master.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-127",
+    "type": "dare",
+    "text": "Show the last 8th songs you meet.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-bonding-128",
+    "type": "dare",
+    "text": "Show the last 6th photos you win.",
+    "category": "couples",
+    "subOptions": [
+      "bonding"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-129",
+    "type": "dare",
+    "text": "Show the last 2nd videos you meet.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-130",
+    "type": "dare",
+    "text": "Show the last 6th photos you visit.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-131",
+    "type": "dare",
+    "text": "Show the last 3rd emails you try.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-132",
+    "type": "dare",
+    "text": "Show the last last songs you discover.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-romantic-133",
+    "type": "dare",
+    "text": "Show the last 3rd searches you try.",
+    "category": "couples",
+    "subOptions": [
+      "romantic"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-134",
+    "type": "dare",
+    "text": "Show the last first messages you discover.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-135",
+    "type": "dare",
+    "text": "Show the last 8th messages you learn.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-136",
+    "type": "dare",
+    "text": "Show the last 6th searches you discover.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples-dare-playful-137",
+    "type": "dare",
+    "text": "Show the last last songs you visit.",
+    "category": "couples",
+    "subOptions": [
+      "playful"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

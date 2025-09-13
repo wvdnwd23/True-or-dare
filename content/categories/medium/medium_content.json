@@ -1,0 +1,485 @@
+{
+  "category": "medium",
+  "items": [
+    {
+      "id": "medium-truth-1",
+      "type": "truth",
+      "text": "What's something you've never told anyone in this room?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-2",
+      "type": "truth",
+      "text": "What's the most rebellious thing you've ever done?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-3",
+      "type": "truth",
+      "text": "What's a controversial opinion you have?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-4",
+      "type": "truth",
+      "text": "What's something you've done that you hope your parents never find out about?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-5",
+      "type": "truth",
+      "text": "What's the biggest lie you've ever told?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-6",
+      "type": "truth",
+      "text": "What's the most embarrassing thing that's happened to you in front of a crush?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-7",
+      "type": "truth",
+      "text": "What's a secret you've kept from your best friend?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-8",
+      "type": "truth",
+      "text": "What's the most embarrassing thing in your search history?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-9",
+      "type": "truth",
+      "text": "What's something you've done that you immediately regretted?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-10",
+      "type": "truth",
+      "text": "What's the most childish thing you still do?",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-1",
+      "type": "dare",
+      "text": "Text the 10th person in your contacts something embarrassing (show the group before sending).",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-2",
+      "type": "dare",
+      "text": "Let someone go through your phone for 1 minute.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-3",
+      "type": "dare",
+      "text": "Call a friend and sing them happy birthday, regardless of whether it's their birthday.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-4",
+      "type": "dare",
+      "text": "Post an embarrassing selfie on your social media of the group's choosing.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-5",
+      "type": "dare",
+      "text": "Let the group create a new dating profile bio for you.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-6",
+      "type": "dare",
+      "text": "Show the last five people you texted and what the messages said.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-7",
+      "type": "dare",
+      "text": "Let the group pose you for a new profile picture.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-8",
+      "type": "dare",
+      "text": "Do 20 push-ups or 30 jumping jacks.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-9",
+      "type": "dare",
+      "text": "Let someone draw on your face with a washable marker.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-10",
+      "type": "dare",
+      "text": "Eat a spoonful of a condiment of the group's choosing.",
+      "category": "medium",
+      "subOptions": ["challenging"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-11",
+      "type": "truth",
+      "text": "What's the most entertaining thing you've witnessed?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-12",
+      "type": "truth",
+      "text": "What's the funniest prank you've ever pulled or had pulled on you?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-13",
+      "type": "truth",
+      "text": "What's your go-to story when you want to make people laugh?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-14",
+      "type": "truth",
+      "text": "What's the most embarrassing thing you've done in public?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-15",
+      "type": "truth",
+      "text": "What's the most ridiculous argument you've ever had?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-16",
+      "type": "truth",
+      "text": "What's the weirdest thing you've ever eaten?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-17",
+      "type": "truth",
+      "text": "What's the strangest talent you have?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-18",
+      "type": "truth",
+      "text": "What's the most embarrassing nickname you've ever had?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-19",
+      "type": "truth",
+      "text": "What's the most ridiculous thing you've done to impress someone?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-20",
+      "type": "truth",
+      "text": "What's the funniest misunderstanding you've ever had?",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-11",
+      "type": "dare",
+      "text": "Do an impression of another player until someone correctly guesses who it is.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-12",
+      "type": "dare",
+      "text": "Make up a 30-second commercial about an object in the room.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-13",
+      "type": "dare",
+      "text": "Perform a dramatic reading of the last text message you sent.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-14",
+      "type": "dare",
+      "text": "Try to make the person to your right laugh without touching them.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-15",
+      "type": "dare",
+      "text": "Pretend to be a celebrity of the group's choosing for the next three minutes.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-16",
+      "type": "dare",
+      "text": "Sing a song in the style of an opera singer.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-17",
+      "type": "dare",
+      "text": "Act out a scene from your favorite movie without using any words.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-18",
+      "type": "dare",
+      "text": "Do your best stand-up comedy routine for one minute.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-19",
+      "type": "dare",
+      "text": "Make up a rap about the person sitting across from you.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-20",
+      "type": "dare",
+      "text": "Play air guitar to a song of the group's choosing.",
+      "category": "medium",
+      "subOptions": ["entertaining"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-21",
+      "type": "truth",
+      "text": "What's something that would surprise people to learn about you?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-22",
+      "type": "truth",
+      "text": "What's a belief you had as a child that you later found out was completely wrong?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-23",
+      "type": "truth",
+      "text": "What's the most spontaneous thing you've ever done?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-24",
+      "type": "truth",
+      "text": "What's a strange coincidence you've experienced?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-25",
+      "type": "truth",
+      "text": "What's something you're secretly good at?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-26",
+      "type": "truth",
+      "text": "What's the most out-of-character thing you've ever done?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-27",
+      "type": "truth",
+      "text": "What's a weird food combination that you enjoy?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-28",
+      "type": "truth",
+      "text": "What's something you believed for way too long before finding out it wasn't true?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-29",
+      "type": "truth",
+      "text": "What's the strangest compliment you've ever received?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-truth-30",
+      "type": "truth",
+      "text": "What's a random skill you have that most people don't know about?",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-21",
+      "type": "dare",
+      "text": "Send a text to a random contact asking for their favorite recipe.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-22",
+      "type": "dare",
+      "text": "Call the 5th contact in your phone and speak in a different accent.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-23",
+      "type": "dare",
+      "text": "Go outside and howl at the moon (or sky) for 10 seconds.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-24",
+      "type": "dare",
+      "text": "Put ice cubes down your shirt and keep them there until they melt.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-25",
+      "type": "dare",
+      "text": "Speak in rhymes for the next three rounds.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-26",
+      "type": "dare",
+      "text": "Let the group mix a drink with three random ingredients (non-alcoholic) and take a sip.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-27",
+      "type": "dare",
+      "text": "Wear your clothes backwards for the next three rounds.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-28",
+      "type": "dare",
+      "text": "Let someone blindfold you and try to identify three objects by touch.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-29",
+      "type": "dare",
+      "text": "Exchange an article of clothing with the person to your left until your next turn.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    },
+    {
+      "id": "medium-dare-30",
+      "type": "dare",
+      "text": "Let the group give you a new hairstyle that you must keep for at least three rounds.",
+      "category": "medium",
+      "subOptions": ["surprising"],
+      "intensity": "medium"
+    }
+  ]
+}

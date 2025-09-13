@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Truth or Dare - Multi-Select Categories</title>
+    <style>
+        :root {
+            --primary-color: #6200ee;
+            --primary-dark: #3700b3;
+            --primary-light: #bb86fc;
+            --secondary-color: #03dac6;
+            --secondary-dark: #018786;
+            --error-color: #b00020;
+            --background: #ffffff;
+            --surface: #ffffff;
+            --on-primary: #ffffff;
+            --on-secondary: #000000;
+            --on-background: #000000;
+            --on-surface: #000000;
+            --on-error: #ffffff;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--background);
+            color: var(--on-background);
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .category-card {
+            background-color: var(--surface);
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+        .category-card.selected {
+            background-color: var(--primary-light);
+            color: var(--on-primary);
+        }
+
+        .category-icon {
+            font-size: 24px;
+            margin-right: 12px;
+        }
+
+        .category-info {
+            flex-grow: 1;
+        }
+
+        .category-name {
+            font-weight: bold;
+            margin-bottom: 4px;
+        }
+
+        .category-badge {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            font-size: 12px;
+            padding: 3px 6px;
+            border-radius: 12px;
+            background-color: var(--error-color);
+            color: var(--on-error);
+        }
+
+        .sub-options {
+            margin-top: 10px;
+            display: none;
+        }
+
+        .category-card.selected .sub-options {
+            display: block;
+        }
+
+        .sub-option-chip {
+            display: inline-block;
+            background-color: #e0e0e0;
+            border-radius: 16px;
+            padding: 6px 12px;
+            margin-right: 8px;
+            margin-bottom: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .sub-option-chip.selected {
+            background-color: var(--secondary-color);
+            color: var(--on-secondary);
+        }
+
+        .selection-summary {
+            background-color: var(--surface);
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .clear-all {
+            color: var(--primary-color);
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .quick-picks {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            overflow-x: auto;
+            padding-bottom: 10px;
+        }
+
+        .quick-pick-button {
+            background-color: var(--primary-color);
+            color: var(--on-primary);
+            border: none;
+            border-radius: 20px;
+            padding: 8px 16px;
+            font-weight: bold;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        .intensity-slider-container {
+            margin-bottom: 30px;
+        }
+
+        .intensity-slider {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        .intensity-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 5px;
+        }
+
+        .preview-panel {
+            background-color: var(--surface);
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+        }
+
+        .preview-item {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .preview-item:last-child {
+            margin-bottom: 0;
+            padding-bottom: 0;
+            border-bottom: none;
+        }
+
+        .preview-type {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .preview-type.truth {
+            background-color: #e3f2fd;
+            color: #1565c0;
+        }
+
+        .preview-type.dare {
+            background-color: #fce4ec;
+            color: #c2185b;
+        }
+
+        .start-button {
+            background-color: var(--primary-color);
+            color: var(--on-primary);
+            border: none;
+            border-radius: 4px;
+            padding: 12px 24px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .opt-in-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: var(--surface);
+            border-radius: 8px;
+            padding: 20px;
+            max-width: 400px;
+            width: 90%;
+        }
+
+        .modal-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .modal-description {
+            margin-bottom: 20px;
+        }
+
+        .modal-buttons {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+
+        .modal-button {
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .modal-button.cancel {
+            background-color: transparent;
+            color: var(--primary-color);
+            border: none;
+        }
+
+        .modal-button.confirm {
+            background-color: var(--primary-color);
+            color: var(--on-primary);
+            border: none;
+        }
+    </style>
+<script src="https://sites.super.myninja.ai/_assets/ninja-daytona-script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Truth or Dare</h1>
+            <p>Select categories and options to customize your game</p>
+        </header>
+
+        <div class="quick-picks">
+            <button class="quick-pick-button">Party Mix</button>
+            <button class="quick-pick-button">Deep Conversations</button>
+            <button class="quick-pick-button">Couples Edition</button>
+        </div>
+
+        <div class="selection-summary">
+            <div class="summary-text">Selected: 0 categories • 0 sub-options</div>
+            <button class="clear-all">Clear All</button>
+        </div>
+
+        <div class="intensity-slider-container">
+            <div>Intensity</div>
+            <input type="range" min="1" max="3" value="2" class="intensity-slider" id="intensitySlider">
+            <div class="intensity-labels">
+                <div>Soft</div>
+                <div>Medium</div>
+                <div>Hot</div>
+            </div>
+        </div>
+
+        <div class="category-grid">
+            <!-- Soft Category -->
+            <div class="category-card" data-category="soft">
+                <div class="category-icon">😊</div>
+                <div class="category-info">
+                    <div class="category-name">Soft</div>
+                    <div class="category-description">Light-hearted, fun questions and dares</div>
+                    <div class="sub-options">
+                        <div class="sub-option-chip" data-sub-option="icebreaker">Icebreaker</div>
+                        <div class="sub-option-chip" data-sub-option="silly">Silly</div>
+                        <div class="sub-option-chip" data-sub-option="creative">Creative</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Medium Category -->
+            <div class="category-card" data-category="medium">
+                <div class="category-icon">😏</div>
+                <div class="category-info">
+                    <div class="category-name">Medium</div>
+                    <div class="category-description">Moderately challenging questions and dares</div>
+                    <div class="sub-options">
+                        <div class="sub-option-chip" data-sub-option="challenging">Challenging</div>
+                        <div class="sub-option-chip" data-sub-option="entertaining">Entertaining</div>
+                        <div class="sub-option-chip" data-sub-option="surprising">Surprising</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Hot Category -->
+            <div class="category-card" data-category="hot">
+                <div class="category-icon">🔥</div>
+                <div class="category-info">
+                    <div class="category-name">Hot</div>
+                    <div class="category-description">Spicy questions and dares</div>
+                    <div class="sub-options">
+                        <div class="sub-option-chip" data-sub-option="flirty">Flirty</div>
+                        <div class="sub-option-chip" data-sub-option="sensual">Sensual</div>
+                        <div class="sub-option-chip" data-sub-option="daring">Daring</div>
+                    </div>
+                </div>
+                <div class="category-badge">18+</div>
+            </div>
+
+            <!-- Extreme Category -->
+            <div class="category-card" data-category="extreme">
+                <div class="category-icon">🌶️</div>
+                <div class="category-info">
+                    <div class="category-name">Extreme</div>
+                    <div class="category-description">The most intense questions and dares</div>
+                    <div class="sub-options">
+                        <div class="sub-option-chip" data-sub-option="wild">Wild</div>
+                        <div class="sub-option-chip" data-sub-option="risque">Risqué</div>
+                        <div class="sub-option-chip" data-sub-option="uninhibited">Uninhibited</div>
+                    </div>
+                </div>
+                <div class="category-badge">18+</div>
+            </div>
+
+            <!-- More categories would be added here -->
+        </div>
+
+        <div class="preview-panel">
+            <h3>Preview</h3>
+            <div class="preview-item">
+                <span class="preview-type truth">Truth</span>
+                <div class="preview-text">What's your favorite way to spend a lazy Sunday?</div>
+            </div>
+            <div class="preview-item">
+                <span class="preview-type dare">Dare</span>
+                <div class="preview-text">Do your best impression of a celebrity for 30 seconds.</div>
+            </div>
+            <div class="preview-item">
+                <span class="preview-type truth">Truth</span>
+                <div class="preview-text">What's the silliest thing you've ever done in public?</div>
+            </div>
+        </div>
+
+        <button class="start-button">Start Game</button>
+    </div>
+
+    <!-- Opt-in Modal for sensitive categories -->
+    <div class="opt-in-modal" id="optInModal">
+        <div class="modal-content">
+            <div class="modal-title">Content Warning</div>
+            <div class="modal-description">
+                You've selected a category that contains sensitive content related to trauma and healing. These questions may bring up difficult emotions or memories. Are you sure you want to include this category?
+            </div>
+            <div class="modal-buttons">
+                <button class="modal-button cancel">Cancel</button>
+                <button class="modal-button confirm">I Understand, Continue</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Simple interactive functionality for the prototype
+        document.addEventListener('DOMContentLoaded', function() {
+            // Category selection
+            const categoryCards = document.querySelectorAll('.category-card');
+            const subOptionChips = document.querySelectorAll('.sub-option-chip');
+            const summaryText = document.querySelector('.summary-text');
+            const clearAllButton = document.querySelector('.clear-all');
+            
+            // Track selections
+            let selectedCategories = 0;
+            let selectedSubOptions = 0;
+            
+            // Category card click handler
+            categoryCards.forEach(card => {
+                card.addEventListener('click', function() {
+                    // Check if this is a restricted category
+                    const isRestricted = this.querySelector('.category-badge') !== null;
+                    const categoryId = this.getAttribute('data-category');
+                    
+                    if (isRestricted && categoryId === 'trauma_healing') {
+                        // Show opt-in modal for trauma & healing
+                        document.getElementById('optInModal').style.display = 'flex';
+                        return;
+                    }
+                    
+                    // Toggle selection
+                    this.classList.toggle('selected');
+                    
+                    // Update count
+                    selectedCategories = document.querySelectorAll('.category-card.selected').length;
+                    updateSummary();
+                });
+            });
+            
+            // Sub-option chip click handler
+            subOptionChips.forEach(chip => {
+                chip.addEventListener('click', function(e) {
+                    // Prevent triggering the parent card's click event
+                    e.stopPropagation();
+                    
+                    // Toggle selection
+                    this.classList.toggle('selected');
+                    
+                    // Update count
+                    selectedSubOptions = document.querySelectorAll('.sub-option-chip.selected').length;
+                    updateSummary();
+                });
+            });
+            
+            // Clear all selections
+            clearAllButton.addEventListener('click', function() {
+                categoryCards.forEach(card => card.classList.remove('selected'));
+                subOptionChips.forEach(chip => chip.classList.remove('selected'));
+                selectedCategories = 0;
+                selectedSubOptions = 0;
+                updateSummary();
+            });
+            
+            // Update summary text
+            function updateSummary() {
+                summaryText.textContent = `Selected: ${selectedCategories} categories • ${selectedSubOptions} sub-options`;
+            }
+            
+            // Modal handlers
+            const optInModal = document.getElementById('optInModal');
+            const cancelButton = optInModal.querySelector('.cancel');
+            const confirmButton = optInModal.querySelector('.confirm');
+            
+            cancelButton.addEventListener('click', function() {
+                optInModal.style.display = 'none';
+            });
+            
+            confirmButton.addEventListener('click', function() {
+                optInModal.style.display = 'none';
+                // Find and select the trauma_healing category
+                const traumaCard = document.querySelector('[data-category="trauma_healing"]');
+                if (traumaCard) {
+                    traumaCard.classList.add('selected');
+                    selectedCategories = document.querySelectorAll('.category-card.selected').length;
+                    updateSummary();
+                }
+            });
+            
+            // Quick picks functionality
+            const quickPickButtons = document.querySelectorAll('.quick-pick-button');
+            
+            quickPickButtons.forEach((button, index) => {
+                button.addEventListener('click', function() {
+                    // Clear current selections
+                    clearAllButton.click();
+                    
+                    // Apply quick pick based on index
+                    if (index === 0) { // Party Mix
+                        selectCategories(['soft', 'medium', 'hot']);
+                    } else if (index === 1) { // Deep Conversations
+                        selectCategories(['deep_past', 'mental_health', 'self_growth', 'self_discovery']);
+                    } else if (index === 2) { // Couples Edition
+                        selectCategories(['couples', 'couples_hot']);
+                    }
+                });
+            });
+            
+            function selectCategories(categoryIds) {
+                categoryIds.forEach(id => {
+                    const card = document.querySelector(`[data-category="${id}"]`);
+                    if (card) {
+                        card.classList.add('selected');
+                    }
+                });
+                
+                selectedCategories = document.querySelectorAll('.category-card.selected').length;
+                updateSummary();
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,914 @@
+[
+  {
+    "id": "mental_health-truth-awareness-1",
+    "type": "truth",
+    "text": "What's a unknown aspect you've kept from your partner?",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-2",
+    "type": "dare",
+    "text": "Show the last 7th songs you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-3",
+    "type": "dare",
+    "text": "Show the last 8th downloads you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-4",
+    "type": "dare",
+    "text": "Show the last 7th apps you visit.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-5",
+    "type": "dare",
+    "text": "Show the last 5th songs you learn.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-6",
+    "type": "dare",
+    "text": "Show the last 8th messages you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-7",
+    "type": "dare",
+    "text": "Show the last 3rd messages you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-8",
+    "type": "dare",
+    "text": "Show the last last downloads you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-9",
+    "type": "dare",
+    "text": "Show the last 8th apps you create.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-10",
+    "type": "dare",
+    "text": "Show the last 2nd songs you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-11",
+    "type": "dare",
+    "text": "Show the last 4th downloads you discover.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-12",
+    "type": "dare",
+    "text": "Show the last 2nd songs you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-13",
+    "type": "dare",
+    "text": "Show the last 8th emails you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-14",
+    "type": "dare",
+    "text": "Show the last 5th videos you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-15",
+    "type": "dare",
+    "text": "Show the last 4th posts you learn.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-16",
+    "type": "dare",
+    "text": "Show the last first apps you create.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-17",
+    "type": "dare",
+    "text": "Show the last 4th apps you visit.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-truth-coping-18",
+    "type": "truth",
+    "text": "What's your biggest fear related to family?",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-19",
+    "type": "dare",
+    "text": "Show the last 6th downloads you try.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-20",
+    "type": "dare",
+    "text": "Show the last 4th photos you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-21",
+    "type": "dare",
+    "text": "Show the last 6th photos you master.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-22",
+    "type": "dare",
+    "text": "Show the last 8th searches you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-23",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you discover.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-24",
+    "type": "dare",
+    "text": "Show the last 4th searches you try.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-25",
+    "type": "dare",
+    "text": "Show the last 10th apps you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-26",
+    "type": "dare",
+    "text": "Show the last 6th photos you learn.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-27",
+    "type": "dare",
+    "text": "Show the last 2nd searches you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-28",
+    "type": "dare",
+    "text": "Show the last 10th apps you try.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-29",
+    "type": "dare",
+    "text": "Show the last 5th messages you learn.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-30",
+    "type": "dare",
+    "text": "Show the last 5th messages you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-31",
+    "type": "dare",
+    "text": "Show the last 3rd songs you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-32",
+    "type": "dare",
+    "text": "Show the last 4th messages you try.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-33",
+    "type": "dare",
+    "text": "Show the last 3rd emails you visit.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-34",
+    "type": "dare",
+    "text": "Show the last 5th photos you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-35",
+    "type": "dare",
+    "text": "Show the last 2nd apps you learn.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-36",
+    "type": "dare",
+    "text": "Show the last 8th messages you create.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-37",
+    "type": "dare",
+    "text": "Show the last 10th posts you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-38",
+    "type": "dare",
+    "text": "Show the last 8th videos you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-39",
+    "type": "dare",
+    "text": "Show the last 10th searches you try.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-40",
+    "type": "dare",
+    "text": "Show the last 2nd songs you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-41",
+    "type": "dare",
+    "text": "Show the last 2nd emails you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-42",
+    "type": "dare",
+    "text": "Show the last 5th messages you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-43",
+    "type": "dare",
+    "text": "Show the last 8th photos you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-44",
+    "type": "dare",
+    "text": "Show the last last searches you create.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-45",
+    "type": "dare",
+    "text": "Show the last last songs you master.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-46",
+    "type": "dare",
+    "text": "Show the last 10th posts you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-47",
+    "type": "dare",
+    "text": "Show the last 4th videos you master.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-48",
+    "type": "dare",
+    "text": "Show the last 8th photos you visit.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-49",
+    "type": "dare",
+    "text": "Show the last first searches you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-50",
+    "type": "dare",
+    "text": "Show the last 3rd posts you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-51",
+    "type": "dare",
+    "text": "Show the last 5th contacts you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-52",
+    "type": "dare",
+    "text": "Show the last 2nd videos you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-53",
+    "type": "dare",
+    "text": "Show the last 4th messages you create.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-54",
+    "type": "dare",
+    "text": "Show the last 4th downloads you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-55",
+    "type": "dare",
+    "text": "Show the last 10th emails you discover.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-56",
+    "type": "dare",
+    "text": "Show the last 3rd posts you master.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-57",
+    "type": "dare",
+    "text": "Show the last 5th contacts you visit.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-58",
+    "type": "dare",
+    "text": "Show the last 4th emails you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-59",
+    "type": "dare",
+    "text": "Show the last 10th searches you create.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-60",
+    "type": "dare",
+    "text": "Show the last 3rd searches you master.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-61",
+    "type": "dare",
+    "text": "Show the last 8th songs you master.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-62",
+    "type": "dare",
+    "text": "Show the last first apps you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-awareness-63",
+    "type": "dare",
+    "text": "Show the last last photos you discover.",
+    "category": "mental_health",
+    "subOptions": [
+      "awareness"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-64",
+    "type": "dare",
+    "text": "Show the last 2nd photos you discover.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-65",
+    "type": "dare",
+    "text": "Show the last 6th videos you learn.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-66",
+    "type": "dare",
+    "text": "Show the last first photos you visit.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-67",
+    "type": "dare",
+    "text": "Show the last 7th emails you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-68",
+    "type": "dare",
+    "text": "Show the last first apps you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-69",
+    "type": "dare",
+    "text": "Show the last 5th searches you learn.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-70",
+    "type": "dare",
+    "text": "Show the last first songs you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-coping-71",
+    "type": "dare",
+    "text": "Show the last last posts you meet.",
+    "category": "mental_health",
+    "subOptions": [
+      "coping"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-72",
+    "type": "dare",
+    "text": "Show the last first searches you experience.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-73",
+    "type": "dare",
+    "text": "Show the last 4th emails you win.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-74",
+    "type": "dare",
+    "text": "Show the last 4th photos you achieve.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-75",
+    "type": "dare",
+    "text": "Show the last 4th downloads you create.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "mental_health-dare-growth-76",
+    "type": "dare",
+    "text": "Show the last 3rd emails you master.",
+    "category": "mental_health",
+    "subOptions": [
+      "growth"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  }
+]

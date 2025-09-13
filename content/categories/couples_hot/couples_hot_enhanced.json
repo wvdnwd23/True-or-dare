@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "couples_hot-truth-intimate-1",
+    "type": "truth",
+    "text": "What's your go-to painting when you're tired?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-2",
+    "type": "truth",
+    "text": "What's your biggest panic related to work?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-3",
+    "type": "truth",
+    "text": "What's your biggest dread related to childhood?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-4",
+    "type": "truth",
+    "text": "What's a disclosure you've kept from your sibling?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-5",
+    "type": "truth",
+    "text": "What's a unknown aspect you've kept from your parent?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-6",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been experienced attraction?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-7",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been held?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-8",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been kissed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-9",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been experienced attraction?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-10",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been felt chemistry?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-11",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been shared a moment?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-12",
+    "type": "truth",
+    "text": "What's the most exciting place you've ever been felt chemistry?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-13",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been shared a moment?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-14",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever been connected with someone?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-15",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been touched?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-16",
+    "type": "truth",
+    "text": "What's the most impressive place you've ever been caressed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-17",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been caressed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-18",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been caressed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-19",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been caressed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-20",
+    "type": "dare",
+    "text": "Show the last 6th searches you meet.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-21",
+    "type": "dare",
+    "text": "Show the last 6th contacts you create.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-22",
+    "type": "dare",
+    "text": "Text the 2nd person in your contacts something exciting (show the group before sending).",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-23",
+    "type": "dare",
+    "text": "Show the last 2nd messages you create.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-24",
+    "type": "dare",
+    "text": "Show the last last photos you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-25",
+    "type": "dare",
+    "text": "Show the last 2nd posts you achieve.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-26",
+    "type": "dare",
+    "text": "Show the last 5th downloads you master.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-27",
+    "type": "dare",
+    "text": "Show the last 10th photos you discover.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-28",
+    "type": "dare",
+    "text": "Show the last 8th contacts you master.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-29",
+    "type": "dare",
+    "text": "Show the last 5th downloads you create.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-30",
+    "type": "dare",
+    "text": "Show the last 5th searches you create.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-31",
+    "type": "truth",
+    "text": "What's your go-to singing when you're bored?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-32",
+    "type": "truth",
+    "text": "What's your go-to painting when you're relaxed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-33",
+    "type": "truth",
+    "text": "What's your go-to hiking when you're relaxed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-34",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your colleague?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-35",
+    "type": "truth",
+    "text": "What's a unknown aspect you've kept from your sibling?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-36",
+    "type": "truth",
+    "text": "What's your biggest unease related to fears?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-37",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a family situation?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-38",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been experienced attraction?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-39",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been experienced attraction?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-40",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been embraced?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-41",
+    "type": "truth",
+    "text": "What's the most exciting place you've ever been experienced attraction?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-42",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever been caressed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-43",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been kissed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-44",
+    "type": "dare",
+    "text": "Show the last 8th posts you experience.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-45",
+    "type": "dare",
+    "text": "Show the last 5th searches you meet.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-46",
+    "type": "dare",
+    "text": "Text the 2nd person in your contacts something embarrassing (show the group before sending).",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-47",
+    "type": "dare",
+    "text": "Show the last 5th emails you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-48",
+    "type": "dare",
+    "text": "Show the last 8th songs you experience.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-49",
+    "type": "dare",
+    "text": "Show the last 8th searches you try.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-50",
+    "type": "dare",
+    "text": "Show the last 4th searches you visit.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-51",
+    "type": "dare",
+    "text": "Show the last 5th downloads you try.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-52",
+    "type": "dare",
+    "text": "Show the last 3rd songs you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-53",
+    "type": "dare",
+    "text": "Show the last 6th photos you meet.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-54",
+    "type": "dare",
+    "text": "Show the last 4th searches you discover.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-55",
+    "type": "truth",
+    "text": "What's your go-to swimming when you're bored?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-56",
+    "type": "truth",
+    "text": "What's your biggest phobia related to school days?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-57",
+    "type": "truth",
+    "text": "What's a confession you've kept from your sibling?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-58",
+    "type": "truth",
+    "text": "What's the most unusual place you've ever been embraced?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-59",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been connected with someone?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-60",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been felt chemistry?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-61",
+    "type": "truth",
+    "text": "What's the most impressive place you've ever been kissed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-62",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been experienced attraction?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-63",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever been embraced?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-64",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been held?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-65",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you experience.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-66",
+    "type": "dare",
+    "text": "Show the last 5th downloads you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-67",
+    "type": "dare",
+    "text": "Show the last 4th contacts you achieve.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-68",
+    "type": "dare",
+    "text": "Show the last 6th contacts you try.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-69",
+    "type": "dare",
+    "text": "Show the last 3rd searches you achieve.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-70",
+    "type": "dare",
+    "text": "Show the last 6th songs you discover.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-71",
+    "type": "dare",
+    "text": "Text the 4th person in your contacts something unusual (show the group before sending).",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-72",
+    "type": "dare",
+    "text": "Show the last 10th downloads you try.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-73",
+    "type": "dare",
+    "text": "Show the last 2nd emails you win.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-74",
+    "type": "dare",
+    "text": "Show the last 7th songs you win.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-75",
+    "type": "dare",
+    "text": "Show the last 10th photos you achieve.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-76",
+    "type": "dare",
+    "text": "Show the last 5th songs you master.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-intimate-77",
+    "type": "truth",
+    "text": "What's the most impressive place you've ever been connected with someone?",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-78",
+    "type": "dare",
+    "text": "Show the last first songs you try.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-intimate-79",
+    "type": "dare",
+    "text": "Show the last 6th songs you meet.",
+    "category": "couples_hot",
+    "subOptions": [
+      "intimate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-passionate-80",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been touched?",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-81",
+    "type": "dare",
+    "text": "Show the last 3rd songs you master.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-82",
+    "type": "dare",
+    "text": "Show the last 5th songs you win.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-83",
+    "type": "dare",
+    "text": "Show the last 2nd emails you master.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-84",
+    "type": "dare",
+    "text": "Show the last 7th messages you achieve.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-85",
+    "type": "dare",
+    "text": "Show the last 2nd songs you discover.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-passionate-86",
+    "type": "dare",
+    "text": "Show the last 6th emails you experience.",
+    "category": "couples_hot",
+    "subOptions": [
+      "passionate"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-87",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been kissed?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-truth-adventurous-88",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever been held?",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-89",
+    "type": "dare",
+    "text": "Show the last first apps you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-90",
+    "type": "dare",
+    "text": "Show the last 8th photos you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-91",
+    "type": "dare",
+    "text": "Show the last 10th contacts you experience.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-92",
+    "type": "dare",
+    "text": "Show the last 10th posts you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-93",
+    "type": "dare",
+    "text": "Show the last 5th videos you experience.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-94",
+    "type": "dare",
+    "text": "Show the last first emails you achieve.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-95",
+    "type": "dare",
+    "text": "Show the last first photos you create.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-96",
+    "type": "dare",
+    "text": "Show the last 4th apps you meet.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-97",
+    "type": "dare",
+    "text": "Show the last 2nd messages you learn.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "couples_hot-dare-adventurous-98",
+    "type": "dare",
+    "text": "Show the last 4th videos you achieve.",
+    "category": "couples_hot",
+    "subOptions": [
+      "adventurous"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  }
+]

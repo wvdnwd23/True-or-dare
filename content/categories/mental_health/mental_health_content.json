@@ -1,0 +1,546 @@
+{
+  "category": "mental_health",
+  "requiresOptIn": true,
+  "items": [
+    {
+      "id": "mental_health-truth-1",
+      "type": "truth",
+      "text": "What's one small thing you do to take care of your mental health?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-2",
+      "type": "truth",
+      "text": "When was the last time you felt truly at peace, and what were you doing?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-3",
+      "type": "truth",
+      "text": "What emotions do you find most difficult to express?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-4",
+      "type": "truth",
+      "text": "How do you recognize when you're feeling stressed or overwhelmed?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-5",
+      "type": "truth",
+      "text": "What's something that always improves your mood when you're feeling down?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-6",
+      "type": "truth",
+      "text": "How do you define self-care, and what does it look like for you personally?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-7",
+      "type": "truth",
+      "text": "What's one thing you wish others understood about your emotional needs?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-8",
+      "type": "truth",
+      "text": "When do you feel most like your authentic self?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-9",
+      "type": "truth",
+      "text": "What boundaries have you set to protect your mental wellbeing?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-10",
+      "type": "truth",
+      "text": "How has your understanding of mental health changed over time?",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-1",
+      "type": "dare",
+      "text": "Share three things you're grateful for right now.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-2",
+      "type": "dare",
+      "text": "Take three deep breaths and share how it makes you feel in this moment.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-3",
+      "type": "dare",
+      "text": "Write down one negative thought you've had recently, then reframe it in a positive or neutral way.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-4",
+      "type": "dare",
+      "text": "Share a song that represents how you're feeling today and explain why.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-5",
+      "type": "dare",
+      "text": "Do a quick body scan meditation and share one area where you're holding tension.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-6",
+      "type": "dare",
+      "text": "Write a short note of encouragement to yourself that you can read later when you need it.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-7",
+      "type": "dare",
+      "text": "Share one boundary you'd like to set or strengthen in your life.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-8",
+      "type": "dare",
+      "text": "Name three emotions you've felt today and briefly explain what triggered each one.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-9",
+      "type": "dare",
+      "text": "Share a simple mindfulness practice that helps you stay present.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-10",
+      "type": "dare",
+      "text": "Close your eyes for 30 seconds and focus on your breathing, then share how it made you feel.",
+      "category": "mental_health",
+      "subOptions": ["awareness"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-11",
+      "type": "truth",
+      "text": "What coping strategies have you found most helpful during difficult times?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-12",
+      "type": "truth",
+      "text": "How do you handle disappointment or setbacks?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-13",
+      "type": "truth",
+      "text": "What helps you calm down when you're feeling anxious?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-14",
+      "type": "truth",
+      "text": "Who do you turn to when you need emotional support?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-15",
+      "type": "truth",
+      "text": "What's a healthy way you've found to express difficult emotions?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-16",
+      "type": "truth",
+      "text": "How do you practice self-compassion when you make a mistake?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-17",
+      "type": "truth",
+      "text": "What boundaries have been important for your mental wellbeing?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-18",
+      "type": "truth",
+      "text": "How do you disconnect or unplug when you need a mental break?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-19",
+      "type": "truth",
+      "text": "What's something you do regularly to maintain your emotional balance?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-20",
+      "type": "truth",
+      "text": "How do you handle situations where your emotional needs conflict with others'?",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-11",
+      "type": "dare",
+      "text": "Demonstrate a breathing technique you use to calm yourself.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-12",
+      "type": "dare",
+      "text": "Share a mantra or positive affirmation that helps you through difficult times.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-13",
+      "type": "dare",
+      "text": "Write down one thing that's causing you stress right now, and one small step you could take to address it.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-14",
+      "type": "dare",
+      "text": "Show a grounding technique you use when feeling overwhelmed.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-15",
+      "type": "dare",
+      "text": "Share a self-care activity you'd like to do more regularly and commit to doing it this week.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-16",
+      "type": "dare",
+      "text": "Demonstrate a quick stretch or movement that helps you release tension.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-17",
+      "type": "dare",
+      "text": "Share a healthy boundary you've set recently and how it's helped you.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-18",
+      "type": "dare",
+      "text": "Write a short letter to your future self for a difficult day.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-19",
+      "type": "dare",
+      "text": "Share a creative outlet you use to express difficult emotions.",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-20",
+      "type": "dare",
+      "text": "Demonstrate how you physically release stress (e.g., dancing, shaking it out, stretching).",
+      "category": "mental_health",
+      "subOptions": ["coping"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-21",
+      "type": "truth",
+      "text": "How have your experiences with mental health challenges helped you grow?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-22",
+      "type": "truth",
+      "text": "What's something you've learned about yourself through difficult emotional experiences?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-23",
+      "type": "truth",
+      "text": "How has your approach to mental wellbeing evolved over time?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-24",
+      "type": "truth",
+      "text": "What's a mental health myth or stigma you wish more people understood?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-25",
+      "type": "truth",
+      "text": "What personal strength has helped you through emotional challenges?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-26",
+      "type": "truth",
+      "text": "How do you define emotional resilience, and how have you developed it?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-27",
+      "type": "truth",
+      "text": "What's something you're working on accepting about yourself?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-28",
+      "type": "truth",
+      "text": "How has your understanding of what you need to thrive mentally changed over time?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-29",
+      "type": "truth",
+      "text": "What's a perspective shift that has positively impacted your mental health?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-truth-30",
+      "type": "truth",
+      "text": "What would you tell someone who's struggling with the same mental health challenges you've faced?",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-21",
+      "type": "dare",
+      "text": "Share one mental health goal you have for the next month.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-22",
+      "type": "dare",
+      "text": "Write down a limiting belief you have about yourself, then challenge it with evidence to the contrary.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-23",
+      "type": "dare",
+      "text": "Share a book, podcast, or resource that has helped your mental health journey.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-24",
+      "type": "dare",
+      "text": "Create a quick list of three boundaries you want to set or strengthen for your mental wellbeing.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-25",
+      "type": "dare",
+      "text": "Share one way you could be more compassionate toward yourself this week.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-26",
+      "type": "dare",
+      "text": "Write a short letter of appreciation to someone who has supported your mental health.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-27",
+      "type": "dare",
+      "text": "Share one habit you'd like to develop to support your emotional wellbeing.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-28",
+      "type": "dare",
+      "text": "Create a simple self-care plan for the next week with at least three activities.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "soft",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-29",
+      "type": "dare",
+      "text": "Share one way you could better advocate for your emotional needs.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    },
+    {
+      "id": "mental_health-dare-30",
+      "type": "dare",
+      "text": "Create a personal mantra or affirmation that addresses a current mental health challenge you're facing.",
+      "category": "mental_health",
+      "subOptions": ["growth"],
+      "intensity": "medium",
+      "requiresOptIn": true
+    }
+  ]
+}

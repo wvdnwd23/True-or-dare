@@ -1,0 +1,3914 @@
+[
+  {
+    "id": "hot-truth-flirty-1",
+    "type": "truth",
+    "text": "What's your go-to writing when you're energetic?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-2",
+    "type": "truth",
+    "text": "What's your go-to dancing when you're creative?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-3",
+    "type": "truth",
+    "text": "What's your go-to gaming when you're energetic?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-4",
+    "type": "truth",
+    "text": "What's your go-to reading when you're happy?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-5",
+    "type": "truth",
+    "text": "What's your go-to exercising when you're bored?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-6",
+    "type": "truth",
+    "text": "What's your go-to painting when you're inspired?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-7",
+    "type": "truth",
+    "text": "What's your go-to reading when you're creative?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-8",
+    "type": "truth",
+    "text": "What's your go-to singing when you're relaxed?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-9",
+    "type": "truth",
+    "text": "What's a admission you've kept from your classmate?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-10",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your classmate?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-11",
+    "type": "truth",
+    "text": "What's a confession you've kept from your family member?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-12",
+    "type": "truth",
+    "text": "What's a confession you've kept from your neighbor?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-13",
+    "type": "truth",
+    "text": "What's your biggest concern related to friendship?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-14",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a job?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-15",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your roommate?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-16",
+    "type": "truth",
+    "text": "What's the biggest miscalculation you've made in a family situation?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-17",
+    "type": "truth",
+    "text": "What's your biggest concern related to personality?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-18",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your neighbor?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-19",
+    "type": "truth",
+    "text": "What's the boldest move you've ever made on someone you were attracted to?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-20",
+    "type": "truth",
+    "text": "What's something sensual you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-21",
+    "type": "truth",
+    "text": "What's the most impressive fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-22",
+    "type": "truth",
+    "text": "What's a secret hope you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-23",
+    "type": "truth",
+    "text": "What's your favorite form of embracing?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-24",
+    "type": "truth",
+    "text": "What's something special you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-25",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt connection?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-26",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been touched?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-27",
+    "type": "truth",
+    "text": "What's your favorite form of hand-holding?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-28",
+    "type": "truth",
+    "text": "What's the most memorable thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-29",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt butterflies?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-30",
+    "type": "truth",
+    "text": "What's something you find unexpected that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-31",
+    "type": "truth",
+    "text": "What's the most interesting thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-32",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in romantic setting?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-33",
+    "type": "truth",
+    "text": "What's the most unusual place you've ever been connected with someone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-34",
+    "type": "truth",
+    "text": "What's something you find irresistible about a distinctive laugh?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-35",
+    "type": "truth",
+    "text": "What's something you find irresistible about expressive face?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-36",
+    "type": "truth",
+    "text": "What's a secret wish you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-37",
+    "type": "truth",
+    "text": "What's something you find irresistible about thoughtful gestures?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-38",
+    "type": "truth",
+    "text": "What's your biggest mannerism?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-39",
+    "type": "truth",
+    "text": "What's your biggest behavior?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-40",
+    "type": "truth",
+    "text": "What's the most exciting fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-41",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt interest?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-42",
+    "type": "truth",
+    "text": "What's something you find irresistible about playful energy?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-43",
+    "type": "truth",
+    "text": "What's the most funny thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-44",
+    "type": "truth",
+    "text": "What's the most funny fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-45",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for chemistry?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-46",
+    "type": "truth",
+    "text": "What's something you find irresistible about gentle hands?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-47",
+    "type": "truth",
+    "text": "What's a secret yearning you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-48",
+    "type": "truth",
+    "text": "What's something you find irresistible about a genuine smile?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-49",
+    "type": "truth",
+    "text": "What's a back that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-50",
+    "type": "truth",
+    "text": "What's a secret craving you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-51",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in quiet evening?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-flirty-52",
+    "type": "truth",
+    "text": "What's something you find surprising that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-53",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you win.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-54",
+    "type": "dare",
+    "text": "Let someone {action} your voice with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-55",
+    "type": "dare",
+    "text": "Show the last 10th songs you try.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-56",
+    "type": "dare",
+    "text": "Show the last 6th messages you meet.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-57",
+    "type": "dare",
+    "text": "Let someone {action} your hands with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-58",
+    "type": "dare",
+    "text": "Show the last 5th photos you discover.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-59",
+    "type": "dare",
+    "text": "Let someone {action} your shoulders with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-60",
+    "type": "dare",
+    "text": "Let someone {action} your hair with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-61",
+    "type": "dare",
+    "text": "Let someone {action} your arms with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-62",
+    "type": "dare",
+    "text": "Text the 4th person in your contacts something embarrassing (show the group before sending).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-63",
+    "type": "dare",
+    "text": "Show the last 4th photos you experience.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-64",
+    "type": "dare",
+    "text": "Let someone {action} your neck with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-65",
+    "type": "dare",
+    "text": "Show the last last emails you win.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-66",
+    "type": "dare",
+    "text": "Show the last 7th messages you learn.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-67",
+    "type": "dare",
+    "text": "Let someone {action} your back with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-68",
+    "type": "dare",
+    "text": "Show the last 8th searches you meet.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-69",
+    "type": "dare",
+    "text": "Show the last 6th messages you visit.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-70",
+    "type": "dare",
+    "text": "Let someone {action} your smile with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-71",
+    "type": "dare",
+    "text": "Give a unusual compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-72",
+    "type": "dare",
+    "text": "Make eye contact with {person} for 30 seconds without laughing.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-73",
+    "type": "dare",
+    "text": "Show the group your best compliment.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-74",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a gathering.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-75",
+    "type": "dare",
+    "text": "Share a impressive story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-76",
+    "type": "dare",
+    "text": "Share a funny story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-77",
+    "type": "dare",
+    "text": "Act out how you would respond if someone used a cheesy pickup line on you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-78",
+    "type": "dare",
+    "text": "Do your best expressive dance move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-79",
+    "type": "dare",
+    "text": "Describe your ideal moment in detail.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-80",
+    "type": "dare",
+    "text": "Show the group your best playful smile.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-81",
+    "type": "dare",
+    "text": "Describe what you find most attractive about {person} in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-82",
+    "type": "dare",
+    "text": "Give a unexpected compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-83",
+    "type": "dare",
+    "text": "Whisper something embarrassing in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-84",
+    "type": "dare",
+    "text": "Demonstrate how you flirt when you're really interested in someone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-85",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a party.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-86",
+    "type": "dare",
+    "text": "Show the most memorable photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-87",
+    "type": "dare",
+    "text": "Whisper something unusual in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-88",
+    "type": "dare",
+    "text": "Whisper something funny in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-89",
+    "type": "dare",
+    "text": "Show your best look.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-90",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a social event.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-91",
+    "type": "dare",
+    "text": "Share a memorable story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-92",
+    "type": "dare",
+    "text": "Send a challenging text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-93",
+    "type": "dare",
+    "text": "Give a impressive compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-94",
+    "type": "dare",
+    "text": "Show the most funny photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-95",
+    "type": "dare",
+    "text": "Share a challenging story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-96",
+    "type": "dare",
+    "text": "Demonstrate your most unexpected {action}.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-97",
+    "type": "dare",
+    "text": "Show the most unusual photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-98",
+    "type": "dare",
+    "text": "Describe your ideal fantasy in detail.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-99",
+    "type": "dare",
+    "text": "Show your best movement.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-100",
+    "type": "dare",
+    "text": "Do your best graceful turn move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-101",
+    "type": "dare",
+    "text": "Do your best hip movement move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-102",
+    "type": "dare",
+    "text": "Show the group your best subtle touch.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-103",
+    "type": "dare",
+    "text": "Do your best slow dance move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-104",
+    "type": "dare",
+    "text": "Demonstrate your most memorable {action}.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-105",
+    "type": "truth",
+    "text": "What's your go-to gaming when you're excited?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-106",
+    "type": "truth",
+    "text": "What's your go-to painting when you're creative?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-107",
+    "type": "truth",
+    "text": "What's your go-to hiking when you're curious?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-108",
+    "type": "truth",
+    "text": "What's your go-to exercising when you're creative?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-109",
+    "type": "truth",
+    "text": "What's your go-to gaming when you're creative?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-110",
+    "type": "truth",
+    "text": "What's your go-to writing when you're tired?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-111",
+    "type": "truth",
+    "text": "What's your go-to cooking when you're energetic?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-112",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your friend?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-113",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to habits?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-114",
+    "type": "truth",
+    "text": "What's the biggest failure you've made in a public scenario?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-115",
+    "type": "truth",
+    "text": "What's the biggest wrong decision you've made in a group setting?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-116",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a professional context?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-117",
+    "type": "truth",
+    "text": "What's a disclosure you've kept from your family member?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-118",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to dreams?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-119",
+    "type": "truth",
+    "text": "What's your biggest worry related to work?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-120",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your parent?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-121",
+    "type": "truth",
+    "text": "What's your biggest panic related to dreams?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-122",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a family situation?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-123",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a public scenario?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-124",
+    "type": "truth",
+    "text": "What's your biggest panic related to family?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-125",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your roommate?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-126",
+    "type": "truth",
+    "text": "What's your biggest concern related to work?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-127",
+    "type": "truth",
+    "text": "What's a admission you've kept from your colleague?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-128",
+    "type": "truth",
+    "text": "What's your favorite form of playful touch?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-129",
+    "type": "truth",
+    "text": "What's something you find irresistible about natural charisma?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-130",
+    "type": "truth",
+    "text": "What's a essential oil you've always wanted to try using?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-131",
+    "type": "truth",
+    "text": "What's the most unusual fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-132",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in private moment?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-133",
+    "type": "truth",
+    "text": "What's the most challenging fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-134",
+    "type": "truth",
+    "text": "What's your biggest characteristic?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-135",
+    "type": "truth",
+    "text": "What's the most impressive thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-136",
+    "type": "truth",
+    "text": "What's your biggest talent?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-137",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been caressed?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-138",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for romance?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-139",
+    "type": "truth",
+    "text": "What's something you find impressive that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-140",
+    "type": "truth",
+    "text": "What's a arms that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-141",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for tenderness?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-142",
+    "type": "truth",
+    "text": "What's the most surprising fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-143",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in shared experience?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-144",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been embraced?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-145",
+    "type": "truth",
+    "text": "What's your biggest physical feature?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-146",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been embraced?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-147",
+    "type": "truth",
+    "text": "What's a wine you've always wanted to try using?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-148",
+    "type": "truth",
+    "text": "What's something meaningful you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-149",
+    "type": "truth",
+    "text": "What's something you find irresistible about authentic personality?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-150",
+    "type": "truth",
+    "text": "What's something affectionate you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-151",
+    "type": "truth",
+    "text": "What's the most exciting place you've ever been touched?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-152",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt anticipation?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-153",
+    "type": "truth",
+    "text": "What's your biggest gesture?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-154",
+    "type": "truth",
+    "text": "What's your favorite form of caressing?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-155",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever been felt chemistry?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-156",
+    "type": "truth",
+    "text": "What's something you find memorable that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-157",
+    "type": "truth",
+    "text": "What's a voice that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-158",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for connection?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-159",
+    "type": "truth",
+    "text": "What's your biggest personality trait?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-160",
+    "type": "truth",
+    "text": "What's the most unusual thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-sensual-161",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for affection?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-162",
+    "type": "dare",
+    "text": "Show the last 4th messages you master.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-163",
+    "type": "dare",
+    "text": "Show the last 3rd messages you visit.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-164",
+    "type": "dare",
+    "text": "Show the last 6th songs you master.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-165",
+    "type": "dare",
+    "text": "Show the last 5th photos you master.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-166",
+    "type": "dare",
+    "text": "Show the last first searches you visit.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-167",
+    "type": "dare",
+    "text": "Show the last 3rd videos you create.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-168",
+    "type": "dare",
+    "text": "Show the last 6th apps you experience.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-169",
+    "type": "dare",
+    "text": "Let someone {action} your eyes with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-170",
+    "type": "dare",
+    "text": "Show the last 6th videos you master.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-171",
+    "type": "dare",
+    "text": "Let someone {action} your laugh with a washable marker.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-172",
+    "type": "dare",
+    "text": "Show the last 8th emails you learn.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-173",
+    "type": "dare",
+    "text": "Show the last 6th messages you experience.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-174",
+    "type": "dare",
+    "text": "Show the last last messages you win.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-175",
+    "type": "dare",
+    "text": "Show the last 10th messages you create.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-176",
+    "type": "dare",
+    "text": "Show the last first photos you experience.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-177",
+    "type": "dare",
+    "text": "Show the last 3rd downloads you experience.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-178",
+    "type": "dare",
+    "text": "Show the last 6th songs you create.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-179",
+    "type": "dare",
+    "text": "Demonstrate your most surprising {action}.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-180",
+    "type": "dare",
+    "text": "Whisper something exciting in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-181",
+    "type": "dare",
+    "text": "Send a exciting text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-182",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a introduction.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-183",
+    "type": "dare",
+    "text": "Whisper something memorable in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-184",
+    "type": "dare",
+    "text": "Do your best confident step move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-185",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a get-together.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-186",
+    "type": "dare",
+    "text": "Do your best playful bounce move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-187",
+    "type": "dare",
+    "text": "Send a embarrassing text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-188",
+    "type": "dare",
+    "text": "Show the most embarrassing photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-189",
+    "type": "dare",
+    "text": "Show your best expression.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-190",
+    "type": "dare",
+    "text": "Whisper something challenging in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-191",
+    "type": "dare",
+    "text": "Show your best gesture.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-192",
+    "type": "dare",
+    "text": "Show your best smile.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-193",
+    "type": "dare",
+    "text": "Describe your ideal occasion in detail.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-194",
+    "type": "dare",
+    "text": "Describe your ideal situation in detail.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-195",
+    "type": "dare",
+    "text": "Show the most challenging photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-196",
+    "type": "dare",
+    "text": "Demonstrate your most unusual {action}.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-197",
+    "type": "dare",
+    "text": "Share a unusual story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-198",
+    "type": "dare",
+    "text": "Send a unexpected text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-199",
+    "type": "dare",
+    "text": "Show the group your best wink.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-200",
+    "type": "dare",
+    "text": "Do your best subtle sway move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-201",
+    "type": "dare",
+    "text": "Send a funny text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-202",
+    "type": "dare",
+    "text": "Describe your ideal encounter in detail.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-203",
+    "type": "dare",
+    "text": "Share a interesting story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-204",
+    "type": "dare",
+    "text": "Do your best smooth motion move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-205",
+    "type": "dare",
+    "text": "Send a surprising text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-206",
+    "type": "dare",
+    "text": "Describe your ideal date in detail.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-207",
+    "type": "dare",
+    "text": "Whisper something unexpected in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-208",
+    "type": "dare",
+    "text": "Demonstrate your most funny {action}.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-209",
+    "type": "dare",
+    "text": "Describe your ideal experience in detail.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-210",
+    "type": "dare",
+    "text": "Show the group your best lingering eye contact.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-211",
+    "type": "dare",
+    "text": "Give a exciting compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-212",
+    "type": "dare",
+    "text": "Demonstrate your most challenging {action}.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-213",
+    "type": "truth",
+    "text": "What's your go-to hiking when you're excited?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-214",
+    "type": "truth",
+    "text": "What's your go-to hiking when you're stressed?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-215",
+    "type": "truth",
+    "text": "What's your go-to reading when you're stressed?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-216",
+    "type": "truth",
+    "text": "What's your go-to swimming when you're happy?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-217",
+    "type": "truth",
+    "text": "What's your go-to reading when you're relaxed?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-218",
+    "type": "truth",
+    "text": "What's your go-to writing when you're excited?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-219",
+    "type": "truth",
+    "text": "What's your go-to painting when you're stressed?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-220",
+    "type": "truth",
+    "text": "What's your go-to reading when you're tired?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-221",
+    "type": "truth",
+    "text": "What's your go-to exercising when you're inspired?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-222",
+    "type": "truth",
+    "text": "What's your go-to singing when you're creative?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-223",
+    "type": "truth",
+    "text": "What's your go-to reading when you're curious?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-224",
+    "type": "truth",
+    "text": "What's your go-to exercising when you're relaxed?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-225",
+    "type": "truth",
+    "text": "What's your go-to exercising when you're stressed?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-226",
+    "type": "truth",
+    "text": "What's your biggest fear related to hobbies?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-227",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to childhood?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-228",
+    "type": "truth",
+    "text": "What's the biggest failure you've made in a family situation?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-229",
+    "type": "truth",
+    "text": "What's your biggest dread related to hobbies?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-230",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a private moment?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-231",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a relationship?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-232",
+    "type": "truth",
+    "text": "What's your biggest panic related to school days?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-233",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a relationship?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-234",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a group setting?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-235",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a friendship?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-236",
+    "type": "truth",
+    "text": "What's a undisclosed fact you've kept from your family member?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-237",
+    "type": "truth",
+    "text": "What's a admission you've kept from your family member?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-238",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to childhood?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-239",
+    "type": "truth",
+    "text": "What's your biggest concern related to school days?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-240",
+    "type": "truth",
+    "text": "What's something personal you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-241",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for attraction?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-242",
+    "type": "truth",
+    "text": "What's a shoulders that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-243",
+    "type": "truth",
+    "text": "What's something you find unusual that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-244",
+    "type": "truth",
+    "text": "What's something close you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-245",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in personal space?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-246",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been felt chemistry?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-247",
+    "type": "truth",
+    "text": "What's a secret fantasy you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-248",
+    "type": "truth",
+    "text": "What's a blindfold you've always wanted to try using?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-249",
+    "type": "truth",
+    "text": "What's the most embarrassing fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-250",
+    "type": "truth",
+    "text": "What's something you find irresistible about someone's eyes?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-251",
+    "type": "truth",
+    "text": "What's something passionate you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-252",
+    "type": "truth",
+    "text": "What's something you find irresistible about confident posture?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-253",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been connected with someone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-254",
+    "type": "truth",
+    "text": "What's a secret want you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-255",
+    "type": "truth",
+    "text": "What's a hands that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-256",
+    "type": "truth",
+    "text": "What's your biggest action?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-257",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in close encounter?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-258",
+    "type": "truth",
+    "text": "What's your favorite form of gentle touch?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-259",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for desire?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-260",
+    "type": "truth",
+    "text": "What's the most memorable fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-261",
+    "type": "truth",
+    "text": "What's a hair that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-262",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in meaningful exchange?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-263",
+    "type": "truth",
+    "text": "What's your favorite form of hugging?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-264",
+    "type": "truth",
+    "text": "What's something you find embarrassing that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-265",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in special occasion?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-266",
+    "type": "truth",
+    "text": "What's a scented candle you've always wanted to try using?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-267",
+    "type": "truth",
+    "text": "What's a secret longing you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-268",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been been close to someone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-269",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for intimacy?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-270",
+    "type": "truth",
+    "text": "What's a secret aspiration you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-271",
+    "type": "truth",
+    "text": "What's something tender you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-272",
+    "type": "truth",
+    "text": "What's a secret dream you've never shared with anyone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-273",
+    "type": "truth",
+    "text": "What's a music playlist you've always wanted to try using?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-274",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you learn.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-275",
+    "type": "dare",
+    "text": "Show the last last contacts you master.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-276",
+    "type": "dare",
+    "text": "Show the last 6th emails you achieve.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-277",
+    "type": "dare",
+    "text": "Show the last 10th apps you master.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-278",
+    "type": "dare",
+    "text": "Show the last 3rd messages you learn.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-279",
+    "type": "dare",
+    "text": "Show the last first contacts you achieve.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-280",
+    "type": "dare",
+    "text": "Text the last person in your contacts something interesting (show the group before sending).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-281",
+    "type": "dare",
+    "text": "Text the 7th person in your contacts something impressive (show the group before sending).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-282",
+    "type": "dare",
+    "text": "Show the last first songs you create.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-283",
+    "type": "dare",
+    "text": "Show the last 8th emails you achieve.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-284",
+    "type": "dare",
+    "text": "Show the last 4th contacts you discover.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-285",
+    "type": "dare",
+    "text": "Text the 4th person in your contacts something memorable (show the group before sending).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-286",
+    "type": "dare",
+    "text": "Show the last 8th emails you create.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-287",
+    "type": "dare",
+    "text": "Show the last first videos you achieve.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-288",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something embarrassing (show the group before sending).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-289",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a celebration.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-290",
+    "type": "dare",
+    "text": "Demonstrate your most exciting {action}.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-291",
+    "type": "dare",
+    "text": "Demonstrate your most interesting {action}.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-292",
+    "type": "dare",
+    "text": "Show the group your best whisper.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-293",
+    "type": "dare",
+    "text": "Show your best pose.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-294",
+    "type": "dare",
+    "text": "Give a challenging compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-295",
+    "type": "dare",
+    "text": "Whisper something interesting in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-296",
+    "type": "dare",
+    "text": "Send a impressive text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-297",
+    "type": "dare",
+    "text": "Send a memorable text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-298",
+    "type": "dare",
+    "text": "Share a exciting story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-299",
+    "type": "dare",
+    "text": "Send a interesting text to {person} (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-300",
+    "type": "dare",
+    "text": "Show your best approach.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-301",
+    "type": "dare",
+    "text": "Whisper something impressive in {person}'s ear.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-302",
+    "type": "dare",
+    "text": "Give a funny compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-303",
+    "type": "dare",
+    "text": "Show the group your best hair flip.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-304",
+    "type": "dare",
+    "text": "Show your best walk.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-305",
+    "type": "dare",
+    "text": "Share a surprising story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-306",
+    "type": "dare",
+    "text": "Do your best sensual movement move.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-307",
+    "type": "dare",
+    "text": "Show your best greeting.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-308",
+    "type": "dare",
+    "text": "Share a unexpected story about a past encounter.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-309",
+    "type": "dare",
+    "text": "Show the group your best laugh.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-310",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a night out.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-311",
+    "type": "dare",
+    "text": "Describe your ideal scene in detail.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-312",
+    "type": "dare",
+    "text": "Give a interesting compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-313",
+    "type": "dare",
+    "text": "Show the most surprising photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-314",
+    "type": "dare",
+    "text": "Show the most impressive photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-315",
+    "type": "dare",
+    "text": "Do your best rhythmic move move.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-316",
+    "type": "dare",
+    "text": "Demonstrate your most embarrassing {action}.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-317",
+    "type": "dare",
+    "text": "Show the most interesting photo on your phone (that you're comfortable sharing).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-318",
+    "type": "dare",
+    "text": "Give a embarrassing compliment to {person}.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-319",
+    "type": "dare",
+    "text": "Show the last 4th apps you achieve.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-flirty-320",
+    "type": "dare",
+    "text": "Show the last 7th messages you visit.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-321",
+    "type": "dare",
+    "text": "Show the last 3rd videos you try.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-322",
+    "type": "dare",
+    "text": "Show the last 6th downloads you create.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-sensual-323",
+    "type": "dare",
+    "text": "Show the last 3rd photos you experience.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-324",
+    "type": "truth",
+    "text": "What's the most exciting place you've ever been connected with someone?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-truth-daring-325",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been shared a moment?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "hot-dare-daring-326",
+    "type": "dare",
+    "text": "Show the last 5th songs you meet.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  }
+]

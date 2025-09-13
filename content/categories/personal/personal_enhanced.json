@@ -1,0 +1,674 @@
+[
+  {
+    "id": "personal-dare-values-1",
+    "type": "dare",
+    "text": "Show the last 7th searches you visit.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-2",
+    "type": "dare",
+    "text": "Show the last 10th emails you learn.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-3",
+    "type": "dare",
+    "text": "Show the last 5th videos you visit.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-4",
+    "type": "dare",
+    "text": "Show the last 8th apps you meet.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-5",
+    "type": "dare",
+    "text": "Show the last first posts you meet.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-6",
+    "type": "dare",
+    "text": "Show the last first videos you win.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-7",
+    "type": "dare",
+    "text": "Show the last 10th emails you master.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-8",
+    "type": "dare",
+    "text": "Show the last last emails you experience.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-9",
+    "type": "dare",
+    "text": "Show the last 7th posts you try.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-10",
+    "type": "dare",
+    "text": "Show the last 5th photos you try.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-11",
+    "type": "dare",
+    "text": "Show the last 10th messages you win.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-12",
+    "type": "dare",
+    "text": "Show the last 3rd posts you learn.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-13",
+    "type": "dare",
+    "text": "Show the last 2nd contacts you discover.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-14",
+    "type": "dare",
+    "text": "Show the last 6th contacts you learn.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-15",
+    "type": "dare",
+    "text": "Show the last 8th emails you discover.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-16",
+    "type": "dare",
+    "text": "Show the last first photos you master.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-17",
+    "type": "dare",
+    "text": "Show the last 7th contacts you try.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-18",
+    "type": "dare",
+    "text": "Show the last last searches you learn.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-19",
+    "type": "dare",
+    "text": "Show the last 2nd apps you master.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-20",
+    "type": "dare",
+    "text": "Show the last 2nd contacts you learn.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-21",
+    "type": "dare",
+    "text": "Show the last 10th songs you learn.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-22",
+    "type": "dare",
+    "text": "Show the last first emails you meet.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-23",
+    "type": "dare",
+    "text": "Show the last 8th songs you learn.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-24",
+    "type": "dare",
+    "text": "Show the last 4th apps you experience.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-25",
+    "type": "dare",
+    "text": "Show the last 4th videos you create.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-26",
+    "type": "dare",
+    "text": "Show the last 10th photos you learn.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-27",
+    "type": "dare",
+    "text": "Show the last 8th photos you win.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-28",
+    "type": "dare",
+    "text": "Show the last 3rd messages you meet.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-29",
+    "type": "dare",
+    "text": "Show the last first downloads you learn.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-30",
+    "type": "dare",
+    "text": "Show the last 10th posts you create.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-31",
+    "type": "dare",
+    "text": "Show the last 5th posts you win.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-32",
+    "type": "dare",
+    "text": "Show the last 6th posts you create.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-33",
+    "type": "dare",
+    "text": "Show the last 7th apps you learn.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-34",
+    "type": "dare",
+    "text": "Show the last 6th emails you visit.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-35",
+    "type": "dare",
+    "text": "Show the last 4th songs you visit.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-36",
+    "type": "dare",
+    "text": "Show the last first messages you try.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-37",
+    "type": "dare",
+    "text": "Show the last 10th searches you learn.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-38",
+    "type": "dare",
+    "text": "Show the last 6th contacts you discover.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-39",
+    "type": "dare",
+    "text": "Show the last 10th videos you create.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-40",
+    "type": "dare",
+    "text": "Show the last 5th downloads you achieve.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-41",
+    "type": "dare",
+    "text": "Show the last 5th songs you experience.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-42",
+    "type": "dare",
+    "text": "Show the last 7th apps you experience.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-43",
+    "type": "dare",
+    "text": "Show the last first messages you meet.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-44",
+    "type": "dare",
+    "text": "Show the last 6th downloads you discover.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-values-45",
+    "type": "dare",
+    "text": "Show the last 4th messages you visit.",
+    "category": "personal",
+    "subOptions": [
+      "values"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-46",
+    "type": "dare",
+    "text": "Show the last 6th messages you discover.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-47",
+    "type": "dare",
+    "text": "Show the last 7th posts you experience.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-preferences-48",
+    "type": "dare",
+    "text": "Show the last 10th downloads you meet.",
+    "category": "personal",
+    "subOptions": [
+      "preferences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-49",
+    "type": "dare",
+    "text": "Show the last 7th posts you discover.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-50",
+    "type": "dare",
+    "text": "Show the last 10th apps you discover.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-51",
+    "type": "dare",
+    "text": "Show the last 2nd apps you meet.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-52",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you meet.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-53",
+    "type": "dare",
+    "text": "Show the last 2nd searches you meet.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-54",
+    "type": "dare",
+    "text": "Show the last 4th downloads you master.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-55",
+    "type": "dare",
+    "text": "Show the last 7th contacts you master.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "personal-dare-quirks-56",
+    "type": "dare",
+    "text": "Show the last 4th messages you experience.",
+    "category": "personal",
+    "subOptions": [
+      "quirks"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

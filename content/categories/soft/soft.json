@@ -1,0 +1,6062 @@
+[
+  {
+    "id": "8d5d5875-396b-43ad-9203-1d44df61d6a3",
+    "type": "truth",
+    "text": "If you could discover anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ecdaa97d-f673-4be4-b814-c28b8ee92c24",
+    "type": "truth",
+    "text": "What craft would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "279a7026-55ba-4c66-a1c4-749000944b1d",
+    "type": "truth",
+    "text": "What's your favorite way to spend a weekend?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8789c02a-249f-4927-a69d-6fb27494f320",
+    "type": "truth",
+    "text": "What's your go-to sport when you're happy?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c35857c8-b0dd-416b-804c-d07e0dd05aa1",
+    "type": "truth",
+    "text": "Who is your favorite athlete?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "259aec0f-d7d1-4d56-8b64-0023feb31596",
+    "type": "truth",
+    "text": "What's the best trip you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "35f4b098-db3a-4975-89d0-26ba572c58dd",
+    "type": "truth",
+    "text": "What's your favorite way to spend free time?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b014b11a-9b1a-49cb-bc9a-17ecb290a7ba",
+    "type": "truth",
+    "text": "What's the best celebration you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5ad1c71e-dd4e-41f7-87b2-00cec8e5afb7",
+    "type": "truth",
+    "text": "Who is your favorite celebrity?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "01821c46-0f5d-4762-9935-d0bc4be4a41d",
+    "type": "truth",
+    "text": "What's your favorite way to relax?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b8e97a6e-42b7-47d9-bc04-127919998bda",
+    "type": "truth",
+    "text": "What's your favorite vacation spot?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "49796541-145e-4c38-80e1-7c291331a0ea",
+    "type": "truth",
+    "text": "What's your go-to activity when you're excited?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "beceddd2-1b84-42bf-a917-8b49991bc3e0",
+    "type": "truth",
+    "text": "If you could learn anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5264cf88-5886-43fd-ab75-9dcc622db45e",
+    "type": "truth",
+    "text": "If you could have any special talent, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "54d68a8d-8092-45f6-b327-d994cac4a651",
+    "type": "truth",
+    "text": "Who is your favorite historical figure?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6c6ece9c-72c1-416e-99c5-6b26e944d0b6",
+    "type": "truth",
+    "text": "What's the most interesting thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5f4564a1-1e6a-4503-b114-8ac5589de514",
+    "type": "truth",
+    "text": "What's your favorite holiday tradition?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f69e0984-9da6-407d-aea4-200e46e51890",
+    "type": "truth",
+    "text": "What's your favorite book?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "411380f8-370b-4174-bbe5-acc1cf4b2bcd",
+    "type": "truth",
+    "text": "What's the most surprising thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81788403-8e92-426f-85cc-57b1c138de58",
+    "type": "truth",
+    "text": "If you could live in any type of home, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0cdc2b1e-f16d-4c13-b758-241a3ff6a8da",
+    "type": "truth",
+    "text": "If you could have any superpower, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "88aeac04-6b8c-45af-ada0-0d9c283d13e7",
+    "type": "truth",
+    "text": "What instrument would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2073d882-9c54-4c61-97ee-cba5ceeb0fe8",
+    "type": "truth",
+    "text": "What's a notable opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cf179d84-4c73-4f38-97ab-167b4c410cb1",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during endeavor?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aa115a8d-a514-4f41-bb58-b71d718b041c",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your issue?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b8d29bfb-4473-4bbb-9709-2ccfa016d3bc",
+    "type": "truth",
+    "text": "What's something you've done that you hope your person never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1097bed3-b396-4863-bb35-30a6d6297a8b",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during activity?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c3cd087d-d527-4769-b2f1-106f059328ae",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to issue?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6068b62b-2f84-4d52-acbf-31c572547cbf",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your topic?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dfaac00e-3e49-494a-a248-87fe4cb73f12",
+    "type": "truth",
+    "text": "What's something you've done that you hope your acquaintance never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "873b41bf-51c6-40ea-b1d1-48ee2c6b0df4",
+    "type": "truth",
+    "text": "What's a important opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "782ceb39-b99f-48b3-915b-909a3bdd1b8d",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a situation?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "91ebffcb-5ed7-4a50-899a-6d8bdbc6137d",
+    "type": "truth",
+    "text": "What's something about your issue that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "67e095d8-b007-428b-8642-d5e4d1644e88",
+    "type": "truth",
+    "text": "What's something about your subject that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c5f37392-b2ab-4272-84d0-68a969ac6e61",
+    "type": "truth",
+    "text": "What's the most notable thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "885fb4e4-2d58-4ff7-bf6d-d5f940b4cb8a",
+    "type": "truth",
+    "text": "What's something you've always wanted to attempt but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "58caf7d8-e507-4381-8756-7288b03c404a",
+    "type": "truth",
+    "text": "What's something you've always wanted to accomplish but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "31592a8a-4ed2-4b35-8071-4b2c4e7bffbb",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a context?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e9cec37d-ad19-4b1a-b870-18cb81e14008",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your theme?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9ccc8928-121f-46d7-98cd-3262fe6d8426",
+    "type": "truth",
+    "text": "What's something you've always wanted to try but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8b992cb7-36f6-43d4-b103-b5655113baf2",
+    "type": "truth",
+    "text": "What's your biggest fear related to issue?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fb700ce2-9cab-4f6c-b4ab-16ba6a7d6b68",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a scenario?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b248e688-b21b-47bd-92b8-59b10bec8a2a",
+    "type": "truth",
+    "text": "What's something you've always wanted to experience but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1155f226-9995-4c3d-bd14-f226e4c7fdea",
+    "type": "truth",
+    "text": "What's something you've always wanted to do but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "95c4063e-ec3b-4255-8179-f50459249e37",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a situation?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "65f1ceae-64af-4051-b33f-a6685612ca59",
+    "type": "truth",
+    "text": "What's the most interesting thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "df8fd763-1bba-4940-b082-50d5513ea881",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your individual?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5572dc14-7c9a-40f7-af66-c11c805ea197",
+    "type": "truth",
+    "text": "What's your biggest concern related to topic?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5e7231b3-d986-4039-b28f-86e3166e4b5d",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a setting?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c447fe4e-6b36-49cf-8422-c72b6c903e99",
+    "type": "truth",
+    "text": "What's a significant opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "02534a88-5622-48f3-9273-27034cd70012",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your person?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "795588dd-e828-4887-a72c-d9020b5ca59d",
+    "type": "truth",
+    "text": "What's your biggest concern related to subject?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f0f4f5ae-0430-4149-b419-0ee3100bd479",
+    "type": "truth",
+    "text": "What's the most memorable thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "02fd42f1-ea80-47ce-ab6c-51b720bb6fa2",
+    "type": "truth",
+    "text": "What's your biggest concern related to issue?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "509e9ca5-e71b-4430-8ea3-d9d4094fe373",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your matter?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "13a090ec-3576-4e18-980e-c4ed10981d65",
+    "type": "truth",
+    "text": "What's something you've done that you hope your individual never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dabfde58-b706-4a01-bfaf-f1f85cfc44c0",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during pursuit?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7c141a63-cd98-4659-b4b0-dc896812f9aa",
+    "type": "truth",
+    "text": "What's the most important thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1c1b943b-ff4e-4797-b67d-3a76db34c664",
+    "type": "dare",
+    "text": "Show everyone your most recent item on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a859991e-d5b7-4f57-b838-b4913a544024",
+    "type": "dare",
+    "text": "Show everyone your most recent thing on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d6aff81b-987f-4a5f-963c-1c85e4dca500",
+    "type": "dare",
+    "text": "Do your best impression of a famous person for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "951892e3-83d8-49ab-9709-ca39abe626f3",
+    "type": "dare",
+    "text": "Sing the chorus of a song from your childhood.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6f170c07-64a1-4735-97d8-abfa79464e6d",
+    "type": "dare",
+    "text": "Do your best monkey impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2e0d7541-fdb3-4104-9ed1-0c79ad903663",
+    "type": "dare",
+    "text": "Create a short commercial for item.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2273cb4e-951d-4981-88c5-ac201a7d9ffc",
+    "type": "dare",
+    "text": "Tell a joke about {topic}.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0fffe4b5-232c-4ee5-b1e8-0e61a1bf466c",
+    "type": "dare",
+    "text": "Create a short commercial for object.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "428fc544-c5c2-456d-9bcc-f06221770fb6",
+    "type": "dare",
+    "text": "Sing the chorus of your favorite song.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ff275eac-b181-4793-bf6f-010de3931506",
+    "type": "dare",
+    "text": "Sing the chorus of a popular song.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "da6ae59f-4903-47c3-b18f-9df16e3c75bc",
+    "type": "dare",
+    "text": "Show everyone your most recent product on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "84f46228-7c9b-48b0-b0d2-bfd585261306",
+    "type": "dare",
+    "text": "Do your best lion impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "121805e4-9fff-4817-9331-06848a6ef0c4",
+    "type": "dare",
+    "text": "Take a selfie with the person across from you and set it as your phone wallpaper for the next hour.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9eba752d-7738-48f4-bfc6-b60105ae523f",
+    "type": "dare",
+    "text": "Sing the chorus of a song everyone knows.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5d5f77b9-3a2c-414b-8f65-7bc4abcca0d1",
+    "type": "dare",
+    "text": "Take a selfie with the person to your right and set it as your phone wallpaper for the next hour.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3704a58b-d957-4d78-9d83-c916b57a7252",
+    "type": "dare",
+    "text": "Do your best impression of a celebrity for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9c593c9b-4fcc-42c8-bf1d-323a84205ed1",
+    "type": "dare",
+    "text": "Let the group create a new dating profile bio for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3695d63e-0c67-45fc-9ec7-9f499f6b231e",
+    "type": "dare",
+    "text": "Speak in an Australian accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b77999a9-f26b-42a5-8ea8-3615f25ccca9",
+    "type": "dare",
+    "text": "Text the first person in your contacts something important (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fc267ae5-b5af-4e00-98a8-ff45143f986a",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "de73c4a9-e431-4cd5-acf2-6224f703b71f",
+    "type": "dare",
+    "text": "Text the first person in your contacts something notable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d0ca4245-0c8c-42e1-9a0d-d2bbf606181a",
+    "type": "dare",
+    "text": "Show the last 10th emails you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d8e2ca90-599a-418a-8ed1-0cc4442f8313",
+    "type": "dare",
+    "text": "Show the last 5th photos you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "744aabdb-8675-48ce-90b0-790a1f316b45",
+    "type": "dare",
+    "text": "Let the group pose you for a new photo pose.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "46b6c538-c6c3-4781-a301-4c34aa1f7d74",
+    "type": "dare",
+    "text": "Let someone go through your phone for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "50ca3055-96bc-40c1-b59c-f9cff7953434",
+    "type": "dare",
+    "text": "Let someone facial expression your feature with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f483a126-8253-4a88-8dfc-267f21b76900",
+    "type": "dare",
+    "text": "Eat a spoonful of lemon juice.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c2e72089-81e5-405a-8499-80ff29d73635",
+    "type": "dare",
+    "text": "Let the group pose you for a new selfie.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8a53c0c3-d5c0-4ebc-bfd7-e9b0777b4de5",
+    "type": "dare",
+    "text": "Show the last 3rd messages you experience.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b9f9efd0-9581-409f-97fb-bb220d953d7f",
+    "type": "dare",
+    "text": "Call the person to your right and endeavor without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "070d2ad5-4387-41bf-8db3-20784f58a35b",
+    "type": "dare",
+    "text": "Text the first person in your contacts something significant (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "56b4f48d-1e84-496a-853d-2198bf9a9867",
+    "type": "dare",
+    "text": "Post an important selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b1171a04-e7a5-4162-913d-66e4a8d4ed98",
+    "type": "dare",
+    "text": "Let someone dance move your characteristic with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "227603db-dd02-465b-83db-8a53e7479b1a",
+    "type": "dare",
+    "text": "Let someone pose your trait with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9fb92a32-d655-4560-9ef1-9d761f165dad",
+    "type": "dare",
+    "text": "Show the last last messages you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9a7d6d2c-d730-4200-8699-b56a1bfc9e13",
+    "type": "dare",
+    "text": "Let someone pose your feature with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "516ec957-ad6f-4132-a589-970516965a78",
+    "type": "dare",
+    "text": "Let someone gesture your quality with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f8ce72ec-c3b1-4361-a8ea-f61a16572c15",
+    "type": "dare",
+    "text": "Speak in a made-up accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "70e0b8e2-17ef-473d-b4b7-9950189ff2c0",
+    "type": "dare",
+    "text": "Show the last last photos you try.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6ce31b1c-3e2c-4a43-93d3-0ff51ba52f8f",
+    "type": "dare",
+    "text": "Eat a spoonful of mustard.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8f9a5d65-b176-4a1e-b62e-fe1f35027a0d",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "14ba23fe-c649-4d78-be16-bf7f8e184cac",
+    "type": "dare",
+    "text": "Speak in a Southern accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "380732e2-157a-473f-a994-084daa95bbce",
+    "type": "dare",
+    "text": "Eat a spoonful of ketchup.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "48e70a2c-1a47-40c2-a0f1-94f5a3b19dce",
+    "type": "dare",
+    "text": "Show the last 5th emails you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7b6ca050-0f29-40fc-9a39-f253e0a8400e",
+    "type": "dare",
+    "text": "Let someone go through your social media for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1f2adf27-e950-40f4-b0c4-a50b3d37c2ba",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something significant (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "73dffda7-3dd6-4541-933f-ea1cbcc62acc",
+    "type": "dare",
+    "text": "Show the last 10th apps you experience.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "849c5d49-c3fb-4890-8f5c-fd5fddfe0fcd",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something notable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0c630aa1-994c-4039-b9f1-cd730cf639ed",
+    "type": "dare",
+    "text": "Show the last last emails you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2bff86d6-2b81-4d5c-a367-e9618e1a9e1b",
+    "type": "dare",
+    "text": "Text the last person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5c1e215b-6ad0-44e7-9243-444d7bc59a55",
+    "type": "dare",
+    "text": "Show the last last apps you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "187a54aa-0b69-4407-8748-327f98119f09",
+    "type": "dare",
+    "text": "Post an memorable selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "06cef935-fdde-49f5-a4e8-965831c8073b",
+    "type": "dare",
+    "text": "Let someone gesture your attribute with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "527902b4-b567-4d7f-9b95-93987f325c4c",
+    "type": "dare",
+    "text": "Let the group create a new personal description for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2e2364ab-55ac-4d13-a129-f4bd59f2e40d",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something notable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1141fc5f-0b40-43ce-baee-5f2423bd9ae4",
+    "type": "dare",
+    "text": "Let the group create a new professional bio for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ebf9c586-13d2-447b-9933-eb5281104516",
+    "type": "dare",
+    "text": "Speak in a British accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "22ade9b4-9f56-48b8-9a03-a659030821fc",
+    "type": "dare",
+    "text": "Show the last last social media posts you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3b874d40-dba1-46aa-8765-a59d1db130b5",
+    "type": "dare",
+    "text": "Call the person to your right and action without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c74ab29b-81c0-420e-b4f7-164b6a96ae9a",
+    "type": "dare",
+    "text": "Let someone dance move your quality with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f5d5db54-4fc4-4c05-b477-97e9354cba15",
+    "type": "truth",
+    "text": "What's the most wacky thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "93695f72-cedc-4947-a7af-8d6241cc6dd8",
+    "type": "truth",
+    "text": "If you could mimic anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "403a2532-ed79-4194-93b3-e107c487db97",
+    "type": "truth",
+    "text": "What's the most absurd thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bab1a4b8-6790-45bb-9ff7-1c88b95df840",
+    "type": "truth",
+    "text": "What quirky interest would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "63ea2cfc-ab0f-4e1f-9344-2141ad172317",
+    "type": "truth",
+    "text": "What strange collection would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e0049eba-1645-4878-9f53-7e7110466c04",
+    "type": "truth",
+    "text": "Who is your favorite animated character?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "06ce5a84-2b69-40f3-a3a3-08a70b7d603b",
+    "type": "truth",
+    "text": "What's the best costume party you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2c9d3e13-c453-4529-9814-d36fbaac10f5",
+    "type": "truth",
+    "text": "What's your favorite childhood toy?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d4167dd5-ea62-466a-9a34-676ec2fea9d1",
+    "type": "truth",
+    "text": "Who is your favorite sitcom character?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b68fa957-a6cd-43bc-b276-72e762dc27a2",
+    "type": "truth",
+    "text": "If you could impersonate anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2d59c877-dbb0-406f-b50d-e842e22230db",
+    "type": "truth",
+    "text": "What's the best themed party you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bf1581b8-9245-4461-add2-271b5befbb78",
+    "type": "truth",
+    "text": "If you could have any ridiculous superpower, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c401454e-a9fb-4336-8c2f-14edd08d52ce",
+    "type": "truth",
+    "text": "What's your go-to childhood game when you're playful?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fda7aa06-566f-4d54-ab30-996fadc59f77",
+    "type": "truth",
+    "text": "What's your go-to make-believe scenario when you're giggly?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0fb2edbf-9f5b-40fd-9f89-283e78637717",
+    "type": "truth",
+    "text": "What's your go-to silly game when you're mischievous?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "01226e8f-aca8-4759-8741-2fa8fe12c8fb",
+    "type": "truth",
+    "text": "If you could pretend to be anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8aa76cb0-7ee4-4bfd-902b-f6e7b8b41cc3",
+    "type": "truth",
+    "text": "Who is your favorite cartoon character?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "934fc1f9-9fc9-48e2-8676-32f5537e4b56",
+    "type": "truth",
+    "text": "If you could live in any cartoon world, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d9ec52f4-1807-476a-975a-99bd53a50086",
+    "type": "truth",
+    "text": "What's your favorite way to watch cartoons?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b7c5ed20-b368-4289-b1f7-d6a1408a3006",
+    "type": "truth",
+    "text": "If you could dance like anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e16c3d58-aba4-48a3-9b5e-3e315e846146",
+    "type": "truth",
+    "text": "If you could act like anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "979d1f46-6b80-4676-ab30-51d8788b7be2",
+    "type": "truth",
+    "text": "What's your go-to silly game when you're playful?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b714c0e-3510-4a10-950f-6293a9988f89",
+    "type": "truth",
+    "text": "What's your biggest fear related to subject?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7f1074d5-b205-44ec-85bd-3d12268259ed",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to issue?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e4410557-6448-433c-b1d7-462b06f8afae",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during action?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b9ce47d9-00e3-4cb7-8636-27cac61d891d",
+    "type": "truth",
+    "text": "What's a secret you've kept from your individual?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9b779143-e717-4502-b24a-3a466eb8c6ba",
+    "type": "truth",
+    "text": "What's your biggest worry related to matter?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aa0350d2-9a46-4975-8c49-deda78e38f53",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your connection?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5c2b556c-80f7-4d31-989a-d2af8c4f6e77",
+    "type": "truth",
+    "text": "What's something about your topic that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4d835da2-c42a-42e6-ae70-3687ba61d4eb",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your acquaintance?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1726ec33-686a-40d9-afbf-3392bf41466f",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to topic?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9f63108b-42bf-41bc-8bd5-18730cb40212",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during task?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "086db4f8-2b98-456b-8fc3-3ede0b1d09e1",
+    "type": "truth",
+    "text": "What's your biggest worry related to subject?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "70a7b8b1-8e19-4a8f-9602-363a941c29d3",
+    "type": "truth",
+    "text": "What's a memorable opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "143572b7-7f1a-4028-958d-7e7b570f1aa2",
+    "type": "truth",
+    "text": "What's the most significant thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "773f3b8b-6441-418e-a891-02bdb22fc825",
+    "type": "truth",
+    "text": "What's the biggest misstep you've made in a circumstance?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "45db8629-b900-41f9-80bb-123db8d5c21b",
+    "type": "truth",
+    "text": "What's something about your matter that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e46327a4-501f-4b29-8f07-2626554e1a93",
+    "type": "truth",
+    "text": "What's a interesting opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "47f07f32-5a2c-4605-b393-9a95c5d0bbcc",
+    "type": "truth",
+    "text": "What's something about your theme that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ad54e574-a61b-46a4-adfe-5eefd5d30f64",
+    "type": "truth",
+    "text": "What's something you've done that you hope your connection never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "19808688-bd52-43dc-b77c-99d930f56392",
+    "type": "truth",
+    "text": "What's the biggest misstep you've made in a context?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1785cc46-8fd5-4efd-9d0c-7a3e769ab887",
+    "type": "dare",
+    "text": "Strike a pose like you're silly game.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1fd43a25-9216-411d-8d6a-43abbfa89e07",
+    "type": "dare",
+    "text": "Take a selfie with everyone and set it as your phone wallpaper for the next hour.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e763380b-4673-48c0-bebb-62eef399d39f",
+    "type": "dare",
+    "text": "Make up a short story that includes objects in this room.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2c659071-f424-4402-8162-2a0ffce05e59",
+    "type": "dare",
+    "text": "Do your best elephant impression.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f46adfd2-686a-4116-b616-248d3a3cb140",
+    "type": "dare",
+    "text": "Take a selfie with someone in the room and set it as your phone wallpaper for the next hour.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c4588f71-b97a-4363-ab5d-e36faee483e5",
+    "type": "dare",
+    "text": "Do your best impression of a singer for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4d41cd13-1d49-49f3-9f54-082667e4079c",
+    "type": "dare",
+    "text": "Show everyone your most recent object on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "376f084f-b065-4915-ae12-85692ce23662",
+    "type": "dare",
+    "text": "Give a compliment to the person to your left.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "79f82a3f-69fd-4f26-836a-299214a23b4e",
+    "type": "dare",
+    "text": "Take a selfie with the person to your left and set it as your phone wallpaper for the next hour.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "36e4e131-46d3-42ee-befe-0b9fbca3efbe",
+    "type": "dare",
+    "text": "Strike a pose like you're make-believe scenario.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e6584c28-73cf-4fff-b15e-820829e13b54",
+    "type": "dare",
+    "text": "Give a compliment to the person across from you.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5e4df1e6-1c4e-41ba-a8f5-4982e8273da7",
+    "type": "dare",
+    "text": "Do your best impression of a movie star for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "45b1a32c-fa22-4d56-aa1c-d06e6fdfacf7",
+    "type": "dare",
+    "text": "Do your best chicken impression.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "730ac929-24d3-43bf-a0b4-52f33d566c53",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a19e8b43-3604-4beb-a312-7d60bf847005",
+    "type": "dare",
+    "text": "Call the person across from you and task without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1bad4eeb-a88f-4a00-8b7b-55ac785cdd4c",
+    "type": "dare",
+    "text": "Call everyone and endeavor without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0263ea24-fcbc-43db-91a8-4a227ab37d81",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b943213c-ee06-4348-be2d-336effac686c",
+    "type": "dare",
+    "text": "Call the person across from you and action without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0ab2ba2e-5f11-46ea-8bf6-88b07e1166ea",
+    "type": "dare",
+    "text": "Call the person to your right and pursuit without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a9cbcc26-1af3-4710-b05f-4b5d0d492d7a",
+    "type": "dare",
+    "text": "Let someone dance move your trait with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b84c228a-7f68-40ae-bc90-b5a7ee89d630",
+    "type": "dare",
+    "text": "Eat a spoonful of honey.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "05885bfd-6fd6-410f-b92f-e4da23c7261a",
+    "type": "dare",
+    "text": "Let the group create a new social media profile for you.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5204b9d0-7590-44f5-ac87-62b30855cf2b",
+    "type": "dare",
+    "text": "Let someone walk your feature with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "22aa2389-05b3-4f3b-ad29-430b159435c0",
+    "type": "dare",
+    "text": "Let the group pose you for a new social media post.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "63e6cb05-0fd4-4d6a-85e6-9b27e0e8f935",
+    "type": "dare",
+    "text": "Let someone facial expression your trait with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f323ab49-6152-42f4-8da9-e82841482f57",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something significant (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "32202b88-a398-4151-ace2-810d14d654fc",
+    "type": "dare",
+    "text": "Post an interesting selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "21f6faa2-7493-444f-9f12-2a758a480389",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something important (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74c84704-b12d-4975-9245-362abc3e9332",
+    "type": "dare",
+    "text": "Let someone go through your photo gallery for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "daae5305-5b2f-49e9-b999-3b212dd21b26",
+    "type": "dare",
+    "text": "Eat a spoonful of hot sauce.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "46a27286-aac8-4409-897f-875d607f4401",
+    "type": "dare",
+    "text": "Show the last 3rd emails you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c1159e46-8b4a-4cb6-828e-7803495c660a",
+    "type": "dare",
+    "text": "Post an significant selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9090c64d-a233-4d09-9fea-3c4c61bbc4fa",
+    "type": "dare",
+    "text": "Call someone in the room and endeavor without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5288e001-5f18-4573-aa5d-87d687e0b8ec",
+    "type": "dare",
+    "text": "Call everyone and pursuit without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f8b165e3-4e21-44f1-b064-64e3a3f2e710",
+    "type": "dare",
+    "text": "Eat a spoonful of soy sauce.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b4163118-59f0-4f27-9406-47ed9014be88",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something notable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c5817cdd-6320-49c4-b5df-f617629b7299",
+    "type": "dare",
+    "text": "Call the person to your left and action without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "507acfa5-0eed-4195-b3fe-b54a6e5937b0",
+    "type": "dare",
+    "text": "Let someone go through your music playlist for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2d189cba-a301-4cd4-903f-de23b925e5a4",
+    "type": "truth",
+    "text": "What artistic hobby would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "603e53be-d725-426d-b590-bf0bc2408867",
+    "type": "truth",
+    "text": "Who is your favorite artist?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "10beccc2-7302-49ed-b65b-06e3e1a52537",
+    "type": "truth",
+    "text": "What's your go-to art project when you're artistic?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fa8c54a8-1e23-467d-b579-91c42e986e06",
+    "type": "truth",
+    "text": "If you could live in any creative space, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "610c132d-862d-4e0b-94e9-c2e26bf986d9",
+    "type": "truth",
+    "text": "If you could compose anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "52ada13b-6979-4d90-9705-90d9ef642dd0",
+    "type": "truth",
+    "text": "If you could have any design skill, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2bcf790c-ad38-4a0a-be37-e2affffdc729",
+    "type": "truth",
+    "text": "If you could have any artistic talent, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "24bf4f45-cf2c-45fd-ac8e-56a245a3ba78",
+    "type": "truth",
+    "text": "What's the most imaginative thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3cdd3655-7618-4a1b-95ad-7331a24c2dfb",
+    "type": "truth",
+    "text": "If you could have any innovative thinking, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3d2aca1b-7502-4505-9c5e-9d29f7991561",
+    "type": "truth",
+    "text": "Who is your favorite creator?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "66427886-74db-470e-91cf-ca9d16ef17c3",
+    "type": "truth",
+    "text": "What's your favorite way to create art?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2a65cfb0-7040-4ebd-bc29-5f31b139935b",
+    "type": "truth",
+    "text": "What's your favorite way to work on a creative project?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "369ec979-f288-4628-947d-be941dd9cd6d",
+    "type": "truth",
+    "text": "What's the best design showcase you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "82aaefdb-5c97-45c1-952b-15312a342d58",
+    "type": "truth",
+    "text": "What's your favorite invention?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "97681570-a332-4e58-b2d6-2d36be1645b2",
+    "type": "truth",
+    "text": "What's the best art exhibition you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d1f9219a-6c20-4837-8b33-420c866b8be9",
+    "type": "truth",
+    "text": "If you could craft anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c27c8caa-b51e-4500-aa78-be10d56326c0",
+    "type": "truth",
+    "text": "What design skill would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "50324f65-cfa5-40cb-b22a-3b4d854c8e22",
+    "type": "truth",
+    "text": "What's the most creative thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "70ed8603-1d1f-47ef-a7f4-75b90462dd02",
+    "type": "truth",
+    "text": "What's your go-to design challenge when you're imaginative?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e1d78bce-43ac-4fe1-bf59-d7bc83b0df27",
+    "type": "truth",
+    "text": "What's the best creative workshop you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "56cc3c69-a8ff-43de-a4f7-430fb6d6c4f3",
+    "type": "truth",
+    "text": "Who is your favorite inventor?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0cc9fb3d-57d1-4e43-bdac-a4186fb2d56c",
+    "type": "truth",
+    "text": "What's your go-to creative activity when you're expressive?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fec90b72-21b5-432a-9619-820305125a7f",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a setting?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb8d55d6-c013-4827-be42-c6711feca2fd",
+    "type": "truth",
+    "text": "What's your biggest concern related to theme?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1375ab45-5031-4980-a174-c15b42c23328",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your subject?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e3d1ebc6-241b-4a0a-b5c1-654d45c0cb54",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to matter?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0217f235-4fb1-4985-b9fa-b0a0e35a7035",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a circumstance?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9ddc99e6-3756-4003-b775-140d7097ae7c",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to theme?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fecc9127-cf26-4d2b-8226-9922e84dde7b",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your acquaintance?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4e8eced8-e65a-43db-b445-2c6a89bcd6c4",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to topic?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "000672a9-e09d-4172-a9f2-6296c0142009",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to subject?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6130144f-eac0-4d5d-86a4-3ec6c48a59a8",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your connection?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fdc6333c-6ebc-49eb-af37-e8b139e18107",
+    "type": "truth",
+    "text": "What's your biggest concern related to matter?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "83b15ca2-7ee5-451f-af9d-630a34eaf206",
+    "type": "dare",
+    "text": "Strike a pose like you're creative activity.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b897350b-b72b-49c4-bd49-fe4f73990945",
+    "type": "dare",
+    "text": "Make up a short story that includes three random words chosen by the group.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6b807482-befe-42fe-99ed-2ebd87b80f9b",
+    "type": "dare",
+    "text": "Create a short commercial for thing.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a92fa4d8-600b-4df7-bde3-92cb48d0599a",
+    "type": "dare",
+    "text": "Strike a pose like you're craft.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e9af2172-9250-4c69-b19c-468b7e6df7eb",
+    "type": "dare",
+    "text": "Create a short commercial for product.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9d6801a2-ea3a-4d75-9990-2c965505c1e8",
+    "type": "dare",
+    "text": "Make up a short story that includes people in the group.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8d40cdc2-e091-4e46-b678-fa29f05a0bae",
+    "type": "dare",
+    "text": "Give a compliment to someone in the room.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ee7c11e2-7645-408a-887a-54aafefe649d",
+    "type": "dare",
+    "text": "Strike a pose like you're art project.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7cde284e-feda-4dc2-afd4-b376cb5b110e",
+    "type": "dare",
+    "text": "Do your best impression of a public figure for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a2e235e1-3f14-4231-89e6-b74767ca8647",
+    "type": "dare",
+    "text": "Let someone dance move your feature with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "84bf2d36-2b1c-4047-ad1c-e66d926d2303",
+    "type": "dare",
+    "text": "Call the person to your left and activity without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3b97eced-4391-46d6-a8fe-cf15ded5a66c",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something important (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "57d4f7b3-4a7f-490c-948a-8a8b55d4ffba",
+    "type": "dare",
+    "text": "Let someone gesture your characteristic with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b2924c6c-fa10-4ae4-95d4-488e2cddff42",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a8c55148-6692-4abf-98bc-450759b03fd4",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something significant (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b6847389-d1ee-4848-a7d2-31ec5d9753a9",
+    "type": "dare",
+    "text": "Let someone pose your characteristic with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9464c5d1-19e3-4aaa-96bf-2016c1db5c3f",
+    "type": "dare",
+    "text": "Show the last first emails you try.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "767fe375-732c-4d29-8efa-922e17cf4333",
+    "type": "dare",
+    "text": "Call someone in the room and task without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "00216048-04a0-46ef-8f21-eee5e8cb1cc8",
+    "type": "dare",
+    "text": "Let the group pose you for a new profile picture.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "059f58d0-c398-4cfe-9939-34ebc006bb1e",
+    "type": "dare",
+    "text": "Let someone go through your recent calls for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7bb77211-9954-4d0e-b1e2-2a34247643e4",
+    "type": "dare",
+    "text": "Let someone walk your trait with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "203f6784-9180-4dfe-8041-c66afb5c8d2f",
+    "type": "dare",
+    "text": "Post an notable selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "61b40c69-08a3-4670-8e1b-16a438b9c334",
+    "type": "truth",
+    "text": "What's the most fun thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "090786cf-cd2a-4892-8398-8201af071bf8",
+    "type": "truth",
+    "text": "What's your favorite way to spend a day off?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "23f89538-b1fb-448c-9efc-72050aa4dc3d",
+    "type": "truth",
+    "text": "Who is your favorite actor?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "05d98624-0245-417b-bb43-b1932eeeae87",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a circumstance?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ae1fe68e-7aef-4679-8ed8-c5df1543d017",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a context?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ee5b2620-cbba-4881-9b0b-119d6cd8a23d",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a setting?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7745ee74-a0b2-46b4-b0ef-697aa958dd93",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your person?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "621a65aa-b895-4a87-a603-8c14f5e7a850",
+    "type": "dare",
+    "text": "Give a compliment to everyone.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "20a3e6df-629f-450d-a8a5-9e11f0944471",
+    "type": "dare",
+    "text": "Do your best cat impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "563cd4a9-4063-4b22-ab37-ff2af5b979d5",
+    "type": "dare",
+    "text": "Call the person to your right and task without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "605b823a-6a45-4e64-8a16-d46c676dc6bb",
+    "type": "dare",
+    "text": "Text the last person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a745361e-129a-4076-b5a3-52cc3087b220",
+    "type": "dare",
+    "text": "Show the last 5th photos you try.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c49b92fd-c979-4889-a238-17b3be252130",
+    "type": "truth",
+    "text": "What's your favorite way to do something silly?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8f446195-ca83-48dc-97cf-bdc64cf737ca",
+    "type": "truth",
+    "text": "What's the most goofy thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9c8b25d2-4fcd-44a1-873d-7263d9b2c6b5",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a setting?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e52059ff-dd21-488c-9ac0-70dc6dbd5034",
+    "type": "truth",
+    "text": "What's something you've done that you hope your contact never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cdcfd627-ef23-4459-9be3-0329340b6ee0",
+    "type": "truth",
+    "text": "What's a hidden fact you've kept from your connection?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f5a0d52e-6ef9-4f28-853f-bb176849a618",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your contact?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8e0de407-6320-4041-8d9d-9f931aca2981",
+    "type": "dare",
+    "text": "Show everyone your most recent possession on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "91de8836-972e-48d4-ae3f-ff4031085420",
+    "type": "dare",
+    "text": "Do your best dog impression.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "51e9c018-94db-4e37-b4bb-411b8fcee86f",
+    "type": "dare",
+    "text": "Let someone facial expression your quality with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3414d0e0-c151-4162-8f57-e71f62f10698",
+    "type": "dare",
+    "text": "Let someone facial expression your attribute with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2ab8c4d5-38cc-4fb1-a4a9-59b75eb9251c",
+    "type": "dare",
+    "text": "Let someone gesture your trait with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e7a644b1-a3f3-4117-9772-123691613017",
+    "type": "dare",
+    "text": "Let someone walk your quality with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3a248696-701f-4656-bb85-b70ae2772cae",
+    "type": "truth",
+    "text": "What's your favorite way to design something?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "94dc1cab-22a4-498a-9a50-babc110ab021",
+    "type": "truth",
+    "text": "What's your go-to art project when you're creative?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "33cf7da6-0de1-4456-be72-28e28cb83fc3",
+    "type": "truth",
+    "text": "What's your favorite design?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d779a1d6-e008-4a2c-b62e-f6b86ac00ccc",
+    "type": "truth",
+    "text": "What's your favorite creation?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a4b9e8c4-2dc3-4d08-b042-f872cc81312d",
+    "type": "truth",
+    "text": "What's a hidden fact you've kept from your acquaintance?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d3b8e6ed-0c59-4bd7-9d08-5dd6c98c93f0",
+    "type": "truth",
+    "text": "What's your biggest fear related to theme?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "24df1c36-dfc7-4c18-8195-c49bbc6b5c8c",
+    "type": "dare",
+    "text": "Strike a pose like you're design challenge.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7a4cfc5f-2292-4dfc-930f-b8e2b7196711",
+    "type": "dare",
+    "text": "Text the last person in your contacts something important (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1b85c52f-737b-4e4e-b03e-319630841166",
+    "type": "truth",
+    "text": "What's your favorite way to unwind?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "af32263e-73b2-42a1-acbe-c0586f6825c8",
+    "type": "truth",
+    "text": "What hobby would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a5fd3e7f-0a4f-482f-b102-c0c5a088808c",
+    "type": "truth",
+    "text": "If you could live in any city, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4e72d98d-5591-43d9-b764-ec09114061f5",
+    "type": "truth",
+    "text": "What's your favorite ice cream flavor?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fdf38d00-e38b-4673-adcd-840657118791",
+    "type": "truth",
+    "text": "What's your go-to hobby when you're bored?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2919b4de-398c-443d-b0cf-70038442f218",
+    "type": "truth",
+    "text": "If you could experience anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e3b9906b-486e-4125-9f76-d1e32facaa58",
+    "type": "truth",
+    "text": "What's your favorite movie?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d3a1e76b-4298-4f5e-a8ab-84268190701b",
+    "type": "truth",
+    "text": "What's the biggest misstep you've made in a setting?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fc0e213c-5c26-4206-b71f-f1250c9562e4",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a context?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "83412881-63a1-4a4b-89d4-c5051133db95",
+    "type": "dare",
+    "text": "Let someone walk your characteristic with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "afb152ad-3a5c-476a-8f7e-517a566e9ed1",
+    "type": "dare",
+    "text": "Show the last last photos you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e1d9959b-2e20-4ad3-941a-7ca3201367c9",
+    "type": "dare",
+    "text": "Call someone in the room and activity without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e2cf359f-a4ae-4234-931a-5ce680b4bdb6",
+    "type": "dare",
+    "text": "Show the last 3rd photos you experience.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6ceb8a84-cb17-409e-bdf4-7b356faa1ec2",
+    "type": "dare",
+    "text": "Call the person to your right and activity without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "50e48ca5-3d19-4b0a-88c7-94eb8f460e3f",
+    "type": "truth",
+    "text": "What weird talent would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9dfcbb52-d5bc-408b-b3e1-460c0e847fd0",
+    "type": "truth",
+    "text": "Who is your favorite comedy character?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a9499aa0-441d-4b56-8307-ad49cc4034d0",
+    "type": "truth",
+    "text": "What's your favorite way to play a childish game?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b43df2e5-d2e8-4d19-9c0d-f3c833088b67",
+    "type": "truth",
+    "text": "What's your favorite cartoon character?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "808ad8c2-12cb-42b1-9f8b-ac74942dd25e",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a context?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "85236e5e-a119-457b-96fb-8d5ac2364f82",
+    "type": "truth",
+    "text": "What's a hidden fact you've kept from your individual?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "080dbf84-7d33-4995-95ed-39a7a2662f0b",
+    "type": "dare",
+    "text": "Make up a short story that includes recent events.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2243ddad-c005-4410-8382-0368184eec73",
+    "type": "dare",
+    "text": "Call the person to your left and task without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8097d176-7600-4e4e-8269-bf815309ba9e",
+    "type": "dare",
+    "text": "Show the last 5th messages you experience.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "96257530-e39f-4301-b324-ea02da3999d6",
+    "type": "dare",
+    "text": "Let someone dance move your attribute with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e006fe01-3e22-4d3d-a403-0c9ddae6e525",
+    "type": "dare",
+    "text": "Show the last 3rd apps you experience.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "09f10d84-876b-4162-bb3a-775be85c7572",
+    "type": "truth",
+    "text": "Who is your favorite writer?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ea701d85-b2b7-41f1-8a99-f209f951a6b1",
+    "type": "truth",
+    "text": "What's your go-to design challenge when you're expressive?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4d15fa8f-5f3c-48e1-8e6f-afdb3e089312",
+    "type": "truth",
+    "text": "If you could live in any artist's studio, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d4509c8a-538c-4fff-ba50-2dd3abc101e8",
+    "type": "truth",
+    "text": "If you could build anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ee6f76f6-2228-4be5-91f4-4541ef5deedf",
+    "type": "truth",
+    "text": "What's your go-to creative activity when you're imaginative?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2eabdc34-61bf-4361-9690-5c0ac2378b1a",
+    "type": "truth",
+    "text": "What's your go-to activity when you're happy?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bc78d5e0-b2f8-48f7-8d78-6f4d732458a3",
+    "type": "truth",
+    "text": "What's your go-to activity when you're sad?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b7b1d25-4901-4022-9d4f-a9fe8e223036",
+    "type": "truth",
+    "text": "What's your go-to game when you're bored?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bbfe5f27-a7dd-4470-a7c6-dcb9773f6fc4",
+    "type": "truth",
+    "text": "If you could create anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "76540fe3-64cf-4edb-a090-269ddc48d8dc",
+    "type": "truth",
+    "text": "If you could live in any fictional world, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f626cf5e-91c4-4e5f-9bf9-36076390a0f3",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a situation?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9db1a6a2-cc6b-4ecb-966f-fc626bb725ad",
+    "type": "dare",
+    "text": "Strike a pose like you're game.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a8d61f76-6323-465c-b270-5d7113db6109",
+    "type": "dare",
+    "text": "Strike a pose like you're sport.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c1fa09ad-e577-4130-bf68-d6bd25370891",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "388d7489-af4c-4dc5-b092-65b5d2a09ca9",
+    "type": "dare",
+    "text": "Show the last 5th messages you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e117290b-1960-4aff-bedd-74f8e9a554a7",
+    "type": "dare",
+    "text": "Let someone facial expression your characteristic with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b19d27a6-e91f-4808-a0a0-9d771381786f",
+    "type": "dare",
+    "text": "Call the person across from you and pursuit without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4962f65d-68a5-4c54-b4f4-23615813e0cc",
+    "type": "dare",
+    "text": "Let someone gesture your feature with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5058dcf9-fa39-4d3e-89d7-7807737f7801",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ce279e70-ec29-4cc0-ae75-c2048c03f9bd",
+    "type": "truth",
+    "text": "What's your favorite made-up word?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "31220259-ed28-41a0-9390-c3aca0fcfa42",
+    "type": "truth",
+    "text": "What's a secret you've kept from your acquaintance?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "80f6444e-b0b7-4d6f-bf9a-ffa0f6896ca9",
+    "type": "truth",
+    "text": "What's the biggest misstep you've made in a scenario?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "673c7eb9-bd5b-43f7-a5f7-a3a55625a3ce",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a circumstance?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "08624385-02af-4a66-939f-485152298af1",
+    "type": "dare",
+    "text": "Give a compliment to the person to your right.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7fc4ad79-41b1-4f26-a8ca-1cf040d89500",
+    "type": "dare",
+    "text": "Show the last first photos you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4f9c0861-f4ef-4540-9322-068d97219678",
+    "type": "dare",
+    "text": "Show the last 5th apps you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "adeff737-3f0c-42b1-bad8-7dcae9a83ca6",
+    "type": "truth",
+    "text": "What's your favorite art form?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2d7a3a86-c315-4b04-ab00-5bbfa909f64d",
+    "type": "dare",
+    "text": "Let someone pose your quality with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c2420b36-3c29-4935-a223-cb55a67db465",
+    "type": "dare",
+    "text": "Show the last first apps you do.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "afd3124c-fbed-49ad-8f2d-3eed8faa4cb1",
+    "type": "dare",
+    "text": "Show the last last emails you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3cfd6d5e-249f-4461-a407-4244b895d955",
+    "type": "dare",
+    "text": "Call the person across from you and activity without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3401f99f-be93-4362-845d-d3ff8a6290a2",
+    "type": "truth",
+    "text": "If you could master anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ef6c883e-6fdb-4f51-8fce-6b1771611756",
+    "type": "truth",
+    "text": "What's your go-to pastime when you're relaxed?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1e557055-0715-4872-aedc-259e0e030c8a",
+    "type": "truth",
+    "text": "What's the most memorable thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "887776d7-7ba0-448c-8616-adbe9beaf97c",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a scenario?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "95965de7-5de4-4689-977a-fe6c16c62a8e",
+    "type": "truth",
+    "text": "What's a secret you've kept from your connection?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "146ed37e-aea0-4ce3-9a8b-66ab957de191",
+    "type": "dare",
+    "text": "Show the last first apps you try.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "104232b3-d272-4134-a97e-1709fc34d2e6",
+    "type": "dare",
+    "text": "Show the last first photos you experience.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b24650a2-ccc8-4ef6-a528-b6a4b06343fc",
+    "type": "dare",
+    "text": "Let someone walk your attribute with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2331f2cf-3b88-4c10-a93e-17e52accb15c",
+    "type": "truth",
+    "text": "What's your favorite dance move?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a3661dc9-8c6a-4b5f-a864-368982e5bab7",
+    "type": "truth",
+    "text": "What's your biggest worry related to topic?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "afae3c22-e983-4cae-af4a-2640b08a1fb5",
+    "type": "truth",
+    "text": "What's a secret you've kept from your contact?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f6e6a680-faa4-47ff-8d33-3fe010e5b521",
+    "type": "dare",
+    "text": "Show the last first messages you experience.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "21cf6352-4692-4b2c-bf52-ad17c16b9d2a",
+    "type": "dare",
+    "text": "Text the last person in your contacts something notable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "76b78e73-bb24-4752-bbd1-3cd5e4066848",
+    "type": "dare",
+    "text": "Call everyone and activity without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d32e6df1-03da-411d-9130-c2c06f374ffb",
+    "type": "truth",
+    "text": "What's the best innovation conference you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74ca5a3c-cac7-42dd-9a5f-7b47919cb919",
+    "type": "truth",
+    "text": "If you could design anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b8cf1052-f847-40eb-ab90-fb6bd85a8042",
+    "type": "dare",
+    "text": "Create a short commercial for possession.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1c8064ba-38e6-4b01-a44c-fc909cee8168",
+    "type": "dare",
+    "text": "Call the person to your left and endeavor without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a9bcb421-260f-46d7-99d3-23f2b1e01e1a",
+    "type": "dare",
+    "text": "Show the last 10th emails you experience.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "40a47c03-062f-4186-8eb4-2727e8a1215f",
+    "type": "dare",
+    "text": "Show the last last social media posts you experience.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1fbe1bf9-f25a-4ccd-af06-e67a0a53e851",
+    "type": "dare",
+    "text": "Call everyone and task without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "65433083-1554-4b96-82b5-9074426a1beb",
+    "type": "truth",
+    "text": "If you could travel to anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb6d83d8-20b2-4f2c-8cf5-77b13b43ab1a",
+    "type": "truth",
+    "text": "What's the best game you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "21b9aded-b48e-42b5-b27d-9908bf2de0ab",
+    "type": "truth",
+    "text": "What's the best concert you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e3f7e1f0-07bf-447a-b5f9-315f7cc9776b",
+    "type": "truth",
+    "text": "What sport would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "db7ef645-a532-4903-8dd3-66096c983637",
+    "type": "dare",
+    "text": "Strike a pose like you're activity.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ebb9162c-1b0e-4713-a196-eaaedd896ba3",
+    "type": "truth",
+    "text": "What unusual hobby would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d6005654-e0a5-44cf-b08d-40c828407e08",
+    "type": "truth",
+    "text": "What's the best comedy show you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2e335123-0d00-48ef-852c-402400e15311",
+    "type": "truth",
+    "text": "What's your biggest worry related to theme?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0824a1df-8169-4c87-829f-a1ed5886811a",
+    "type": "dare",
+    "text": "Show the last last social media posts you try.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "45e986bb-b54d-4ca9-a3c2-40fcd2c6d4b6",
+    "type": "dare",
+    "text": "Show the last 10th messages you experience.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9b127fd4-ccf1-48d5-87a1-bfee5afca185",
+    "type": "dare",
+    "text": "Show the last 5th messages you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a37a9133-ca69-432a-b215-b7d4bd1270d4",
+    "type": "truth",
+    "text": "What creative pursuit would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ba2b8175-952b-4c3e-9b55-7a877ee6b038",
+    "type": "truth",
+    "text": "What's the most artistic thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "df538594-cf11-4678-9c00-84b1399debcf",
+    "type": "truth",
+    "text": "Who is your favorite designer?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "86099f91-a225-4f2c-b713-821dd64ef94e",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your individual?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "35a3f265-117d-47e8-8214-fd84328944e1",
+    "type": "truth",
+    "text": "If you could live in any country, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "152c1441-e316-4373-bcdc-a37c10c5c937",
+    "type": "truth",
+    "text": "If you could have any extraordinary skill, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2c59a4f3-180a-4885-be10-0acc752d9a8f",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a scenario?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "69da1f6c-31ce-4687-91f2-2af0dbdb7e43",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your contact?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a92e609e-dd10-44b2-9fbb-eb44dc23dac8",
+    "type": "dare",
+    "text": "Call the person to your left and pursuit without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "731696f3-97ab-4914-891b-670240f58acd",
+    "type": "dare",
+    "text": "Show the last 3rd emails you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e72cda09-7ce4-493f-a65c-eb60c448cc0f",
+    "type": "dare",
+    "text": "Show the last 3rd messages you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "48908678-9fd9-4d29-a9de-d961a56f4e1c",
+    "type": "truth",
+    "text": "What's the most silly thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f27111d4-2d45-4a08-a230-e2af4a4c23c5",
+    "type": "truth",
+    "text": "What's a hidden fact you've kept from your contact?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "41110995-6f8e-4d70-aeac-0c242fcb5e33",
+    "type": "dare",
+    "text": "Call the person across from you and endeavor without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a28f8110-b65a-431e-80a5-563b333b2e11",
+    "type": "dare",
+    "text": "Show the last first apps you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c93e7430-3b9e-4092-b620-a6f142f18ccc",
+    "type": "truth",
+    "text": "What's the most original thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7e1122a9-783b-4e60-9f5f-c3a31b33e6dd",
+    "type": "truth",
+    "text": "If you could invent anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e17f10a1-8ed9-466c-9a8c-c3555078d237",
+    "type": "dare",
+    "text": "Text the first person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "44bea0c2-87e9-4fc4-932a-c915e032f4bc",
+    "type": "truth",
+    "text": "What skill would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5e824b58-6ca4-42ab-b842-78c662aebd2d",
+    "type": "truth",
+    "text": "What's your go-to game when you're relaxed?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b3ae4d74-183e-420c-8e38-1fabbee452bd",
+    "type": "dare",
+    "text": "Show the last last emails you try.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f3fc892e-b46d-4234-8264-6f4aec8b6f4c",
+    "type": "truth",
+    "text": "What's your favorite silly habit?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e246a9be-822c-4392-95de-4470d3c8efec",
+    "type": "truth",
+    "text": "If you could have any useless magical ability, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f54a4ebf-a9f3-4691-8b00-9c31aac8ef80",
+    "type": "truth",
+    "text": "If you could have any creative ability, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d252c887-fb26-42fe-b96b-20a62f94d60e",
+    "type": "truth",
+    "text": "What's your go-to craft when you're imaginative?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7f6ac64c-a4f1-4fa3-b654-649339b83724",
+    "type": "truth",
+    "text": "What's your go-to creative activity when you're artistic?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5315a552-a2a5-4b8b-8f22-8c139c34ac4c",
+    "type": "dare",
+    "text": "Show the last last messages you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb4070d7-239d-4f97-801c-fa07e87cea08",
+    "type": "dare",
+    "text": "Show the last 3rd messages you do.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f7398a76-759f-4d88-9488-f9f2afa7c437",
+    "type": "dare",
+    "text": "Show the last 10th photos you do.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "09e9fd90-f493-451b-97c1-66767d6f62c7",
+    "type": "dare",
+    "text": "Show the last 5th photos you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "86012f93-ddb0-49d1-ad24-282794f692d0",
+    "type": "truth",
+    "text": "If you could live in any historical period, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "20536ad7-32fc-4055-be4b-19e129310493",
+    "type": "truth",
+    "text": "What's your go-to hobby when you're excited?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2f2a4451-3fb3-4b95-a46e-fd3d402bbe53",
+    "type": "truth",
+    "text": "What's a hidden fact you've kept from your person?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fbaaaa9e-931e-425f-a086-6adcb23fb352",
+    "type": "dare",
+    "text": "Show the last last apps you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0b9bb461-abb8-4f7a-af87-44d1dff9760c",
+    "type": "truth",
+    "text": "What's your go-to make-believe scenario when you're mischievous?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f9ace230-09c4-473e-ae18-da22239c8e3f",
+    "type": "truth",
+    "text": "If you could have any silly special talent, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "13880090-8f78-4f05-ab41-acd1015f971a",
+    "type": "truth",
+    "text": "What's your go-to childhood game when you're silly?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bcb93cb8-d61c-42bf-81d5-7e8df0c41247",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something important (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3fb33cd7-c85d-4882-927d-101a0afccde9",
+    "type": "truth",
+    "text": "What's your go-to art project when you're inspired?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "55f0023a-6e26-43f3-a616-ca6794e029d8",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a circumstance?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c9593fff-9592-45ed-9f2a-ac2b77fb5444",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to subject?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c4cff614-0c30-4bc8-8a74-ef570e7a85d5",
+    "type": "dare",
+    "text": "Show the last 3rd apps you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b4cbc1f4-e3f5-4063-a932-4ce9c11aaf10",
+    "type": "truth",
+    "text": "What's your go-to sport when you're bored?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d0817315-26cc-428c-ad75-a428c9cb1002",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "20e06fcc-3d7d-4603-aa3b-b8b32ef0dfdd",
+    "type": "dare",
+    "text": "Text the last person in your contacts something significant (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "106467af-7dc8-4f14-9650-34ecd222f41c",
+    "type": "dare",
+    "text": "Show the last 5th social media posts you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2eb6cb9c-a181-48be-a544-8b246f562e01",
+    "type": "truth",
+    "text": "What's your go-to make-believe scenario when you're goofy?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1db20fb9-04df-4907-8dc9-d810e8c9fe12",
+    "type": "dare",
+    "text": "Show the last 10th messages you do.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7bb051bd-452b-4b75-a535-a0db8c873d13",
+    "type": "dare",
+    "text": "Show the last 5th apps you try.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f0393644-fe34-4939-bfbb-16a968dfba98",
+    "type": "truth",
+    "text": "What's your go-to creative activity when you're inspired?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aaca5dcd-f8b8-451f-9a3a-33372167b7e4",
+    "type": "truth",
+    "text": "What's your go-to design challenge when you're creative?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "223b27b1-d5a9-4007-b8de-2a84f620af75",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to matter?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c1ac7763-0585-4130-9709-01d97e751e8e",
+    "type": "dare",
+    "text": "Let someone pose your attribute with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4447cfdd-78e3-446c-96bc-9ec73282aca7",
+    "type": "dare",
+    "text": "Show the last last social media posts you do.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0e55603b-2d5f-4ef0-96d8-00e453da8e7d",
+    "type": "truth",
+    "text": "What's your go-to hobby when you're stressed?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "36d99b5b-c9ee-40aa-8caf-4e38f228f070",
+    "type": "truth",
+    "text": "If you could have any magical ability, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "95cf916f-23b6-4da4-bb82-0ca2e78551de",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to theme?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9fa0eecc-b2ae-4143-8da1-25e32bf8880e",
+    "type": "dare",
+    "text": "Call someone in the room and pursuit without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "550bb130-f8c5-46d4-aa34-7b3a50ba8211",
+    "type": "dare",
+    "text": "Show the last 3rd apps you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3426413e-051c-4dfc-bf7b-b5b852253278",
+    "type": "truth",
+    "text": "What's the most bizarre thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2fbf5778-520c-4863-afb2-2180bb42fd4c",
+    "type": "truth",
+    "text": "What's the biggest misstep you've made in a situation?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "649829a5-4c25-4a9c-885f-d9e1c47c6ca3",
+    "type": "dare",
+    "text": "Strike a pose like you're childhood game.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "78f0cd8c-1420-4350-8610-00fae76817ae",
+    "type": "dare",
+    "text": "Call everyone and action without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8660848a-c95b-47aa-a602-6cfeeace474e",
+    "type": "dare",
+    "text": "Call someone in the room and action without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bc0dbc16-b171-489c-b03c-448d30cc818c",
+    "type": "dare",
+    "text": "Show the last 10th apps you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6a8af7cd-2fac-4cf2-815b-3317c61621fb",
+    "type": "truth",
+    "text": "What's your favorite creative project?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a1ee587d-4a8a-43b2-ad00-a4e1e3bf79e9",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you experience.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74a28e75-5323-4ef6-bb53-3074bc33a578",
+    "type": "truth",
+    "text": "What language would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4d7c0030-fb0b-4812-85aa-3effa24cd744",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a situation?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4be40227-429a-4b21-8c1b-5216db4c9902",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a scenario?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4735cc05-57ea-4195-9d8f-6ffd5a0d7144",
+    "type": "truth",
+    "text": "What's your biggest fear related to matter?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d3678760-fce1-451a-a27e-601e3865096b",
+    "type": "dare",
+    "text": "Show the last 10th photos you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ea06de95-bd7f-4136-b561-84997d31ff25",
+    "type": "dare",
+    "text": "Show the last first apps you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7f8ff6be-16eb-4650-a0b0-3c32f425123b",
+    "type": "dare",
+    "text": "Show the last 5th social media posts you try.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0503bc15-ed8a-4787-a15a-9dd65f72f56c",
+    "type": "truth",
+    "text": "What's the best carnival you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "23a001b0-370a-45c4-894b-52667e8e539d",
+    "type": "truth",
+    "text": "If you could live in any made-up country, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6730e31a-8e4d-4424-b66b-3a4696e9e236",
+    "type": "dare",
+    "text": "Show the last 5th apps you experience.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81aa37b6-da4d-4546-b3a4-204bf78bc5b8",
+    "type": "truth",
+    "text": "If you could live in any innovation hub, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "57a0fe9a-c681-455f-8b05-bc9b85839e99",
+    "type": "dare",
+    "text": "Show the last first social media posts you experience.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8c41a66d-d5cf-43ab-83b8-16059e529060",
+    "type": "dare",
+    "text": "Show the last last messages you try.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bed9b578-b3a8-44d2-aeab-d4ba1b436bcc",
+    "type": "dare",
+    "text": "Show the last first social media posts you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bc6758bd-cad1-4359-82dd-825c9f2c111b",
+    "type": "dare",
+    "text": "Show the last 3rd photos you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e5e48f98-d7ce-478a-8516-771d23f5b18f",
+    "type": "dare",
+    "text": "Show the last 5th photos you experience.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dac62146-531f-4e62-85d5-0aba74ed12ab",
+    "type": "truth",
+    "text": "What's your go-to hobby when you're sad?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "85e67fbf-0a52-497a-b50a-0f3a08d4598d",
+    "type": "truth",
+    "text": "What's your go-to pastime when you're bored?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a60a7670-937a-4fb8-9e4f-824717e408f7",
+    "type": "truth",
+    "text": "What's your go-to pastime when you're happy?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "083f4597-1541-40aa-b8af-538ad4a12dbb",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c875eb6b-17de-4b74-96ae-19a13f219903",
+    "type": "truth",
+    "text": "What's your go-to craft when you're expressive?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c65bc36b-3e88-4ae4-87f4-cca7aec4c95f",
+    "type": "truth",
+    "text": "What's your go-to activity when you're relaxed?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d31755f8-74a8-434b-b1af-a3b031089c90",
+    "type": "truth",
+    "text": "What's the best festival you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "15ea1fd4-2c1d-41f5-a8ad-4f8c5941372c",
+    "type": "dare",
+    "text": "Show the last 3rd photos you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "686c4131-faf6-4f64-aa62-2b0e7b5a3bdb",
+    "type": "dare",
+    "text": "Show the last last apps you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8a58564b-fffc-4d1a-a55f-252f526a2d04",
+    "type": "truth",
+    "text": "What's your biggest worry related to issue?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "36a0fff9-8ada-4ee2-9959-a1bb45f5f4b4",
+    "type": "dare",
+    "text": "Text the first person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c3efc52c-2310-4b8b-8bf7-5119e16c7b68",
+    "type": "dare",
+    "text": "Show the last last messages you experience.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e9793d43-bc42-4c53-87c0-794a6da945f3",
+    "type": "truth",
+    "text": "What's the best party you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bca70a2f-36d2-4d3f-88ee-c4af36069b72",
+    "type": "truth",
+    "text": "What's your go-to hobby when you're relaxed?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9f16bacf-e02a-40d0-a9c4-9383ff7efc38",
+    "type": "truth",
+    "text": "What's a secret you've kept from your person?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "66ad767c-522d-457a-b6f8-fe4bbbfb4c96",
+    "type": "dare",
+    "text": "Show the last first social media posts you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "77187543-fd53-40e2-987a-e4bcbd1bc9cd",
+    "type": "dare",
+    "text": "Show the last 5th emails you experience.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5e934c08-17b3-4e5a-8390-2f2673400581",
+    "type": "truth",
+    "text": "What's the most ridiculous thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ed119fe3-3a89-4b43-b7df-5d5a55b8dcb9",
+    "type": "truth",
+    "text": "If you could live in any imaginary place, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5591d9fc-a381-44ab-8ab0-d620625f8b6f",
+    "type": "dare",
+    "text": "Show the last first emails you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "809e3109-c791-4f02-b370-8e340a07e250",
+    "type": "truth",
+    "text": "What's your biggest fear related to topic?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b3fb9ccf-f2fb-4caa-84d3-71daecd40f9d",
+    "type": "truth",
+    "text": "What's the best circus you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1e9b0b4d-bd1c-4555-8ed2-3fccd4ec84f1",
+    "type": "dare",
+    "text": "Show the last 5th social media posts you do.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "35f8cf13-e3f7-406d-abe0-5c2e7f130bbd",
+    "type": "truth",
+    "text": "What's your go-to design challenge when you're artistic?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cac4c577-9f52-4278-8399-ea1094776bdc",
+    "type": "dare",
+    "text": "Show the last 10th apps you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2fe8a3f2-9f55-4f24-b965-9ca1be02a8f3",
+    "type": "dare",
+    "text": "Show the last 5th emails you try.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "509d1282-fcf4-4d1b-8cbd-28e5d480176f",
+    "type": "dare",
+    "text": "Show the last first social media posts you do.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a73a49f0-9208-4bee-9ba5-5ad33402bcf4",
+    "type": "truth",
+    "text": "What's your go-to activity when you're bored?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e0e6dddb-e0dc-4060-96c7-0f174298bf34",
+    "type": "dare",
+    "text": "Show the last 3rd emails you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cb5a48b2-c2d2-4574-9aed-8c6af5c1dd43",
+    "type": "truth",
+    "text": "What's your go-to art project when you're imaginative?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "78ef5a3d-fdda-4897-bd07-05d4536f4847",
+    "type": "truth",
+    "text": "What's the most inventive thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6fd7d03c-132e-47bf-9f42-5b314cf4b588",
+    "type": "dare",
+    "text": "Strike a pose like you're pastime.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c8289826-63c5-4154-90b6-26caf3856258",
+    "type": "dare",
+    "text": "Show the last first messages you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9c512f13-6820-4fe8-a2e0-06131119e6f9",
+    "type": "truth",
+    "text": "What's your go-to game when you're excited?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "57fd60ce-89e4-431a-829d-616d76273eef",
+    "type": "truth",
+    "text": "What's your go-to craft when you're creative?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e911a553-eacb-412e-b420-90d7b4b42ee9",
+    "type": "dare",
+    "text": "Show the last first messages you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "593f1de1-d636-4694-87eb-f74dda86bd41",
+    "type": "dare",
+    "text": "Show the last first emails you do.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b89ce36-2b4d-4e2f-b988-0eef97385180",
+    "type": "truth",
+    "text": "What's your go-to game when you're happy?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "575e3ef7-32fc-416e-8bfd-86fcec23a979",
+    "type": "truth",
+    "text": "What's your go-to silly game when you're giggly?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a0763055-54f0-4159-b688-e0fe9c345909",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ffd75302-d528-4c77-bac9-2e8e8d4212f1",
+    "type": "dare",
+    "text": "Show the last 3rd messages you try.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "92324c1f-8acb-41a1-a78b-abb72bb2bf6d",
+    "type": "dare",
+    "text": "Strike a pose like you're hobby.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "97884fa3-8535-49ca-bffe-36b07b4560a9",
+    "type": "dare",
+    "text": "Show the last 3rd photos you do.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c6eafad5-571c-4a87-895c-0796c2b75e6c",
+    "type": "truth",
+    "text": "If you could live in any design workshop, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6fd1894c-622e-4561-8d3c-5bfec5bae862",
+    "type": "truth",
+    "text": "Who is your favorite musician?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3a1275b6-ae1c-4b51-9f40-ca76ec8906f8",
+    "type": "dare",
+    "text": "Show the last 5th photos you attempt.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7f54431d-fb85-4b63-92d6-92da929419df",
+    "type": "dare",
+    "text": "Show the last last photos you experience.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9f2de173-3c3d-482d-92ca-4308f1d04895",
+    "type": "dare",
+    "text": "Show the last 10th emails you accomplish.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8ed9601f-8816-49e1-8c3c-102a6d41682f",
+    "type": "dare",
+    "text": "Show the last first emails you experience.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fd613de0-0623-4b89-baae-096ab577d46d",
+    "type": "truth",
+    "text": "What's the most innovative thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

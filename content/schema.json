@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Truth or Dare Item",
+  "description": "Schema for Truth or Dare game items",
+  "type": "object",
+  "required": ["id", "type", "text", "category", "subOptions", "intensity"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the item"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["truth", "dare"],
+      "description": "Whether the item is a truth question or a dare challenge"
+    },
+    "text": {
+      "type": "string",
+      "description": "The actual text of the truth question or dare challenge"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "soft", 
+        "medium", 
+        "hot", 
+        "extreme", 
+        "couples", 
+        "couples_hot", 
+        "dirty", 
+        "deep_past", 
+        "mental_health", 
+        "childhood", 
+        "self_growth", 
+        "trauma_healing", 
+        "personal", 
+        "self_discovery"
+      ],
+      "description": "The main category the item belongs to"
+    },
+    "subOptions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 3,
+      "description": "The sub-options within the category that this item belongs to"
+    },
+    "intensity": {
+      "type": "string",
+      "enum": ["soft", "medium", "hot"],
+      "description": "The intensity level of the item"
+    },
+    "ageRestricted": {
+      "type": "boolean",
+      "description": "Whether the item is restricted to 18+ users",
+      "default": false
+    },
+    "requiresOptIn": {
+      "type": "boolean",
+      "description": "Whether the item requires explicit opt-in",
+      "default": false
+    }
+  }
+}

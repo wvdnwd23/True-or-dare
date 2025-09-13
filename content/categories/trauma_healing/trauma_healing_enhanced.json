@@ -1,0 +1,770 @@
+[
+  {
+    "id": "trauma_healing-dare-processing-1",
+    "type": "dare",
+    "text": "Show the last 5th searches you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-2",
+    "type": "dare",
+    "text": "Show the last 5th videos you learn.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-3",
+    "type": "dare",
+    "text": "Show the last last posts you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-4",
+    "type": "dare",
+    "text": "Show the last 8th searches you win.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-5",
+    "type": "dare",
+    "text": "Show the last first videos you create.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-6",
+    "type": "dare",
+    "text": "Show the last 8th songs you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-7",
+    "type": "dare",
+    "text": "Show the last 3rd photos you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-8",
+    "type": "dare",
+    "text": "Show the last 5th searches you experience.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-9",
+    "type": "dare",
+    "text": "Show the last 8th apps you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-10",
+    "type": "dare",
+    "text": "Show the last 7th apps you discover.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-11",
+    "type": "dare",
+    "text": "Show the last 4th posts you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-12",
+    "type": "dare",
+    "text": "Show the last 6th emails you create.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-truth-recovery-13",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your family member?",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-14",
+    "type": "dare",
+    "text": "Show the last 4th downloads you meet.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-15",
+    "type": "dare",
+    "text": "Show the last 10th searches you win.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-16",
+    "type": "dare",
+    "text": "Show the last 4th emails you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-17",
+    "type": "dare",
+    "text": "Show the last 7th apps you meet.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-18",
+    "type": "dare",
+    "text": "Show the last first photos you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-19",
+    "type": "dare",
+    "text": "Show the last 6th songs you experience.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-20",
+    "type": "dare",
+    "text": "Show the last 7th searches you create.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-21",
+    "type": "dare",
+    "text": "Show the last first apps you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-22",
+    "type": "dare",
+    "text": "Show the last last apps you experience.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-23",
+    "type": "dare",
+    "text": "Show the last 2nd posts you try.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-24",
+    "type": "dare",
+    "text": "Show the last 10th videos you learn.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-25",
+    "type": "dare",
+    "text": "Show the last 2nd messages you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-26",
+    "type": "dare",
+    "text": "Show the last first songs you learn.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-27",
+    "type": "dare",
+    "text": "Show the last 6th apps you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-28",
+    "type": "dare",
+    "text": "Show the last 10th photos you experience.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-29",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you create.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-30",
+    "type": "dare",
+    "text": "Show the last 6th videos you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-31",
+    "type": "dare",
+    "text": "Show the last 10th messages you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-32",
+    "type": "dare",
+    "text": "Show the last last videos you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-33",
+    "type": "dare",
+    "text": "Show the last 7th downloads you win.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-34",
+    "type": "dare",
+    "text": "Show the last 4th songs you experience.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-35",
+    "type": "dare",
+    "text": "Show the last 4th videos you discover.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-36",
+    "type": "dare",
+    "text": "Show the last 5th contacts you meet.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-37",
+    "type": "dare",
+    "text": "Show the last 10th videos you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-38",
+    "type": "dare",
+    "text": "Show the last 10th songs you experience.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-39",
+    "type": "dare",
+    "text": "Show the last 7th photos you discover.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-40",
+    "type": "dare",
+    "text": "Show the last 6th videos you try.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-41",
+    "type": "dare",
+    "text": "Show the last 6th messages you learn.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-42",
+    "type": "dare",
+    "text": "Show the last 3rd photos you learn.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-43",
+    "type": "dare",
+    "text": "Show the last 6th emails you win.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-44",
+    "type": "dare",
+    "text": "Show the last 6th posts you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-45",
+    "type": "dare",
+    "text": "Show the last 8th downloads you meet.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-46",
+    "type": "dare",
+    "text": "Show the last 3rd downloads you try.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-47",
+    "type": "dare",
+    "text": "Show the last 5th contacts you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-48",
+    "type": "dare",
+    "text": "Show the last 7th downloads you create.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-49",
+    "type": "dare",
+    "text": "Show the last first contacts you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-50",
+    "type": "dare",
+    "text": "Show the last last posts you discover.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-51",
+    "type": "dare",
+    "text": "Show the last 7th posts you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-processing-52",
+    "type": "dare",
+    "text": "Show the last 3rd apps you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "processing"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-53",
+    "type": "dare",
+    "text": "Show the last 2nd videos you create.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-54",
+    "type": "dare",
+    "text": "Show the last last videos you learn.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-55",
+    "type": "dare",
+    "text": "Show the last 2nd messages you win.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-56",
+    "type": "dare",
+    "text": "Show the last 7th posts you achieve.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-recovery-57",
+    "type": "dare",
+    "text": "Show the last 5th downloads you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "recovery"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-58",
+    "type": "dare",
+    "text": "Show the last 6th searches you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-59",
+    "type": "dare",
+    "text": "Show the last first searches you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-60",
+    "type": "dare",
+    "text": "Show the last 2nd posts you win.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-61",
+    "type": "dare",
+    "text": "Show the last 7th videos you learn.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-62",
+    "type": "dare",
+    "text": "Show the last last messages you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-63",
+    "type": "dare",
+    "text": "Show the last 2nd posts you visit.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  },
+  {
+    "id": "trauma_healing-dare-resilience-64",
+    "type": "dare",
+    "text": "Show the last 10th messages you master.",
+    "category": "trauma_healing",
+    "subOptions": [
+      "resilience"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": true
+  }
+]
