@@ -1,0 +1,950 @@
+[
+  {
+    "id": "childhood-dare-nostalgia-1",
+    "type": "dare",
+    "text": "Show the last 6th videos you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-2",
+    "type": "dare",
+    "text": "Show the last first emails you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-3",
+    "type": "dare",
+    "text": "Show the last 8th songs you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-4",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-5",
+    "type": "dare",
+    "text": "Show the last last photos you master.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-6",
+    "type": "dare",
+    "text": "Show the last first photos you discover.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-7",
+    "type": "dare",
+    "text": "Show the last 5th apps you win.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-8",
+    "type": "dare",
+    "text": "Show the last 2nd searches you create.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-9",
+    "type": "dare",
+    "text": "Show the last 6th posts you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-10",
+    "type": "dare",
+    "text": "Show the last 4th searches you learn.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-11",
+    "type": "dare",
+    "text": "Show the last 10th apps you create.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-12",
+    "type": "dare",
+    "text": "Show the last last contacts you discover.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-13",
+    "type": "dare",
+    "text": "Show the last 2nd contacts you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-14",
+    "type": "dare",
+    "text": "Show the last 4th videos you try.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-15",
+    "type": "dare",
+    "text": "Show the last 10th emails you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-16",
+    "type": "dare",
+    "text": "Show the last first messages you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-17",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you win.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-18",
+    "type": "dare",
+    "text": "Show the last first downloads you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-19",
+    "type": "dare",
+    "text": "Show the last last videos you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-20",
+    "type": "dare",
+    "text": "Show the last first contacts you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-21",
+    "type": "dare",
+    "text": "Show the last 2nd downloads you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-22",
+    "type": "dare",
+    "text": "Show the last 7th contacts you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-23",
+    "type": "dare",
+    "text": "Show the last first messages you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-24",
+    "type": "dare",
+    "text": "Show the last 3rd photos you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-25",
+    "type": "dare",
+    "text": "Show the last 10th songs you win.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-26",
+    "type": "dare",
+    "text": "Show the last 5th videos you create.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-27",
+    "type": "dare",
+    "text": "Show the last 8th photos you master.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-28",
+    "type": "dare",
+    "text": "Show the last 2nd photos you win.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-29",
+    "type": "dare",
+    "text": "Show the last 8th apps you master.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-30",
+    "type": "dare",
+    "text": "Show the last last posts you try.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-31",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you master.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-32",
+    "type": "dare",
+    "text": "Show the last 8th videos you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-33",
+    "type": "dare",
+    "text": "Show the last 6th apps you learn.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-34",
+    "type": "dare",
+    "text": "Show the last 10th contacts you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-35",
+    "type": "dare",
+    "text": "Show the last 5th posts you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-36",
+    "type": "dare",
+    "text": "Show the last 10th downloads you discover.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-37",
+    "type": "dare",
+    "text": "Show the last 4th photos you create.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-38",
+    "type": "dare",
+    "text": "Show the last 7th emails you win.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-39",
+    "type": "dare",
+    "text": "Show the last 8th apps you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-40",
+    "type": "dare",
+    "text": "Show the last 10th emails you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-41",
+    "type": "dare",
+    "text": "Show the last 5th apps you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-42",
+    "type": "dare",
+    "text": "Show the last 8th emails you try.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-43",
+    "type": "dare",
+    "text": "Show the last 6th contacts you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-44",
+    "type": "dare",
+    "text": "Show the last 8th posts you win.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-45",
+    "type": "dare",
+    "text": "Show the last 2nd videos you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-46",
+    "type": "dare",
+    "text": "Show the last first apps you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-47",
+    "type": "dare",
+    "text": "Show the last 8th emails you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-48",
+    "type": "dare",
+    "text": "Show the last 10th downloads you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-49",
+    "type": "dare",
+    "text": "Show the last 5th photos you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-50",
+    "type": "dare",
+    "text": "Show the last 10th downloads you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-51",
+    "type": "dare",
+    "text": "Show the last last songs you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-52",
+    "type": "dare",
+    "text": "Show the last 3rd apps you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-53",
+    "type": "dare",
+    "text": "Show the last 8th messages you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-54",
+    "type": "dare",
+    "text": "Show the last 4th searches you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-55",
+    "type": "dare",
+    "text": "Show the last 2nd songs you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-56",
+    "type": "dare",
+    "text": "Show the last 8th apps you win.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-57",
+    "type": "dare",
+    "text": "Show the last 5th apps you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-58",
+    "type": "dare",
+    "text": "Show the last last songs you win.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-59",
+    "type": "dare",
+    "text": "Show the last 3rd posts you win.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-60",
+    "type": "dare",
+    "text": "Show the last first contacts you create.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-61",
+    "type": "dare",
+    "text": "Show the last 3rd searches you discover.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-62",
+    "type": "dare",
+    "text": "Show the last 2nd searches you master.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-63",
+    "type": "dare",
+    "text": "Show the last 2nd emails you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-64",
+    "type": "dare",
+    "text": "Show the last 8th apps you discover.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-nostalgia-65",
+    "type": "dare",
+    "text": "Show the last 10th videos you meet.",
+    "category": "childhood",
+    "subOptions": [
+      "nostalgia"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-66",
+    "type": "dare",
+    "text": "Show the last 6th downloads you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-67",
+    "type": "dare",
+    "text": "Show the last 2nd apps you create.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-68",
+    "type": "dare",
+    "text": "Show the last 3rd songs you try.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-69",
+    "type": "dare",
+    "text": "Show the last 3rd messages you create.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-experiences-70",
+    "type": "dare",
+    "text": "Show the last first posts you learn.",
+    "category": "childhood",
+    "subOptions": [
+      "experiences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-71",
+    "type": "dare",
+    "text": "Show the last 6th videos you create.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-72",
+    "type": "dare",
+    "text": "Show the last 3rd downloads you master.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-73",
+    "type": "dare",
+    "text": "Show the last 2nd searches you experience.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-74",
+    "type": "dare",
+    "text": "Show the last 8th photos you discover.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-75",
+    "type": "dare",
+    "text": "Show the last 2nd apps you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-76",
+    "type": "dare",
+    "text": "Show the last 2nd videos you visit.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-77",
+    "type": "dare",
+    "text": "Show the last 5th photos you learn.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-78",
+    "type": "dare",
+    "text": "Show the last 7th apps you create.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "childhood-dare-influences-79",
+    "type": "dare",
+    "text": "Show the last 6th searches you achieve.",
+    "category": "childhood",
+    "subOptions": [
+      "influences"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

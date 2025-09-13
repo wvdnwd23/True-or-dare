@@ -1,0 +1,360 @@
+{
+  "categories": [
+    {
+      "id": "soft",
+      "name": "Soft",
+      "description": "Light-hearted, fun questions and dares suitable for all ages and settings",
+      "icon": "😊",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "icebreaker",
+          "name": "Icebreaker",
+          "description": "Perfect for starting the game and getting everyone comfortable"
+        },
+        {
+          "id": "silly",
+          "name": "Silly",
+          "description": "Playful and humorous questions and dares that bring out the laughter"
+        },
+        {
+          "id": "creative",
+          "name": "Creative",
+          "description": "Challenges that spark imagination and creative thinking"
+        }
+      ]
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "description": "Moderately challenging questions and dares with a bit more spice",
+      "icon": "😏",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "challenging",
+          "name": "Challenging",
+          "description": "Questions and dares that push you slightly out of your comfort zone"
+        },
+        {
+          "id": "entertaining",
+          "name": "Entertaining",
+          "description": "Fun activities that entertain the whole group"
+        },
+        {
+          "id": "surprising",
+          "name": "Surprising",
+          "description": "Unexpected questions and dares that keep the game interesting"
+        }
+      ]
+    },
+    {
+      "id": "hot",
+      "name": "Hot (18+)",
+      "description": "Spicy questions and dares for adult players looking for excitement",
+      "icon": "🔥",
+      "ageRestricted": true,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "flirty",
+          "name": "Flirty",
+          "description": "Playful flirtation and light romantic challenges"
+        },
+        {
+          "id": "sensual",
+          "name": "Sensual",
+          "description": "Questions and dares focused on sensuality and attraction"
+        },
+        {
+          "id": "daring",
+          "name": "Daring",
+          "description": "Bold challenges that test your courage in romantic contexts"
+        }
+      ]
+    },
+    {
+      "id": "extreme",
+      "name": "Extreme (18+)",
+      "description": "The most intense questions and dares for adventurous adult players",
+      "icon": "🌶️",
+      "ageRestricted": true,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "wild",
+          "name": "Wild",
+          "description": "Outrageous challenges that push boundaries"
+        },
+        {
+          "id": "risque",
+          "name": "Risqué",
+          "description": "Provocative questions and dares for the bold"
+        },
+        {
+          "id": "uninhibited",
+          "name": "Uninhibited",
+          "description": "For those who want to leave all inhibitions behind"
+        }
+      ]
+    },
+    {
+      "id": "couples",
+      "name": "Couples",
+      "description": "Questions and dares designed to bring couples closer together",
+      "icon": "💑",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "bonding",
+          "name": "Bonding",
+          "description": "Activities that strengthen your connection"
+        },
+        {
+          "id": "romantic",
+          "name": "Romantic",
+          "description": "Sweet and loving challenges to enhance your relationship"
+        },
+        {
+          "id": "playful",
+          "name": "Playful",
+          "description": "Fun and lighthearted activities for couples to enjoy together"
+        }
+      ]
+    },
+    {
+      "id": "couples_hot",
+      "name": "Couples Hot (18+)",
+      "description": "Intimate questions and dares for adult couples seeking to spice things up",
+      "icon": "❤️‍🔥",
+      "ageRestricted": true,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "intimate",
+          "name": "Intimate",
+          "description": "Deep connection and closeness for committed partners"
+        },
+        {
+          "id": "passionate",
+          "name": "Passionate",
+          "description": "Fiery challenges to ignite the passion in your relationship"
+        },
+        {
+          "id": "adventurous",
+          "name": "Adventurous",
+          "description": "Exciting new experiences to explore together"
+        }
+      ]
+    },
+    {
+      "id": "dirty",
+      "name": "Dirty (18+)",
+      "description": "Explicitly suggestive questions and dares for adult players",
+      "icon": "😈",
+      "ageRestricted": true,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "suggestive",
+          "name": "Suggestive",
+          "description": "Hints and innuendos that leave little to the imagination"
+        },
+        {
+          "id": "explicit",
+          "name": "Explicit",
+          "description": "Direct and unambiguous adult content"
+        },
+        {
+          "id": "fantasy",
+          "name": "Fantasy",
+          "description": "Exploration of desires and fantasies"
+        }
+      ]
+    },
+    {
+      "id": "deep_past",
+      "name": "Deep Past",
+      "description": "Questions that explore your history, memories, and formative experiences",
+      "icon": "🕰️",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "memories",
+          "name": "Memories",
+          "description": "Recalling significant moments from your past"
+        },
+        {
+          "id": "reflections",
+          "name": "Reflections",
+          "description": "Looking back on how past events shaped who you are today"
+        },
+        {
+          "id": "lessons",
+          "name": "Lessons",
+          "description": "Exploring what you've learned from past experiences"
+        }
+      ]
+    },
+    {
+      "id": "mental_health",
+      "name": "Mental Health",
+      "description": "Thoughtful questions about emotional wellbeing and mental health",
+      "icon": "🧠",
+      "ageRestricted": false,
+      "requiresOptIn": true,
+      "subOptions": [
+        {
+          "id": "awareness",
+          "name": "Awareness",
+          "description": "Understanding your own mental health patterns"
+        },
+        {
+          "id": "coping",
+          "name": "Coping",
+          "description": "Strategies and approaches for managing challenges"
+        },
+        {
+          "id": "growth",
+          "name": "Growth",
+          "description": "Moving forward and developing emotional resilience"
+        }
+      ]
+    },
+    {
+      "id": "childhood",
+      "name": "Childhood",
+      "description": "Questions about your early years and formative experiences",
+      "icon": "🧸",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "nostalgia",
+          "name": "Nostalgia",
+          "description": "Fond memories from your younger years"
+        },
+        {
+          "id": "experiences",
+          "name": "Experiences",
+          "description": "Significant events that shaped your childhood"
+        },
+        {
+          "id": "influences",
+          "name": "Influences",
+          "description": "People and factors that impacted your early development"
+        }
+      ]
+    },
+    {
+      "id": "self_growth",
+      "name": "Self-Growth",
+      "description": "Questions focused on personal development and improvement",
+      "icon": "🌱",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "goals",
+          "name": "Goals",
+          "description": "Aspirations and targets for your personal journey"
+        },
+        {
+          "id": "challenges",
+          "name": "Challenges",
+          "description": "Obstacles you've overcome or are working to overcome"
+        },
+        {
+          "id": "insights",
+          "name": "Insights",
+          "description": "Realizations and understandings about yourself"
+        }
+      ]
+    },
+    {
+      "id": "trauma_healing",
+      "name": "Trauma & Healing",
+      "description": "Sensitive questions about difficult experiences and recovery",
+      "icon": "🌈",
+      "ageRestricted": false,
+      "requiresOptIn": true,
+      "explicitOptIn": true,
+      "subOptions": [
+        {
+          "id": "processing",
+          "name": "Processing",
+          "description": "Working through difficult experiences"
+        },
+        {
+          "id": "recovery",
+          "name": "Recovery",
+          "description": "Steps taken toward healing and wellness"
+        },
+        {
+          "id": "resilience",
+          "name": "Resilience",
+          "description": "Building strength and moving forward after hardship"
+        }
+      ]
+    },
+    {
+      "id": "personal",
+      "name": "Personal",
+      "description": "Questions about your individual traits, preferences, and characteristics",
+      "icon": "👤",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "values",
+          "name": "Values",
+          "description": "Core beliefs and principles that guide your life"
+        },
+        {
+          "id": "preferences",
+          "name": "Preferences",
+          "description": "Your likes, dislikes, and personal tastes"
+        },
+        {
+          "id": "quirks",
+          "name": "Quirks",
+          "description": "Unique traits and characteristics that make you who you are"
+        }
+      ]
+    },
+    {
+      "id": "self_discovery",
+      "name": "Self-Discovery",
+      "description": "Questions that help you learn more about yourself and your identity",
+      "icon": "🔍",
+      "ageRestricted": false,
+      "requiresOptIn": false,
+      "subOptions": [
+        {
+          "id": "identity",
+          "name": "Identity",
+          "description": "Understanding who you are at your core"
+        },
+        {
+          "id": "purpose",
+          "name": "Purpose",
+          "description": "Exploring your meaning and direction in life"
+        },
+        {
+          "id": "authenticity",
+          "name": "Authenticity",
+          "description": "Being true to yourself and your genuine nature"
+        }
+      ]
+    }
+  ],
+  "quickPicks": {
+    "party": ["soft", "medium", "hot"],
+    "deep": ["deep_past", "mental_health", "self_growth", "self_discovery"],
+    "couples": ["couples", "couples_hot"]
+  }
+}

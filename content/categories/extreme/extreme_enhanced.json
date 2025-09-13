@@ -1,0 +1,2198 @@
+[
+  {
+    "id": "extreme-truth-wild-1",
+    "type": "truth",
+    "text": "What's your go-to gaming when you're relaxed?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-2",
+    "type": "truth",
+    "text": "What's your biggest phobia related to childhood?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-3",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to school days?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-4",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a personal matter?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-5",
+    "type": "truth",
+    "text": "What's the biggest wrong decision you've made in a friendship?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-6",
+    "type": "truth",
+    "text": "What's your biggest phobia related to fears?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-7",
+    "type": "truth",
+    "text": "What's your biggest dread related to personality?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-8",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your classmate?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-9",
+    "type": "truth",
+    "text": "What's the biggest fault you've made in a family situation?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-10",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your parent?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-11",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt chemistry?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-12",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been held?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-13",
+    "type": "truth",
+    "text": "What's a smile that you find most attractive on others?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-14",
+    "type": "truth",
+    "text": "What's a feather you've always wanted to try using?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-15",
+    "type": "truth",
+    "text": "What's the most interesting fantasy you've had?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-16",
+    "type": "truth",
+    "text": "What's the most challenging thing someone has done that immediately attracted you to them?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-17",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been been close to someone?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-18",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt desire?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-19",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been held?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-20",
+    "type": "truth",
+    "text": "What's your favorite form of cuddling?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-21",
+    "type": "truth",
+    "text": "What's the most exciting place you've ever been held?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-22",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for closeness?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-23",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been connected with someone?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-24",
+    "type": "truth",
+    "text": "What's something you find challenging that most people might not?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-25",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt spark?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-26",
+    "type": "truth",
+    "text": "What's your biggest expression?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-27",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been embraced?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-28",
+    "type": "truth",
+    "text": "What's a ice cube you've always wanted to try using?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-29",
+    "type": "truth",
+    "text": "What's your biggest quality?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-30",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in intimate conversation?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-31",
+    "type": "truth",
+    "text": "What's something you find interesting that most people might not?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-32",
+    "type": "truth",
+    "text": "What's the most surprising thing someone has done that immediately attracted you to them?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-33",
+    "type": "truth",
+    "text": "What's the most unusual place you've ever been held?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-34",
+    "type": "truth",
+    "text": "What's a secret daydream you've never shared with anyone?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-35",
+    "type": "truth",
+    "text": "What's the most unexpected fantasy you've had?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-36",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been embraced?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-37",
+    "type": "truth",
+    "text": "What's the most impressive place you've ever been been close to someone?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-38",
+    "type": "truth",
+    "text": "What's your favorite form of massage?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-39",
+    "type": "truth",
+    "text": "What's something romantic you've always wanted to try?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-40",
+    "type": "dare",
+    "text": "Show the last 2nd messages you master.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-41",
+    "type": "dare",
+    "text": "Show the last 10th videos you achieve.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-42",
+    "type": "dare",
+    "text": "Show the last first downloads you create.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-43",
+    "type": "dare",
+    "text": "Show the last 2nd apps you discover.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-44",
+    "type": "dare",
+    "text": "Text the 8th person in your contacts something memorable (show the group before sending).",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-45",
+    "type": "dare",
+    "text": "Show the last first downloads you discover.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-46",
+    "type": "dare",
+    "text": "Show the last 3rd songs you create.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-47",
+    "type": "dare",
+    "text": "Show the last 10th searches you master.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-48",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something impressive (show the group before sending).",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-49",
+    "type": "dare",
+    "text": "Show the last last emails you discover.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-50",
+    "type": "dare",
+    "text": "Show the last 2nd contacts you win.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-51",
+    "type": "dare",
+    "text": "Show the last 4th videos you learn.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-52",
+    "type": "dare",
+    "text": "Show the last first messages you experience.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-53",
+    "type": "dare",
+    "text": "Show the group your best gentle tease.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-54",
+    "type": "dare",
+    "text": "Whisper something surprising in {person}'s ear.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-55",
+    "type": "dare",
+    "text": "Share a embarrassing story about a past encounter.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-56",
+    "type": "dare",
+    "text": "Show the group your best playful gesture.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-57",
+    "type": "dare",
+    "text": "Show your best glance.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-58",
+    "type": "dare",
+    "text": "Show the most unexpected photo on your phone (that you're comfortable sharing).",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-59",
+    "type": "dare",
+    "text": "Demonstrate your most impressive {action}.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-60",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a dinner.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-61",
+    "type": "dare",
+    "text": "Describe your ideal meeting in detail.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-62",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a casual meeting.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-63",
+    "type": "dare",
+    "text": "Describe your ideal setting in detail.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-64",
+    "type": "dare",
+    "text": "Demonstrate how you would approach someone you're attracted to at a bar.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-65",
+    "type": "dare",
+    "text": "Give a memorable compliment to {person}.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-66",
+    "type": "truth",
+    "text": "What's your go-to hiking when you're inspired?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-67",
+    "type": "truth",
+    "text": "What's your go-to cooking when you're inspired?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-68",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to family?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-69",
+    "type": "truth",
+    "text": "What's a disclosure you've kept from your neighbor?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-70",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your neighbor?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-71",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to hobbies?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-72",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a professional context?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-73",
+    "type": "truth",
+    "text": "What's a confession you've kept from your acquaintance?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-74",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your colleague?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-75",
+    "type": "truth",
+    "text": "What's your biggest dread related to fears?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-76",
+    "type": "truth",
+    "text": "What's a confession you've kept from your friend?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-77",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a private moment?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-78",
+    "type": "truth",
+    "text": "What's the biggest oversight you've made in a family situation?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-79",
+    "type": "truth",
+    "text": "What's your favorite form of kissing?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-80",
+    "type": "truth",
+    "text": "What's a massage oil you've always wanted to try using?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-81",
+    "type": "truth",
+    "text": "What's something you find funny that most people might not?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-82",
+    "type": "truth",
+    "text": "What's a chocolate you've always wanted to try using?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-83",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt attraction?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-84",
+    "type": "truth",
+    "text": "What's your favorite form of meaningful glance?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-85",
+    "type": "truth",
+    "text": "What's a eyes that you find most attractive on others?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-86",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been caressed?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-87",
+    "type": "truth",
+    "text": "What's a neck that you find most attractive on others?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-88",
+    "type": "truth",
+    "text": "What's the most unusual place you've ever been been close to someone?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-89",
+    "type": "truth",
+    "text": "What's something private you've always wanted to try?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-90",
+    "type": "truth",
+    "text": "What's the most exciting thing someone has done that immediately attracted you to them?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-91",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been touched?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-92",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt magnetism?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-93",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been touched?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-94",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been kissed?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-95",
+    "type": "truth",
+    "text": "What's the most embarrassing thing someone has done that immediately attracted you to them?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-96",
+    "type": "truth",
+    "text": "What's something you wish your partner would do more often in emotional connection?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-97",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been held?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-98",
+    "type": "truth",
+    "text": "What's a laugh that you find most attractive on others?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-99",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for passion?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-100",
+    "type": "truth",
+    "text": "What's a bath bomb you've always wanted to try using?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-101",
+    "type": "truth",
+    "text": "What's the most unusual place you've ever been experienced attraction?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-102",
+    "type": "truth",
+    "text": "What's the most unexpected thing someone has done that immediately attracted you to them?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-103",
+    "type": "truth",
+    "text": "What's the most unusual place you've ever been caressed?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-104",
+    "type": "dare",
+    "text": "Show the last 8th contacts you experience.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-105",
+    "type": "dare",
+    "text": "Show the last first posts you create.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-106",
+    "type": "dare",
+    "text": "Show the last first videos you learn.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-107",
+    "type": "dare",
+    "text": "Show the last 3rd posts you meet.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-108",
+    "type": "dare",
+    "text": "Show the last 4th photos you discover.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-109",
+    "type": "dare",
+    "text": "Show the last last apps you visit.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-110",
+    "type": "dare",
+    "text": "Show the last 7th contacts you visit.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-111",
+    "type": "dare",
+    "text": "Show the last last photos you achieve.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-112",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something surprising (show the group before sending).",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-113",
+    "type": "dare",
+    "text": "Show the last last searches you experience.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-114",
+    "type": "dare",
+    "text": "Show the last 4th downloads you learn.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-115",
+    "type": "dare",
+    "text": "Show the last 6th posts you meet.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-116",
+    "type": "dare",
+    "text": "Show the last last emails you master.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-117",
+    "type": "dare",
+    "text": "Show the last 10th downloads you create.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-118",
+    "type": "dare",
+    "text": "Send a unusual text to {person} (show the group first).",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-119",
+    "type": "dare",
+    "text": "Give a surprising compliment to {person}.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-120",
+    "type": "truth",
+    "text": "What's your go-to dancing when you're excited?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-121",
+    "type": "truth",
+    "text": "What's your go-to writing when you're bored?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-122",
+    "type": "truth",
+    "text": "What's your go-to hiking when you're happy?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-123",
+    "type": "truth",
+    "text": "What's your go-to reading when you're inspired?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-124",
+    "type": "truth",
+    "text": "What's your go-to gaming when you're happy?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-125",
+    "type": "truth",
+    "text": "What's your go-to singing when you're excited?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-126",
+    "type": "truth",
+    "text": "What's your go-to dancing when you're energetic?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-127",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a family situation?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-128",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to friendship?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-129",
+    "type": "truth",
+    "text": "What's your biggest phobia related to hobbies?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-130",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to school days?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-131",
+    "type": "truth",
+    "text": "What's your biggest fear related to childhood?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-132",
+    "type": "truth",
+    "text": "What's the biggest fault you've made in a social setting?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-133",
+    "type": "truth",
+    "text": "What's your biggest concern related to childhood?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-134",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a public scenario?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-135",
+    "type": "truth",
+    "text": "What's a unknown aspect you've kept from your family member?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-136",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a professional context?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-137",
+    "type": "truth",
+    "text": "What's a admission you've kept from your partner?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-138",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been held?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-139",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever felt excitement?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-140",
+    "type": "truth",
+    "text": "What's the most challenging place you've ever been been close to someone?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-141",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been felt chemistry?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-142",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been been close to someone?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-143",
+    "type": "truth",
+    "text": "What's the most unusual place you've ever been touched?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-144",
+    "type": "truth",
+    "text": "What's the most exciting place you've ever been been close to someone?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-145",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been embraced?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-146",
+    "type": "truth",
+    "text": "What's the most surprising place you've ever been shared a moment?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-147",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been connected with someone?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-148",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever been kissed?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-149",
+    "type": "truth",
+    "text": "What's the most impressive place you've ever been felt chemistry?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-150",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been caressed?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-151",
+    "type": "truth",
+    "text": "What's the most impressive place you've ever been held?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-152",
+    "type": "truth",
+    "text": "What's the most impressive place you've ever been touched?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-153",
+    "type": "truth",
+    "text": "What's something you find exciting that most people might not?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-uninhibited-154",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been felt chemistry?",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-155",
+    "type": "dare",
+    "text": "Show the last last photos you meet.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-156",
+    "type": "dare",
+    "text": "Show the last 8th searches you visit.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-157",
+    "type": "dare",
+    "text": "Show the last 8th emails you win.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-158",
+    "type": "dare",
+    "text": "Show the last 6th contacts you win.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-159",
+    "type": "dare",
+    "text": "Show the last last songs you meet.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-160",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something exciting (show the group before sending).",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-161",
+    "type": "dare",
+    "text": "Show the last 7th searches you discover.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-162",
+    "type": "dare",
+    "text": "Show the last 5th emails you visit.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-163",
+    "type": "dare",
+    "text": "Text the 7th person in your contacts something funny (show the group before sending).",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-164",
+    "type": "dare",
+    "text": "Show the last first posts you master.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-165",
+    "type": "dare",
+    "text": "Show the last 7th videos you achieve.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-166",
+    "type": "dare",
+    "text": "Show the last 10th apps you meet.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-167",
+    "type": "dare",
+    "text": "Show the most exciting photo on your phone (that you're comfortable sharing).",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-168",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been connected with someone?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-wild-169",
+    "type": "truth",
+    "text": "What's the most memorable place you've ever been experienced attraction?",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-170",
+    "type": "dare",
+    "text": "Show the last 3rd emails you win.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-171",
+    "type": "dare",
+    "text": "Show the last 10th emails you try.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-172",
+    "type": "dare",
+    "text": "Show the last 10th posts you discover.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-173",
+    "type": "dare",
+    "text": "Show the last 6th posts you experience.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-174",
+    "type": "dare",
+    "text": "Show the last 6th downloads you win.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-wild-175",
+    "type": "dare",
+    "text": "Show the last 2nd posts you discover.",
+    "category": "extreme",
+    "subOptions": [
+      "wild"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-176",
+    "type": "truth",
+    "text": "What's the most interesting place you've ever been shared a moment?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-177",
+    "type": "truth",
+    "text": "What's the most embarrassing place you've ever been connected with someone?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-178",
+    "type": "truth",
+    "text": "What's the most unexpected place you've ever been experienced attraction?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-truth-risque-179",
+    "type": "truth",
+    "text": "What's the most funny place you've ever been felt chemistry?",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-180",
+    "type": "dare",
+    "text": "Show the last last apps you meet.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-risque-181",
+    "type": "dare",
+    "text": "Show the last 10th posts you try.",
+    "category": "extreme",
+    "subOptions": [
+      "risque"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-182",
+    "type": "dare",
+    "text": "Show the last 5th emails you experience.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "extreme-dare-uninhibited-183",
+    "type": "dare",
+    "text": "Show the last 2nd posts you create.",
+    "category": "extreme",
+    "subOptions": [
+      "uninhibited"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  }
+]

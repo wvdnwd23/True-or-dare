@@ -1,0 +1,554 @@
+[
+  {
+    "id": "self_discovery-dare-identity-1",
+    "type": "dare",
+    "text": "Show the last 4th emails you create.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-2",
+    "type": "dare",
+    "text": "Show the last 6th posts you discover.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-3",
+    "type": "dare",
+    "text": "Show the last 6th messages you master.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-4",
+    "type": "dare",
+    "text": "Show the last 2nd photos you meet.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-5",
+    "type": "dare",
+    "text": "Show the last 5th contacts you learn.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-6",
+    "type": "dare",
+    "text": "Show the last last emails you try.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-7",
+    "type": "dare",
+    "text": "Show the last 2nd posts you master.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-8",
+    "type": "dare",
+    "text": "Show the last last searches you master.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-9",
+    "type": "dare",
+    "text": "Show the last 10th searches you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-10",
+    "type": "dare",
+    "text": "Show the last last posts you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-11",
+    "type": "dare",
+    "text": "Show the last 7th apps you win.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-12",
+    "type": "dare",
+    "text": "Show the last first contacts you experience.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-13",
+    "type": "dare",
+    "text": "Show the last 8th videos you try.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-14",
+    "type": "dare",
+    "text": "Show the last 7th downloads you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-15",
+    "type": "dare",
+    "text": "Show the last 10th songs you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-16",
+    "type": "dare",
+    "text": "Show the last last videos you master.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-17",
+    "type": "dare",
+    "text": "Show the last first downloads you experience.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-18",
+    "type": "dare",
+    "text": "Show the last 10th photos you visit.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-19",
+    "type": "dare",
+    "text": "Show the last first contacts you meet.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-20",
+    "type": "dare",
+    "text": "Show the last 5th emails you discover.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-21",
+    "type": "dare",
+    "text": "Show the last 3rd contacts you experience.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-22",
+    "type": "dare",
+    "text": "Show the last last apps you discover.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-23",
+    "type": "dare",
+    "text": "Show the last 4th emails you experience.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-24",
+    "type": "dare",
+    "text": "Show the last 8th contacts you visit.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-25",
+    "type": "dare",
+    "text": "Show the last 2nd messages you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-26",
+    "type": "dare",
+    "text": "Show the last 7th photos you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-27",
+    "type": "dare",
+    "text": "Show the last 8th videos you create.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-28",
+    "type": "dare",
+    "text": "Show the last 5th searches you discover.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-29",
+    "type": "dare",
+    "text": "Show the last 7th posts you win.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-30",
+    "type": "dare",
+    "text": "Show the last last videos you try.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-31",
+    "type": "dare",
+    "text": "Show the last 3rd emails you learn.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-identity-32",
+    "type": "dare",
+    "text": "Show the last 3rd emails you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "identity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-33",
+    "type": "dare",
+    "text": "Show the last first emails you experience.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-34",
+    "type": "dare",
+    "text": "Show the last last messages you learn.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-35",
+    "type": "dare",
+    "text": "Show the last 7th downloads you visit.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-36",
+    "type": "dare",
+    "text": "Show the last 4th emails you visit.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-37",
+    "type": "dare",
+    "text": "Show the last last posts you experience.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-purpose-38",
+    "type": "dare",
+    "text": "Show the last last videos you create.",
+    "category": "self_discovery",
+    "subOptions": [
+      "purpose"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-39",
+    "type": "dare",
+    "text": "Show the last 10th songs you discover.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-40",
+    "type": "dare",
+    "text": "Show the last 7th contacts you create.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-41",
+    "type": "dare",
+    "text": "Show the last 4th posts you meet.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-42",
+    "type": "dare",
+    "text": "Show the last 7th videos you visit.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-43",
+    "type": "dare",
+    "text": "Show the last 7th searches you achieve.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-44",
+    "type": "dare",
+    "text": "Show the last last contacts you meet.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-45",
+    "type": "dare",
+    "text": "Show the last first posts you visit.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "self_discovery-dare-authenticity-46",
+    "type": "dare",
+    "text": "Show the last 7th apps you master.",
+    "category": "self_discovery",
+    "subOptions": [
+      "authenticity"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

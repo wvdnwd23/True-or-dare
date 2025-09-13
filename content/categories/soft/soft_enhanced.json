@@ -1,0 +1,5750 @@
+[
+  {
+    "id": "soft-truth-icebreaker-1",
+    "type": "truth",
+    "text": "Who is your favorite actor?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-2",
+    "type": "truth",
+    "text": "What's your favorite memory involving family?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-3",
+    "type": "truth",
+    "text": "What's your favorite memory involving work?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-4",
+    "type": "truth",
+    "text": "Who is your favorite leader?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-5",
+    "type": "truth",
+    "text": "What craft would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-6",
+    "type": "truth",
+    "text": "What's the best piece of advice about dreams you've ever received?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-7",
+    "type": "truth",
+    "text": "What's the best piece of advice about work you've ever received?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-8",
+    "type": "truth",
+    "text": "What's something you're looking forward to about {future_event}?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-9",
+    "type": "truth",
+    "text": "What's something about hobbies that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-10",
+    "type": "truth",
+    "text": "What's your go-to singing when you're curious?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-11",
+    "type": "truth",
+    "text": "What's the most exciting thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-12",
+    "type": "truth",
+    "text": "If you could have any characteristic, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-13",
+    "type": "truth",
+    "text": "What's something about fears that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-14",
+    "type": "truth",
+    "text": "What's your favorite way to de-stress?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-15",
+    "type": "truth",
+    "text": "If you could master anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-16",
+    "type": "truth",
+    "text": "If you could meet anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-17",
+    "type": "truth",
+    "text": "What sport would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-18",
+    "type": "truth",
+    "text": "What's your go-to painting when you're curious?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-19",
+    "type": "truth",
+    "text": "What's your go-to gaming when you're stressed?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-20",
+    "type": "truth",
+    "text": "If you could master any {skill} instantly, what would you choose?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-21",
+    "type": "truth",
+    "text": "What's the best piece of advice about school days you've ever received?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-22",
+    "type": "truth",
+    "text": "What's the best celebration you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-23",
+    "type": "truth",
+    "text": "What's your favorite way to treat yourself?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-24",
+    "type": "truth",
+    "text": "What's your go-to cooking when you're happy?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-25",
+    "type": "truth",
+    "text": "Who is your favorite musician?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-26",
+    "type": "truth",
+    "text": "What's your favorite animal?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-27",
+    "type": "truth",
+    "text": "What's your favorite sport?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-28",
+    "type": "truth",
+    "text": "What's your go-to cooking when you're tired?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-29",
+    "type": "truth",
+    "text": "What's the best experience you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-30",
+    "type": "truth",
+    "text": "Who is your favorite artist?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-31",
+    "type": "truth",
+    "text": "If you could live in any city, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-32",
+    "type": "truth",
+    "text": "What's your go-to cooking when you're curious?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-33",
+    "type": "truth",
+    "text": "What's the most unexpected thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-34",
+    "type": "truth",
+    "text": "What's your favorite movie?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-35",
+    "type": "truth",
+    "text": "What's something you've always wanted to discover but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-36",
+    "type": "truth",
+    "text": "What's something about your work that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-37",
+    "type": "truth",
+    "text": "What's your biggest worry related to hobbies?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-38",
+    "type": "truth",
+    "text": "What's something you pretend to understand but actually don't?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-39",
+    "type": "truth",
+    "text": "What's your biggest fear related to habits?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-40",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during reading?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-41",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your partner to know about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-42",
+    "type": "truth",
+    "text": "What's something you've done that you hope your family member never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-43",
+    "type": "truth",
+    "text": "What's something about your family that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-44",
+    "type": "truth",
+    "text": "What's a white lie you've told about school days?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-45",
+    "type": "truth",
+    "text": "What's a white lie you've told about childhood?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-46",
+    "type": "truth",
+    "text": "What's the most rebellious thing you did as a {life_stage}?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-47",
+    "type": "truth",
+    "text": "What's something about your school days that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-48",
+    "type": "truth",
+    "text": "What's a strong opinion you have that might offend someone in this room?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-49",
+    "type": "truth",
+    "text": "What's the biggest fault you've made in a friendship?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-50",
+    "type": "truth",
+    "text": "What's something about your dreams that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-51",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a social setting?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-52",
+    "type": "truth",
+    "text": "What's your biggest unease related to habits?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-53",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during cooking?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-54",
+    "type": "truth",
+    "text": "What's a exciting opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-55",
+    "type": "truth",
+    "text": "What's something about your friendship that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-56",
+    "type": "truth",
+    "text": "What's a unusual opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-57",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your childhood?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-58",
+    "type": "truth",
+    "text": "What's something you've always wanted to learn but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-59",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your friend?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-60",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during swimming?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-61",
+    "type": "truth",
+    "text": "What's a interesting opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-62",
+    "type": "truth",
+    "text": "What's something you've always wanted to achieve but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-63",
+    "type": "truth",
+    "text": "What's something about your habits that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-64",
+    "type": "truth",
+    "text": "What's the most exciting thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-65",
+    "type": "truth",
+    "text": "What's your biggest dread related to school days?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-66",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a public scenario?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-67",
+    "type": "truth",
+    "text": "What's a confession you've kept from your parent?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-68",
+    "type": "truth",
+    "text": "What's a funny opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-69",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during writing?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-70",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your classmate to know about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-71",
+    "type": "truth",
+    "text": "What's your biggest fear related to personality?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-72",
+    "type": "truth",
+    "text": "What's the biggest blunder you've made in a group setting?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-73",
+    "type": "truth",
+    "text": "What's the biggest miscalculation you've made in a job?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-74",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your family member to know about?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-75",
+    "type": "truth",
+    "text": "What's the biggest oversight you've made in a public scenario?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-76",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during painting?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-77",
+    "type": "truth",
+    "text": "What's a white lie you've told about habits?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-78",
+    "type": "truth",
+    "text": "What's something about your personality that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-79",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a job?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-80",
+    "type": "truth",
+    "text": "What's a white lie you've told about fears?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-81",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during singing?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-82",
+    "type": "truth",
+    "text": "What's something about your hobbies that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-83",
+    "type": "truth",
+    "text": "What's a unknown aspect you've kept from your classmate?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-84",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your school days?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-icebreaker-85",
+    "type": "truth",
+    "text": "What's something you've always wanted to win but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-86",
+    "type": "dare",
+    "text": "Do your best impression of politician for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-87",
+    "type": "dare",
+    "text": "Create a short commercial for video.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-88",
+    "type": "dare",
+    "text": "Create a short commercial for search history.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-89",
+    "type": "dare",
+    "text": "Do 10 jumping jacks right now.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-90",
+    "type": "dare",
+    "text": "Show everyone your most recent photo on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-91",
+    "type": "dare",
+    "text": "Speak in a Sports announcer accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-92",
+    "type": "dare",
+    "text": "Give a compliment to {person}.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-93",
+    "type": "dare",
+    "text": "Show everyone your most recent video on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-94",
+    "type": "dare",
+    "text": "Take a selfie with {person} and set it as your phone wallpaper for the next hour.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-95",
+    "type": "dare",
+    "text": "Do your best penguin impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-96",
+    "type": "dare",
+    "text": "Tell a joke about work.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-97",
+    "type": "dare",
+    "text": "Strike a pose like you're singing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-98",
+    "type": "dare",
+    "text": "Recite the alphabet backwards as fast as you can.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-99",
+    "type": "dare",
+    "text": "Tell a joke about fears.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-100",
+    "type": "dare",
+    "text": "Make up a jingle about {person} in the room.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-101",
+    "type": "dare",
+    "text": "Strike a pose like you're painting.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-102",
+    "type": "dare",
+    "text": "Create a short commercial for app.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-103",
+    "type": "dare",
+    "text": "Draw a picture of {subject} with your eyes closed.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-104",
+    "type": "dare",
+    "text": "Create a short commercial for social media post.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-105",
+    "type": "dare",
+    "text": "Strike a pose like you're reading.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-106",
+    "type": "dare",
+    "text": "Do your best horse impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-107",
+    "type": "dare",
+    "text": "Do your best impression of actor for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-108",
+    "type": "dare",
+    "text": "Speak in a Australian accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-109",
+    "type": "dare",
+    "text": "Make up a short story that includes a time traveler, a magic spell, and a lost puppy.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-110",
+    "type": "dare",
+    "text": "Strike a pose like you're swimming.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-111",
+    "type": "dare",
+    "text": "Speak in a Robot accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-112",
+    "type": "dare",
+    "text": "Make up a short story that includes a famous celebrity, a haunted house, and a missing key.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-113",
+    "type": "dare",
+    "text": "Tell a joke about friendship.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-114",
+    "type": "dare",
+    "text": "Do your best lion impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-115",
+    "type": "dare",
+    "text": "Do your best monkey impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-116",
+    "type": "dare",
+    "text": "Do your best chicken impression.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-117",
+    "type": "dare",
+    "text": "Strike a pose like you're exercising.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-118",
+    "type": "dare",
+    "text": "Tell a joke about dreams.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-119",
+    "type": "dare",
+    "text": "Sing the chorus of classic.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-120",
+    "type": "dare",
+    "text": "Share an embarrassing photo of yourself with the group.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-121",
+    "type": "dare",
+    "text": "Call {person} and reading without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-122",
+    "type": "dare",
+    "text": "Post an interesting selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-123",
+    "type": "dare",
+    "text": "Eat a spoonful of mayo.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-124",
+    "type": "dare",
+    "text": "Let someone style your hair however they want.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-125",
+    "type": "dare",
+    "text": "Let someone {action} your forehead with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-126",
+    "type": "dare",
+    "text": "Post an embarrassing selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-127",
+    "type": "dare",
+    "text": "Speak in Cowboy until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-128",
+    "type": "dare",
+    "text": "Show the last 8th contacts you create.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-129",
+    "type": "dare",
+    "text": "Let someone send a text from your phone.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-130",
+    "type": "dare",
+    "text": "Let someone go through your photo gallery for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-131",
+    "type": "dare",
+    "text": "Eat a spoonful of lemon juice.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-132",
+    "type": "dare",
+    "text": "Call {person} and gaming without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-133",
+    "type": "dare",
+    "text": "Call {person} and swimming without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-134",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something unexpected (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-135",
+    "type": "dare",
+    "text": "Do your best dance move right now.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-136",
+    "type": "dare",
+    "text": "Let someone go through your saved items for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-137",
+    "type": "dare",
+    "text": "Show the last 6th posts you learn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-138",
+    "type": "dare",
+    "text": "Try to make {person} laugh without touching them.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-139",
+    "type": "dare",
+    "text": "Eat a spoonful of soy sauce.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-140",
+    "type": "dare",
+    "text": "Let the group create a new dating profile for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-141",
+    "type": "dare",
+    "text": "Text the first person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-142",
+    "type": "dare",
+    "text": "Let someone go through your social media for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-143",
+    "type": "dare",
+    "text": "Eat a spoonful of salsa.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-144",
+    "type": "dare",
+    "text": "Call {person} and hiking without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-145",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something surprising (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-146",
+    "type": "dare",
+    "text": "Let the group pose you for a new profile picture.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-147",
+    "type": "dare",
+    "text": "Let the group pose you for a new vacation photo.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-148",
+    "type": "dare",
+    "text": "Speak in Robot until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-149",
+    "type": "dare",
+    "text": "Eat a spoonful of honey.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-150",
+    "type": "dare",
+    "text": "Post an funny selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-151",
+    "type": "dare",
+    "text": "Post an unusual selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-152",
+    "type": "dare",
+    "text": "Post an memorable selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-153",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-154",
+    "type": "dare",
+    "text": "Let the group pose you for a new candid shot.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-155",
+    "type": "dare",
+    "text": "Let the group create a new online persona for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-156",
+    "type": "dare",
+    "text": "Let the group create a new self-description for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-157",
+    "type": "dare",
+    "text": "Call {person} and exercising without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-158",
+    "type": "dare",
+    "text": "Text the 8th person in your contacts something exciting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-159",
+    "type": "dare",
+    "text": "Post an impressive selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-160",
+    "type": "dare",
+    "text": "Let someone {action} your finger with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-161",
+    "type": "dare",
+    "text": "Let the group create a new introduction for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-162",
+    "type": "dare",
+    "text": "Let the group create a new character description for you.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-163",
+    "type": "dare",
+    "text": "Let someone go through your phone for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-164",
+    "type": "dare",
+    "text": "Post an surprising selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-165",
+    "type": "dare",
+    "text": "Let someone {action} your elbow with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-166",
+    "type": "dare",
+    "text": "Speak in Sports announcer until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-167",
+    "type": "dare",
+    "text": "Show the last last contacts you learn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-168",
+    "type": "dare",
+    "text": "Call {person} and dancing without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-169",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something impressive (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-icebreaker-170",
+    "type": "dare",
+    "text": "Show the last 6th downloads you learn.",
+    "category": "soft",
+    "subOptions": [
+      "icebreaker"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-171",
+    "type": "truth",
+    "text": "What's your favorite way to unwind?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-172",
+    "type": "truth",
+    "text": "What's your favorite way to spend a weekend?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-173",
+    "type": "truth",
+    "text": "What's your go-to dancing when you're happy?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-174",
+    "type": "truth",
+    "text": "Who is your favorite athlete?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-175",
+    "type": "truth",
+    "text": "What's the best piece of advice about friendship you've ever received?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-176",
+    "type": "truth",
+    "text": "What's your favorite way to recharge?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-177",
+    "type": "truth",
+    "text": "What's the most impressive thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-178",
+    "type": "truth",
+    "text": "What's your go-to gaming when you're inspired?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-179",
+    "type": "truth",
+    "text": "If you could live in any type of home, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-180",
+    "type": "truth",
+    "text": "If you could win anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-181",
+    "type": "truth",
+    "text": "What's something about habits that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-182",
+    "type": "truth",
+    "text": "What skill would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-183",
+    "type": "truth",
+    "text": "What's your favorite way to have fun?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-184",
+    "type": "truth",
+    "text": "What's your favorite memory involving fears?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-185",
+    "type": "truth",
+    "text": "What's the best trip you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-186",
+    "type": "truth",
+    "text": "What musical instrument would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-187",
+    "type": "truth",
+    "text": "What's your favorite memory involving habits?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-188",
+    "type": "truth",
+    "text": "If you could have any quality, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-189",
+    "type": "truth",
+    "text": "What's your favorite way to spend free time?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-190",
+    "type": "truth",
+    "text": "If you could have any ability, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-191",
+    "type": "truth",
+    "text": "What's something about childhood that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-192",
+    "type": "truth",
+    "text": "If you could live in any building, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-193",
+    "type": "truth",
+    "text": "What's your favorite memory involving childhood?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-194",
+    "type": "truth",
+    "text": "What's the best piece of advice about habits you've ever received?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-195",
+    "type": "truth",
+    "text": "What's the best competition you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-196",
+    "type": "truth",
+    "text": "What's something about personality that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-197",
+    "type": "truth",
+    "text": "If you could live in any country, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-198",
+    "type": "truth",
+    "text": "What's something about work that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-199",
+    "type": "truth",
+    "text": "What's the most interesting thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-200",
+    "type": "truth",
+    "text": "What's your favorite way to escape reality?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-201",
+    "type": "truth",
+    "text": "What's the best performance you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-202",
+    "type": "truth",
+    "text": "What's your favorite memory involving school days?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-203",
+    "type": "truth",
+    "text": "What's the best piece of advice about hobbies you've ever received?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-204",
+    "type": "truth",
+    "text": "What's your go-to dancing when you're tired?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-205",
+    "type": "truth",
+    "text": "What's a challenging opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-206",
+    "type": "truth",
+    "text": "What's something you've always wanted to master but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-207",
+    "type": "truth",
+    "text": "What's the most impressive thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-208",
+    "type": "truth",
+    "text": "What's a revelation you've kept from your friend?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-209",
+    "type": "truth",
+    "text": "What's a embarrassing opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-210",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your habits?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-211",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your sibling?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-212",
+    "type": "truth",
+    "text": "What's something you've always wanted to experience but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-213",
+    "type": "truth",
+    "text": "What's the most unusual thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-214",
+    "type": "truth",
+    "text": "What's a unexpected opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-215",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your family?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-216",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your hobbies?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-217",
+    "type": "truth",
+    "text": "What's a memorable opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-218",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your colleague to know about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-219",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during hiking?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-220",
+    "type": "truth",
+    "text": "What's the most interesting thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-221",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your sibling to know about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-222",
+    "type": "truth",
+    "text": "What's something you've done that you hope your friend never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-223",
+    "type": "truth",
+    "text": "What's something you've always wanted to try but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-224",
+    "type": "truth",
+    "text": "What's a personal detail you've kept from your roommate?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-225",
+    "type": "truth",
+    "text": "What's the biggest miscalculation you've made in a relationship?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-226",
+    "type": "truth",
+    "text": "What's a impressive opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-227",
+    "type": "truth",
+    "text": "What's a admission you've kept from your acquaintance?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-228",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your friend to know about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-229",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your friendship?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-230",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your personality?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-231",
+    "type": "truth",
+    "text": "What's the most challenging thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-232",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a group setting?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-233",
+    "type": "truth",
+    "text": "What's the biggest miscalculation you've made in a social setting?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-234",
+    "type": "truth",
+    "text": "What's something about your childhood that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-235",
+    "type": "truth",
+    "text": "What's the most surprising thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-236",
+    "type": "truth",
+    "text": "What's the most embarrassing thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-237",
+    "type": "truth",
+    "text": "What's the biggest slip-up you've made in a friendship?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-238",
+    "type": "truth",
+    "text": "What's the biggest mishap you've made in a social setting?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-239",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your dreams?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-240",
+    "type": "truth",
+    "text": "What's a confession you've kept from your roommate?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-241",
+    "type": "truth",
+    "text": "What's the biggest oversight you've made in a friendship?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-242",
+    "type": "truth",
+    "text": "What's the most memorable thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-243",
+    "type": "truth",
+    "text": "What's something about your fears that would surprise people?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-244",
+    "type": "truth",
+    "text": "What's something you've done that you hope your parent never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-245",
+    "type": "truth",
+    "text": "What's the most funny thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-246",
+    "type": "truth",
+    "text": "What's your biggest phobia related to personality?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-247",
+    "type": "truth",
+    "text": "What's a confession you've kept from your colleague?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-248",
+    "type": "truth",
+    "text": "What's a undisclosed fact you've kept from your roommate?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-249",
+    "type": "truth",
+    "text": "What's something you've done that you hope your neighbor never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-250",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a social setting?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-251",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a social setting?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-252",
+    "type": "truth",
+    "text": "What's something you've done that you hope your colleague never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-silly-253",
+    "type": "truth",
+    "text": "What's something you've always wanted to visit but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-254",
+    "type": "dare",
+    "text": "Do your best impression of athlete for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-255",
+    "type": "dare",
+    "text": "Speak in a Cowboy accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-256",
+    "type": "dare",
+    "text": "Tell a joke about hobbies.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-257",
+    "type": "dare",
+    "text": "Strike a pose like you're writing.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-258",
+    "type": "dare",
+    "text": "Make up a short story that includes a superhero, a sandwich, and a talking plant.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-259",
+    "type": "dare",
+    "text": "Show everyone your most recent playlist on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-260",
+    "type": "dare",
+    "text": "Speak in a Southern accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-261",
+    "type": "dare",
+    "text": "Show everyone your most recent social media post on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-262",
+    "type": "dare",
+    "text": "Show everyone your most recent contact on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-263",
+    "type": "dare",
+    "text": "Do your best frog impression.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-264",
+    "type": "dare",
+    "text": "Tell a joke about school days.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-265",
+    "type": "dare",
+    "text": "Tell a joke about habits.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-266",
+    "type": "dare",
+    "text": "Sing the chorus of love ballad.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-267",
+    "type": "dare",
+    "text": "Do your best impression of chef for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-268",
+    "type": "dare",
+    "text": "Sing the chorus of country tune.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-269",
+    "type": "dare",
+    "text": "Show everyone your most recent message on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-270",
+    "type": "dare",
+    "text": "Create a short commercial for message.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-271",
+    "type": "dare",
+    "text": "Do your best impression of TV personality for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-272",
+    "type": "dare",
+    "text": "Create a short commercial for note.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-273",
+    "type": "dare",
+    "text": "Tell a joke about family.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-274",
+    "type": "dare",
+    "text": "Create a short commercial for photo.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-275",
+    "type": "dare",
+    "text": "Speak in a New York accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-276",
+    "type": "dare",
+    "text": "Strike a pose like you're cooking.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-277",
+    "type": "dare",
+    "text": "Do your best impression of author for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-278",
+    "type": "dare",
+    "text": "Make up a short story that includes a dragon, a birthday cake, and a surprise party.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-279",
+    "type": "dare",
+    "text": "Create a short commercial for playlist.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-280",
+    "type": "dare",
+    "text": "Do your best impression of influencer for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-281",
+    "type": "dare",
+    "text": "Strike a pose like you're hiking.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-282",
+    "type": "dare",
+    "text": "Sing the chorus of rap verse.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-283",
+    "type": "dare",
+    "text": "Show everyone your most recent search history on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-284",
+    "type": "dare",
+    "text": "Speak in a British accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-285",
+    "type": "dare",
+    "text": "Speak in Southern until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-286",
+    "type": "dare",
+    "text": "Let someone go through your contacts list for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-287",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something exciting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-288",
+    "type": "dare",
+    "text": "Let the group create a new social media bio for you.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-289",
+    "type": "dare",
+    "text": "Let the group create a new personal statement for you.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-290",
+    "type": "dare",
+    "text": "Speak in Australian until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-291",
+    "type": "dare",
+    "text": "Text the 8th person in your contacts something funny (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-292",
+    "type": "dare",
+    "text": "Show the last 2nd apps you visit.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-293",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something unusual (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-294",
+    "type": "dare",
+    "text": "Let someone {action} your back of hand with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-295",
+    "type": "dare",
+    "text": "Let someone {action} your arm with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-296",
+    "type": "dare",
+    "text": "Post an unexpected selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-297",
+    "type": "dare",
+    "text": "Let the group pose you for a new formal portrait.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-298",
+    "type": "dare",
+    "text": "Let the group create a new about me section for you.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-299",
+    "type": "dare",
+    "text": "Let someone {action} your cheek with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-300",
+    "type": "dare",
+    "text": "Text the first person in your contacts something surprising (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-301",
+    "type": "dare",
+    "text": "Text the first person in your contacts something unexpected (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-302",
+    "type": "dare",
+    "text": "Let someone go through your music playlist for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-303",
+    "type": "dare",
+    "text": "Let someone {action} your shoulder with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-304",
+    "type": "dare",
+    "text": "Show the last last apps you win.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-305",
+    "type": "dare",
+    "text": "Call {person} and writing without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-306",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-307",
+    "type": "dare",
+    "text": "Post an exciting selfie on your social media of the group's choosing.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-308",
+    "type": "dare",
+    "text": "Eat a spoonful of mustard.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-309",
+    "type": "dare",
+    "text": "Show the last 7th searches you learn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-310",
+    "type": "dare",
+    "text": "Call {person} and cooking without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-311",
+    "type": "dare",
+    "text": "Let someone {action} your palm with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-312",
+    "type": "dare",
+    "text": "Show the last 2nd posts you learn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-313",
+    "type": "dare",
+    "text": "Let someone go through your browser history for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-314",
+    "type": "dare",
+    "text": "Show the last 4th songs you create.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-315",
+    "type": "dare",
+    "text": "Speak in British until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-316",
+    "type": "dare",
+    "text": "Show the last 4th apps you discover.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-317",
+    "type": "dare",
+    "text": "Show the last 6th emails you try.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-318",
+    "type": "dare",
+    "text": "Show the last 2nd songs you visit.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-319",
+    "type": "dare",
+    "text": "Call {person} and painting without explaining why.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-320",
+    "type": "dare",
+    "text": "Eat a spoonful of hot sauce.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-321",
+    "type": "dare",
+    "text": "Let the group pose you for a new cover photo.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-322",
+    "type": "dare",
+    "text": "Speak in Whisper until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-323",
+    "type": "dare",
+    "text": "Let the group pose you for a new selfie.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-324",
+    "type": "dare",
+    "text": "Eat a spoonful of jam.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-325",
+    "type": "dare",
+    "text": "Show the last first emails you try.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-326",
+    "type": "dare",
+    "text": "Show the last 5th apps you discover.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-327",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something embarrassing (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-328",
+    "type": "dare",
+    "text": "Show the last last searches you discover.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-329",
+    "type": "dare",
+    "text": "Show the last 5th messages you visit.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-330",
+    "type": "dare",
+    "text": "Let the group create a new status update for you.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-331",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something memorable (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-332",
+    "type": "dare",
+    "text": "Let the group pose you for a new themed photo.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-333",
+    "type": "dare",
+    "text": "Let the group create a new profile picture caption for you.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-334",
+    "type": "truth",
+    "text": "What's something about friendship that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-335",
+    "type": "truth",
+    "text": "Who is your favorite fictional character?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-336",
+    "type": "truth",
+    "text": "What's your favorite way to relax?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-337",
+    "type": "truth",
+    "text": "What's your go-to writing when you're happy?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-338",
+    "type": "truth",
+    "text": "What outdoor activity would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-339",
+    "type": "truth",
+    "text": "What's your favorite way to enjoy a day off?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-340",
+    "type": "truth",
+    "text": "What's your favorite hobby?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-341",
+    "type": "truth",
+    "text": "What's your favorite book?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-342",
+    "type": "truth",
+    "text": "If you could try anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-343",
+    "type": "truth",
+    "text": "What's the best party you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-344",
+    "type": "truth",
+    "text": "What creative hobby would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-345",
+    "type": "truth",
+    "text": "What's the most challenging thing you've ever done?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-346",
+    "type": "truth",
+    "text": "What's your go-to swimming when you're relaxed?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-347",
+    "type": "truth",
+    "text": "What's something about school days that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-348",
+    "type": "truth",
+    "text": "What's the best concert you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-349",
+    "type": "truth",
+    "text": "What's something about dreams that always makes you smile?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-350",
+    "type": "truth",
+    "text": "If you could live in any fictional world, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-351",
+    "type": "truth",
+    "text": "What's your favorite memory involving hobbies?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-352",
+    "type": "truth",
+    "text": "What's the best piece of advice about personality you've ever received?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-353",
+    "type": "truth",
+    "text": "What's the best festival you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-354",
+    "type": "truth",
+    "text": "If you could live in any climate, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-355",
+    "type": "truth",
+    "text": "If you could have any gift, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-356",
+    "type": "truth",
+    "text": "What's your favorite memory involving dreams?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-357",
+    "type": "truth",
+    "text": "What's your favorite vacation spot?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-358",
+    "type": "truth",
+    "text": "If you could learn anything, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-359",
+    "type": "truth",
+    "text": "What's your go-to exercising when you're curious?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-360",
+    "type": "truth",
+    "text": "If you could have any strength, what would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-361",
+    "type": "truth",
+    "text": "What's your favorite memory involving friendship?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-362",
+    "type": "truth",
+    "text": "If you could live in any environment, where would it be?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-363",
+    "type": "truth",
+    "text": "What game would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-364",
+    "type": "truth",
+    "text": "What's your go-to cooking when you're relaxed?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-365",
+    "type": "truth",
+    "text": "What's your go-to writing when you're relaxed?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-366",
+    "type": "truth",
+    "text": "What language would you like to try?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-367",
+    "type": "truth",
+    "text": "What's the best gathering you've ever attended?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-368",
+    "type": "truth",
+    "text": "What's a white lie you've told about family?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-369",
+    "type": "truth",
+    "text": "What's a disclosure you've kept from your roommate?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-370",
+    "type": "truth",
+    "text": "What's a surprising opinion you have that might be controversial?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-371",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your classmate?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-372",
+    "type": "truth",
+    "text": "What's the most unexpected thing you've done that no one knows about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-373",
+    "type": "truth",
+    "text": "What's a disclosure you've kept from your acquaintance?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-374",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to fears?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-375",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during exercising?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-376",
+    "type": "truth",
+    "text": "What's your biggest dread related to friendship?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-377",
+    "type": "truth",
+    "text": "What's your biggest dread related to habits?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-378",
+    "type": "truth",
+    "text": "What's a white lie you've told about hobbies?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-379",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your roommate to know about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-380",
+    "type": "truth",
+    "text": "What's something you've done that you hope your classmate never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-381",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your work?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-382",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your classmate?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-383",
+    "type": "truth",
+    "text": "What's the biggest failure you've made in a social setting?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-384",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your fears?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-385",
+    "type": "truth",
+    "text": "What's something you've done that you hope your acquaintance never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-386",
+    "type": "truth",
+    "text": "What's your biggest worry related to family?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-387",
+    "type": "truth",
+    "text": "What's a white lie you've told about personality?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-388",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to childhood?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-389",
+    "type": "truth",
+    "text": "What's the biggest wrong decision you've made in a family situation?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-390",
+    "type": "truth",
+    "text": "What's your biggest fear related to fears?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-391",
+    "type": "truth",
+    "text": "What's your biggest concern related to hobbies?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-392",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to fears?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-393",
+    "type": "truth",
+    "text": "What's the biggest oversight you've made in a professional context?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-394",
+    "type": "truth",
+    "text": "What's something you've done that you hope your sibling never finds out about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-395",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to hobbies?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-396",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your neighbor?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-397",
+    "type": "truth",
+    "text": "What's your biggest fear related to dreams?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-398",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your parent to know about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-399",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to personality?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-400",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to personality?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-401",
+    "type": "truth",
+    "text": "What's something you've always wanted to create but haven't had the courage to?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-402",
+    "type": "truth",
+    "text": "What's your biggest fear related to school days?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-403",
+    "type": "truth",
+    "text": "What's a admission you've kept from your friend?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-404",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to work?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-405",
+    "type": "truth",
+    "text": "What's a unknown aspect you've kept from your colleague?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-406",
+    "type": "truth",
+    "text": "What's a white lie you've told about work?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-407",
+    "type": "truth",
+    "text": "What's your biggest nervousness related to work?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-408",
+    "type": "truth",
+    "text": "What's your biggest unease related to work?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-409",
+    "type": "truth",
+    "text": "What's your biggest unease related to personality?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-410",
+    "type": "truth",
+    "text": "What's the biggest failure you've made in a job?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-411",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your neighbor to know about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-412",
+    "type": "truth",
+    "text": "What's your biggest dread related to family?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-413",
+    "type": "truth",
+    "text": "What's the biggest fault you've made in a group setting?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-414",
+    "type": "truth",
+    "text": "What's something you've done that you wouldn't want your acquaintance to know about?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-415",
+    "type": "truth",
+    "text": "What's a disclosure you've kept from your classmate?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-truth-creative-416",
+    "type": "truth",
+    "text": "What's the biggest miscalculation you've made in a private moment?",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-417",
+    "type": "dare",
+    "text": "Do your best cat impression.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-418",
+    "type": "dare",
+    "text": "Do your best dog impression.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-419",
+    "type": "dare",
+    "text": "Sing the chorus of pop song.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-420",
+    "type": "dare",
+    "text": "Speak in a Whisper accent until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-421",
+    "type": "dare",
+    "text": "Do your best impression of director for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-422",
+    "type": "dare",
+    "text": "Show everyone your most recent note on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-423",
+    "type": "dare",
+    "text": "Sing the chorus of rock anthem.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-424",
+    "type": "dare",
+    "text": "Make up a short story that includes a secret agent, a broken elevator, and a mysterious package.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-425",
+    "type": "dare",
+    "text": "Create a short commercial for contact.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-426",
+    "type": "dare",
+    "text": "Sing the chorus of Disney song.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-427",
+    "type": "dare",
+    "text": "Sing the chorus of hit from your childhood.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-428",
+    "type": "dare",
+    "text": "Strike a pose like you're dancing.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-429",
+    "type": "dare",
+    "text": "Do your best snake impression.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-430",
+    "type": "dare",
+    "text": "Show everyone your most recent screenshot on your phone.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-431",
+    "type": "dare",
+    "text": "Do your best impression of comedian for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-432",
+    "type": "dare",
+    "text": "Sing the chorus of current chart-topper.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-433",
+    "type": "dare",
+    "text": "Do your best impression of musician for 30 seconds.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-434",
+    "type": "dare",
+    "text": "Create a short commercial for screenshot.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-435",
+    "type": "dare",
+    "text": "Do your best elephant impression.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-436",
+    "type": "dare",
+    "text": "Text the 7th person in your contacts something challenging (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-437",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something exciting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-438",
+    "type": "dare",
+    "text": "Let someone go through your notes app for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-439",
+    "type": "dare",
+    "text": "Eat a spoonful of peanut butter.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-440",
+    "type": "dare",
+    "text": "Show the last 4th emails you discover.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-441",
+    "type": "dare",
+    "text": "Text the 7th person in your contacts something unexpected (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-442",
+    "type": "dare",
+    "text": "Text the 2nd person in your contacts something unexpected (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-443",
+    "type": "dare",
+    "text": "Show the last 5th videos you master.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-444",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something funny (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-445",
+    "type": "dare",
+    "text": "Show the last 4th photos you master.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-446",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-447",
+    "type": "dare",
+    "text": "Let the group pose you for a new professional headshot.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-448",
+    "type": "dare",
+    "text": "Show the last 10th apps you visit.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-449",
+    "type": "dare",
+    "text": "Speak in New York until your next turn.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-450",
+    "type": "dare",
+    "text": "Show the last last photos you create.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-451",
+    "type": "dare",
+    "text": "Let someone {action} your wrist with a washable marker.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-452",
+    "type": "dare",
+    "text": "Let the group pose you for a new group photo.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-453",
+    "type": "dare",
+    "text": "Text the 4th person in your contacts something impressive (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-454",
+    "type": "dare",
+    "text": "Show the last 6th photos you try.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-455",
+    "type": "dare",
+    "text": "Let someone go through your camera roll for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-456",
+    "type": "dare",
+    "text": "Text the 6th person in your contacts something surprising (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-457",
+    "type": "dare",
+    "text": "Text the 7th person in your contacts something surprising (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-458",
+    "type": "dare",
+    "text": "Show the last 7th contacts you learn.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-459",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something challenging (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-460",
+    "type": "dare",
+    "text": "Show the last 6th searches you create.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-461",
+    "type": "dare",
+    "text": "Text the 8th person in your contacts something embarrassing (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-462",
+    "type": "dare",
+    "text": "Text the last person in your contacts something embarrassing (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-463",
+    "type": "dare",
+    "text": "Show the last 5th messages you try.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-464",
+    "type": "dare",
+    "text": "Show the last 3rd videos you master.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-465",
+    "type": "dare",
+    "text": "Text the 7th person in your contacts something unusual (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-466",
+    "type": "dare",
+    "text": "Show the last 2nd searches you try.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-467",
+    "type": "dare",
+    "text": "Text the 8th person in your contacts something unexpected (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-468",
+    "type": "dare",
+    "text": "Let someone go through your bookmarks for 1 minute.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-469",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something challenging (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-470",
+    "type": "dare",
+    "text": "Text the first person in your contacts something interesting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-471",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something unexpected (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-472",
+    "type": "dare",
+    "text": "Show the last 10th songs you create.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-473",
+    "type": "dare",
+    "text": "Show the last 6th downloads you visit.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-474",
+    "type": "dare",
+    "text": "Text the 8th person in your contacts something impressive (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-475",
+    "type": "dare",
+    "text": "Show the last 3rd apps you discover.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-476",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something exciting (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-477",
+    "type": "dare",
+    "text": "Show the last first emails you learn.",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-creative-478",
+    "type": "dare",
+    "text": "Text the 2nd person in your contacts something surprising (show the group before sending).",
+    "category": "soft",
+    "subOptions": [
+      "creative"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "soft-dare-silly-479",
+    "type": "dare",
+    "text": "Show the last 5th videos you try.",
+    "category": "soft",
+    "subOptions": [
+      "silly"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

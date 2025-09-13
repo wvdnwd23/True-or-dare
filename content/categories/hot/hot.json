@@ -1,0 +1,6014 @@
+[
+  {
+    "id": "68d4fba8-fe4a-4c56-bf9a-2ae3c11ea8ad",
+    "type": "truth",
+    "text": "What's your go-to endeavor when you're state?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aa3b2a36-c030-44a6-abde-0167a3f1bbe9",
+    "type": "truth",
+    "text": "What's something romantic you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f4c5b77f-7438-424e-99fa-2b0c4245fb1b",
+    "type": "truth",
+    "text": "What's something you find flirty that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d9282048-ec82-4aed-8861-939a59a6d650",
+    "type": "truth",
+    "text": "What's something you find enticing that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5a7e3066-7bfb-4264-891d-7e645e9d5ff3",
+    "type": "truth",
+    "text": "What's the most attractive fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ef01664f-0fec-4fe4-81fa-b48345dc290e",
+    "type": "truth",
+    "text": "What's the boldest move you've ever made on someone you were attracted to?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "51fc65ff-9df3-4f25-9a93-34724a0b063e",
+    "type": "truth",
+    "text": "What's the most alluring fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e591837a-25d3-4bdd-b95a-3c9de08ce4d4",
+    "type": "truth",
+    "text": "What's the most enticing fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ea50aa2e-96d8-4610-aa80-8a66d3313b6e",
+    "type": "truth",
+    "text": "What's a eyes that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1d85dd37-82b1-4a98-bb52-76e5fc3d2db1",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for attraction?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "884deb43-eea1-48fe-bcf6-dab969814e9a",
+    "type": "truth",
+    "text": "What's the most enticing thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5ed80b61-0b9d-44d7-b70c-4941417ff7de",
+    "type": "truth",
+    "text": "What's something charming you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f6e44045-3ac9-4e4a-b244-e1a15e778482",
+    "type": "truth",
+    "text": "What's your favorite form of glance?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "287ddd9f-078c-46e8-a4b6-1aae1f61d39b",
+    "type": "truth",
+    "text": "What's something attractive you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "935c5c0b-c128-41f4-97e4-1f229749574d",
+    "type": "truth",
+    "text": "What's your biggest flirtatious gesture?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b08d3375-8abd-4de6-9a87-b199c75926aa",
+    "type": "truth",
+    "text": "What's your biggest turn-on?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "14393b75-6016-4a92-ae7b-4cd4bcb08a28",
+    "type": "truth",
+    "text": "What's the most flirty place you've ever been charming someone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0c8f2af8-e8b8-424f-b005-6a67dd84fecb",
+    "type": "truth",
+    "text": "What's a style that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c398f9f6-8e34-4907-b4b9-d6005e6f6836",
+    "type": "truth",
+    "text": "What's the most charming place you've ever been attracting attention?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "30e226b0-2f3e-4508-8254-78de00de06d2",
+    "type": "truth",
+    "text": "What's the most charming fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "efdf60ab-dd2e-40c9-a510-5f47942d85f4",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for flirtation?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "95949b0c-b6ff-4bad-9b3b-521339866de5",
+    "type": "truth",
+    "text": "What's a laugh that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1e88447b-aebd-4316-9f4b-38986fa102c8",
+    "type": "truth",
+    "text": "What's something you find attractive that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8d533c61-d0e2-494d-b00a-5b51624f44fe",
+    "type": "truth",
+    "text": "What's something flirtatious you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "58e4e8e9-1199-4d28-aad5-3bd8ecc01efe",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you attempt.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b198f0b4-dbe9-48e1-add5-ebabe49ae727",
+    "type": "dare",
+    "text": "Remove an article of clothing (nothing essential) for 3rd rounds.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "98f39f5d-5047-40a7-a68e-5ee202784cfd",
+    "type": "dare",
+    "text": "Give a brief laugh massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b4e41cc2-6b48-4134-ae36-15919e943a85",
+    "type": "dare",
+    "text": "Show the group your best flirtatious look.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b427fc18-41a9-490c-a57b-f33fb836ca57",
+    "type": "dare",
+    "text": "Whisper something charming in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5e9f8dbf-36ed-4f03-b217-acca398d1eeb",
+    "type": "dare",
+    "text": "Whisper something enticing in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c80d0dc5-f4e7-48a7-bebd-c17ab2cd4018",
+    "type": "dare",
+    "text": "Show the group your best flirty walk.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "52a791a4-3183-4905-87fd-6d0e345e00f1",
+    "type": "dare",
+    "text": "Show the group your best pick-up line.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d8f52c63-48f8-4a4a-b49b-0c10dffae58c",
+    "type": "dare",
+    "text": "Give a brief smile massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0680650f-ed19-4e22-b115-d72073eee794",
+    "type": "dare",
+    "text": "Feed a small bite of food to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "831322c1-93e9-4936-9e11-883e42b4b21f",
+    "type": "dare",
+    "text": "Remove an article of clothing (nothing essential) for last rounds.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9fb2ef67-33dc-4912-b072-a09f0c0e9d9f",
+    "type": "dare",
+    "text": "Whisper something charming in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9c7bb18a-c626-4d43-a005-fd3010cc7de9",
+    "type": "dare",
+    "text": "Use only body language to show how you'd charm someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cdd29a42-1cf1-4e48-ad1f-f8f58eff090f",
+    "type": "dare",
+    "text": "Demonstrate your most flirty dance move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "07280617-6117-455c-96ae-c4ccfe69991a",
+    "type": "dare",
+    "text": "Use only body language to show how you'd attract someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6f03df19-465c-4e83-84b2-7621590a1519",
+    "type": "dare",
+    "text": "Demonstrate your most flirty facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e28d236e-6310-4b2f-966d-e697e4c5b4a4",
+    "type": "dare",
+    "text": "Send a attractive text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "429f7638-7d68-423f-9546-e26d6a98a299",
+    "type": "dare",
+    "text": "Send a attractive text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c22de003-bb70-40ce-99fe-5cb877033645",
+    "type": "dare",
+    "text": "Give a flirty compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "40aa2cf1-9445-43d4-8383-6518f6eb2c51",
+    "type": "dare",
+    "text": "Demonstrate your most attractive facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d4b4321e-0c4a-4915-bde0-6b238e526722",
+    "type": "dare",
+    "text": "Send a flirty text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81df1d92-4af8-4830-b09f-992371b86e8e",
+    "type": "dare",
+    "text": "Give a brief eyes massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9bc68b7d-3c0a-4e8d-83c4-c36bb86fc096",
+    "type": "dare",
+    "text": "Send a alluring text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5f840a6a-2ec0-4e95-b4ae-964a54749244",
+    "type": "dare",
+    "text": "Use only body language to show how you'd flirt with someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5d80972b-e5ce-44de-992c-b04f1f7cecd0",
+    "type": "truth",
+    "text": "What's your favorite form of sensual contact?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b6459e61-5290-40f2-82f0-b3451e58d7af",
+    "type": "truth",
+    "text": "What's a physical feature that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "31659db7-84cd-4c4e-a2da-802b01d80d6b",
+    "type": "truth",
+    "text": "What's something you find sensual that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f2c62cb6-ee28-4387-9a31-efd19ce6dfa8",
+    "type": "truth",
+    "text": "What's your biggest physical attraction?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f9bd1da3-0b8c-49c9-a8ec-00c3abc4149b",
+    "type": "truth",
+    "text": "What's your biggest intimate moment?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "240e6291-a3a8-45e1-86d0-b98624e62147",
+    "type": "truth",
+    "text": "What's the most tantalizing place you've ever been being intimate?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "83b3c447-636b-475b-aee8-9829c329be3b",
+    "type": "truth",
+    "text": "What's your favorite form of physical touch?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2efee788-3240-4bb8-ba73-1f21bbc0daf1",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for physical connection?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ed4628d3-5ac2-4332-9b8a-6aa73b8bdf3a",
+    "type": "truth",
+    "text": "What's something sensual you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7537ce2c-2a19-427b-b2cd-f312da0d484e",
+    "type": "truth",
+    "text": "What's the most tantalizing place you've ever been sharing a sensual moment?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "279477ce-787a-4312-8a8a-46ab9ff9da04",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for sensuality?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "631b3efe-0f57-47f0-b140-b22bff137582",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for intimacy?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5643fcf8-1f6a-4f3a-96d4-e4563e5e6548",
+    "type": "truth",
+    "text": "What's something you find provocative that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "78df995d-8ae0-4c6a-87b8-6729db768930",
+    "type": "truth",
+    "text": "What's a sensual attribute that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "601e23e4-96c3-4039-84ba-780d10e31c0b",
+    "type": "truth",
+    "text": "What's the most enticing place you've ever been sharing a sensual moment?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0f4ebb60-9a31-4876-a697-1df69827521e",
+    "type": "truth",
+    "text": "What's the most tantalizing thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "129c56cf-34f1-4edd-b320-647c276179b1",
+    "type": "truth",
+    "text": "What's a attractive quality that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "90de8eba-ccab-460f-b066-6ebf21ad6b59",
+    "type": "truth",
+    "text": "What's the most sensual fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0b4b0b75-6feb-4363-a9a4-705f1b534a63",
+    "type": "dare",
+    "text": "Give a enticing compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d42b014b-8a19-4709-8097-3f3dae4d5c57",
+    "type": "dare",
+    "text": "Send a enticing text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2aed56df-defa-498e-b228-772816c76eff",
+    "type": "dare",
+    "text": "Whisper something tantalizing in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "82a30c04-d455-4d7e-8c66-43e066c0dc13",
+    "type": "dare",
+    "text": "Give a tantalizing compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d68cba51-fcf7-4cce-b326-03e143b394e1",
+    "type": "dare",
+    "text": "Remove an article of clothing (nothing essential) for first rounds.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "58a4fb13-1a75-4760-97a1-1969a7984d22",
+    "type": "dare",
+    "text": "Give a enticing compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "75b7c3ff-5ace-4b86-b408-aa5b4ad8d263",
+    "type": "dare",
+    "text": "Whisper something provocative in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "53e1206c-3427-46a0-b074-31567a7fc113",
+    "type": "dare",
+    "text": "Give a provocative compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e15603b8-26c6-40e2-8490-d85e9b227da2",
+    "type": "dare",
+    "text": "Demonstrate what you consider to be the most attractive way to gesture.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "11a85146-ba29-4513-8aa6-25491386c400",
+    "type": "dare",
+    "text": "Demonstrate what you consider to be the most attractive way to pose.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "71c2ef24-5113-4cfa-9808-965dbaeaef59",
+    "type": "dare",
+    "text": "Demonstrate your most enticing pose.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e00de411-f8eb-4360-bfaa-f3676149b532",
+    "type": "dare",
+    "text": "Send a enticing text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1b847c97-de94-4cf6-b7d6-be8b004688a1",
+    "type": "dare",
+    "text": "Use only body language to show how you'd tantalize someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0d83641f-5059-44e4-b2fd-ea16eac64481",
+    "type": "dare",
+    "text": "Use only body language to show how you'd entice someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0df190a0-fccb-4942-b733-1ea9bd9a536c",
+    "type": "dare",
+    "text": "Show the group your best charming gesture.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1030630d-262e-4241-b2ed-b5f3568f1dc3",
+    "type": "dare",
+    "text": "Demonstrate what you consider to be the most attractive way to dance move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "97967f28-1ce7-4417-82af-ef6d34cddae9",
+    "type": "dare",
+    "text": "Feed a small bite of food to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "78d82100-af49-48d8-8e30-07d85b155351",
+    "type": "dare",
+    "text": "Give a brief sensual attribute massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f4f33488-fd50-421b-afb9-5f85a09451b8",
+    "type": "dare",
+    "text": "Give a provocative compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8b315776-f34f-48a4-87b9-34903c7cda44",
+    "type": "dare",
+    "text": "Give a seductive compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f5396f7e-83f7-47c7-87c2-69d9846ec0df",
+    "type": "dare",
+    "text": "Demonstrate what you consider to be the most attractive way to facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "45439455-214c-41d4-b032-3b19dd0646f3",
+    "type": "truth",
+    "text": "What's something bold you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5e8362e5-bba6-44e0-ab31-68171098fa09",
+    "type": "truth",
+    "text": "What's a quality that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d08674e0-4f62-4502-80ae-96ff19132cf2",
+    "type": "truth",
+    "text": "What's a attribute that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "90daac2a-817f-4f71-be04-8e0f2227f158",
+    "type": "truth",
+    "text": "What's the most adventurous thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ab06f58c-db7c-4fd6-a51a-456029802475",
+    "type": "truth",
+    "text": "What's the most bold fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "67408a06-ec26-430b-a87f-0cd4ef7f769d",
+    "type": "truth",
+    "text": "What's something you find bold that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8fe7d039-33be-43e0-958b-7e3ebaa418aa",
+    "type": "truth",
+    "text": "What's the most uninhibited fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4f62256e-a330-4b2d-8d83-6b951307623e",
+    "type": "truth",
+    "text": "What's your biggest bold move?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "80b7b3ce-137b-42ef-9d5d-c7def5cfd026",
+    "type": "truth",
+    "text": "What's something daring you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0cdbbbd5-4c51-4ea9-a720-07efc022f21a",
+    "type": "truth",
+    "text": "What's the most adventurous place you've ever been being spontaneous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0a86662b-e263-4cb3-9e3a-2a2348976af5",
+    "type": "truth",
+    "text": "What's something uninhibited you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "620c589b-222d-4b2d-84f0-04ca4c8795ae",
+    "type": "truth",
+    "text": "What's your biggest daring action?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d6edc652-078e-470e-b284-b601bc6d86ae",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for risk-taking?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ce414124-6332-4e31-b66c-288629eae5eb",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for adventure?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a8e2673a-6106-4450-8c47-cadb8b5dfa0f",
+    "type": "truth",
+    "text": "What's your favorite form of daring move?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1bbaeabf-f10a-4328-8ef9-69b674f1cd6b",
+    "type": "truth",
+    "text": "What's the most uninhibited place you've ever been taking a risk?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5c723721-120d-4642-9ffb-d078c4b83cfb",
+    "type": "truth",
+    "text": "What's your biggest adventurous experience?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5cb673c9-8948-400b-ad72-951a57454c21",
+    "type": "truth",
+    "text": "What's a characteristic that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8f263826-797e-416f-b702-428606b6fe1b",
+    "type": "dare",
+    "text": "Show the last last emails you do.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d8811ec7-0c73-4236-b590-7edca9e3835e",
+    "type": "dare",
+    "text": "Give a brief characteristic massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2bd3f8ec-6376-4964-87a8-490b95b56ffc",
+    "type": "dare",
+    "text": "Whisper something daring in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "00966a1d-75b4-4d48-946e-9d4a673ddc44",
+    "type": "dare",
+    "text": "Whisper something uninhibited in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f913c87b-3ce1-4f83-b2a2-0fcf9cf1b562",
+    "type": "dare",
+    "text": "Use only body language to show how you'd daringly pursue someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e8d29746-756a-4bf7-a65d-e9393ab31c7c",
+    "type": "dare",
+    "text": "Demonstrate your most daring walk.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "559dc1de-f112-4d38-af00-10a7f74ec803",
+    "type": "dare",
+    "text": "Remove an article of clothing (nothing essential) for 5th rounds.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "45dc88e6-eae8-4f26-998d-c8fa4199b8ec",
+    "type": "dare",
+    "text": "Whisper something bold in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b4dc41b1-95ba-4700-b07a-650a48e04c57",
+    "type": "dare",
+    "text": "Whisper something daring in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4969a1bf-0642-4dc8-b1a9-e608d7a27044",
+    "type": "dare",
+    "text": "Send a daring text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0913164b-75c9-4dc7-a4f3-cbf96af3343e",
+    "type": "dare",
+    "text": "Send a uninhibited text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d48dcb26-b2a6-412b-aba6-95a5ed46918f",
+    "type": "dare",
+    "text": "Use only body language to show how you'd adventurously engage with someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a72f4bac-c1a4-4d78-97f2-4c25f3affedf",
+    "type": "dare",
+    "text": "Give a daring compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb77a9bb-337c-47b6-a6da-8374d29ec92f",
+    "type": "dare",
+    "text": "Feed a small bite of food to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "36452148-227c-4fc1-8bec-528a94cb9bcb",
+    "type": "dare",
+    "text": "Send a bold text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0d6e927a-5317-4dbe-b5e9-11bd51967eeb",
+    "type": "dare",
+    "text": "Give a brief attribute massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6b2f3335-5860-4fc4-a06b-43f6d062df57",
+    "type": "dare",
+    "text": "Give a brief feature massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3ac0c5c3-4d66-4506-ba63-db084a61f70c",
+    "type": "dare",
+    "text": "Send a bold text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d14a41fc-1260-4561-92c1-3060762f4542",
+    "type": "dare",
+    "text": "Give a brief feature massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e0dabb63-2d96-40dd-9723-3e6d98fdc26f",
+    "type": "dare",
+    "text": "Demonstrate your most spontaneous walk.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "67e1d666-9c6d-4822-9b8a-98d326b7ae3a",
+    "type": "dare",
+    "text": "Give a brief attribute massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0cbd117e-07c7-4085-9344-6cb83022a9c9",
+    "type": "dare",
+    "text": "Whisper something adventurous in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b72eadfd-a0ee-43ee-88f4-f835577aa023",
+    "type": "dare",
+    "text": "Demonstrate your most adventurous walk.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "11171ba7-9a8e-4f9d-9e25-1946642aa829",
+    "type": "dare",
+    "text": "Give a brief attribute massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e490dfd4-d13f-484c-b09c-673fc1aff281",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for romance?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d45c68ae-6917-462f-b363-12fb3f4cf3fb",
+    "type": "truth",
+    "text": "What's the most alluring thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a385a71f-9579-4dc5-8925-6228c4f010f9",
+    "type": "truth",
+    "text": "What's your biggest attraction?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "10e9c5e0-7a78-4798-9a79-8739f2a49b72",
+    "type": "truth",
+    "text": "What's the most enticing place you've ever been attracting attention?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f55f9224-ce7a-4795-94eb-57632a1f6486",
+    "type": "truth",
+    "text": "What's a smile that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cc53cbc1-ecf9-426b-a1a2-1babd47795a0",
+    "type": "dare",
+    "text": "Whisper something enticing in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "03009b0d-03b5-4dcd-aa0d-ae108df62645",
+    "type": "dare",
+    "text": "Give a charming compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3de28994-97a0-4144-bf24-b181035850e9",
+    "type": "dare",
+    "text": "Give a brief eyes massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6c0fcd71-400f-4af1-bd11-5c349585779a",
+    "type": "dare",
+    "text": "Give a brief style massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bc224175-1c7a-4165-bad2-cbf46c6ac053",
+    "type": "dare",
+    "text": "Give a brief eyes massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f07ec516-0b97-47ba-bd41-5d9971ad92f5",
+    "type": "dare",
+    "text": "Whisper something charming in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "16c9ac89-af27-49ed-8375-fbcdb4fc9880",
+    "type": "dare",
+    "text": "Give a charming compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1d2b6457-c6bd-4710-8699-886de05bb71d",
+    "type": "truth",
+    "text": "What's something seductive you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d2dee992-6776-4bd3-a900-c91e984898da",
+    "type": "truth",
+    "text": "What's the most enticing place you've ever been being intimate?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d630632d-5fc5-43a3-ae8e-e3f78b9209a0",
+    "type": "truth",
+    "text": "What's the most sensual place you've ever been experiencing attraction?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "786924f5-838e-4591-8548-98466f63f66c",
+    "type": "dare",
+    "text": "Give a enticing compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f819f563-5636-43a9-a5e4-9a829f275003",
+    "type": "dare",
+    "text": "Demonstrate your most tantalizing dance move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7e5145c6-7c45-4b07-9570-14937abea2b8",
+    "type": "dare",
+    "text": "Give a seductive compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aa780ecc-eb75-4965-a50d-a6b9ec2139c8",
+    "type": "dare",
+    "text": "Give a enticing compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "26ca4486-3076-4ad1-9d11-1dbc2491b968",
+    "type": "dare",
+    "text": "Whisper something seductive in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4026e0a1-779f-4d37-843e-3c1d4bc54058",
+    "type": "dare",
+    "text": "Give a brief sensual attribute massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1ac56ef7-d2fc-4569-bee4-a2d7b63419a1",
+    "type": "truth",
+    "text": "What's the most spontaneous place you've ever been being adventurous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "892857c2-0187-4155-b7f6-3c18128f3a2b",
+    "type": "truth",
+    "text": "What's something that always puts you in the mood for spontaneity?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e9d0160f-7a00-4af5-aae7-eefe115f3c10",
+    "type": "truth",
+    "text": "What's your favorite form of bold gesture?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4a9a5e32-866d-4ced-83c1-902a76ef652b",
+    "type": "dare",
+    "text": "Demonstrate your most uninhibited pose.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "087a0c22-5342-42f5-8441-4f28751f822e",
+    "type": "dare",
+    "text": "Send a uninhibited text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "58930f6b-c8a3-43a4-8912-4dd79b20c3a9",
+    "type": "dare",
+    "text": "Use only body language to show how you'd boldly approach someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f8b1bc65-d665-4faf-af1a-d33165d291ed",
+    "type": "dare",
+    "text": "Give a brief quality massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0921f0e8-18e7-48af-8b7a-07344a2832cc",
+    "type": "truth",
+    "text": "What's something you find charming that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e882e002-b6af-4e90-b563-ea504e403b59",
+    "type": "truth",
+    "text": "What's the most charming place you've ever been charming someone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2b7eabc0-e548-4fa6-8e62-15cbd8ac2469",
+    "type": "truth",
+    "text": "What's your favorite form of gesture?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "83da46dd-f215-4bfa-b6a0-d8494ed70048",
+    "type": "dare",
+    "text": "Demonstrate your most alluring dance move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0d22f2bb-5e70-4b0d-8196-b9b99ee1cbea",
+    "type": "dare",
+    "text": "Send a attractive text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1cdc2975-d371-4010-a5a8-13c4c5025aa3",
+    "type": "dare",
+    "text": "Whisper something attractive in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "af05663b-2098-4948-bc72-d1f68609633d",
+    "type": "truth",
+    "text": "What's the most provocative place you've ever been sharing a sensual moment?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "06a311ad-3884-4df1-8ae9-5e0a4ff0d66c",
+    "type": "truth",
+    "text": "What's the most provocative fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0a192593-7299-4b48-80b8-7c7ddea98aea",
+    "type": "truth",
+    "text": "What's the most tantalizing place you've ever been experiencing attraction?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5c0214b4-b02e-4a35-9064-e9f86afe050d",
+    "type": "dare",
+    "text": "Give a brief physical feature massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "158b03d0-fa96-44aa-b779-daeb303d411a",
+    "type": "dare",
+    "text": "Send a seductive text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e4556df5-09f4-450d-86b0-c83a0decbe55",
+    "type": "dare",
+    "text": "Demonstrate your most provocative walk.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ed838088-f1a5-467b-ba0d-d8d0ece14330",
+    "type": "dare",
+    "text": "Whisper something seductive in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "966ebfb3-09ba-4f52-8093-f012e04171c0",
+    "type": "dare",
+    "text": "Whisper something tantalizing in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6edafca4-1270-427f-97c7-e5daf991cafc",
+    "type": "truth",
+    "text": "What's the most daring fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6f4b3fa7-b9af-4312-8f71-d1ca62ec8bc3",
+    "type": "truth",
+    "text": "What's something adventurous you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7771bd92-8ba8-48f7-ac64-3bb59bb72094",
+    "type": "dare",
+    "text": "Give a brief quality massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a55b711b-a143-44f0-a81a-3972f1ae0ffd",
+    "type": "dare",
+    "text": "Give a adventurous compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bfaf5d62-562b-44f5-aad9-84077d2f5f9c",
+    "type": "dare",
+    "text": "Demonstrate your most daring pose.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6f5f8f06-5032-4aef-8b26-b1a263e553a4",
+    "type": "dare",
+    "text": "Send a uninhibited text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2a5d5772-5bf6-4720-aef7-4d185959d9bd",
+    "type": "dare",
+    "text": "Send a adventurous text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b3fd4851-20ba-4f47-b942-dc6cb6112601",
+    "type": "dare",
+    "text": "Whisper something spontaneous in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b7a36484-74a2-4279-8705-e3999d070010",
+    "type": "truth",
+    "text": "What's your favorite form of compliment?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b7d7eaf8-aec8-455d-ac6c-0ae0e43f6af1",
+    "type": "dare",
+    "text": "Show the last 5th social media posts you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1c791464-da19-49a9-af70-5737d5f8ed95",
+    "type": "dare",
+    "text": "Show the last 5th social media posts you experience.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bfa3ee63-1ace-43a5-be37-11fb7ea2f678",
+    "type": "dare",
+    "text": "Give a charming compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c6b04bc2-f5d0-4739-8b7d-86d7f0e52ae1",
+    "type": "dare",
+    "text": "Feed a small bite of food to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e4d084f1-5950-4f39-9aa4-97514a07c83a",
+    "type": "dare",
+    "text": "Demonstrate your most attractive walk.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8b9b4504-7c4f-4733-bb3c-7e476be0cae5",
+    "type": "truth",
+    "text": "What's something you find tantalizing that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5b677064-1f2d-4e5b-ade2-0671c31a74f2",
+    "type": "truth",
+    "text": "What's something enticing you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f4e96018-8506-4cc9-a204-5a6a92810b9f",
+    "type": "dare",
+    "text": "Show the last 10th messages you try.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7561f286-b780-4584-a205-2b8a098072f8",
+    "type": "dare",
+    "text": "Give a tantalizing compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2c53e8ef-94fe-4635-876d-16f760fc0889",
+    "type": "dare",
+    "text": "Demonstrate what you consider to be the most attractive way to walk.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b819f8f-33ce-4e0c-8c19-6c51386cc4ee",
+    "type": "truth",
+    "text": "What's something you find spontaneous that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d4c20392-ceca-4645-89e7-6d9c7616cdb4",
+    "type": "truth",
+    "text": "What's your favorite form of adventurous action?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "786339ac-c17d-47eb-a3a3-047c57121548",
+    "type": "truth",
+    "text": "What's the most adventurous fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c5d76c11-fd55-4b3c-a9fa-be606f1a18d7",
+    "type": "truth",
+    "text": "What's something you find daring that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "07ded919-2f08-4ad3-8d3f-6f421e28a733",
+    "type": "truth",
+    "text": "What's the most bold thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3429df06-8007-4daa-b7ec-cf794ca0171d",
+    "type": "truth",
+    "text": "What's the most spontaneous place you've ever been taking a risk?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a7f73468-a0ae-4643-9306-55111acb1d8e",
+    "type": "dare",
+    "text": "Give a brief characteristic massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "22b8b845-e5c5-48cc-a339-2c5501a25f2e",
+    "type": "dare",
+    "text": "Whisper something spontaneous in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d83f1d41-1308-41ff-a901-569e0a28bebe",
+    "type": "dare",
+    "text": "Give a adventurous compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "78409fa7-7bf9-4891-982c-64c87bf2fe4f",
+    "type": "dare",
+    "text": "Give a adventurous compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2a40168a-9693-40e2-bd66-3b7aa7f4d04b",
+    "type": "dare",
+    "text": "Send a adventurous text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a371c6f6-b09e-4d5e-9fae-a2247bc38fe9",
+    "type": "truth",
+    "text": "What's the most enticing place you've ever been charming someone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0d55dcf0-d97b-496c-a15f-320dfcb87fb7",
+    "type": "truth",
+    "text": "What's the most flirty fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b8c1f38e-20bf-48a8-bcf0-34bf41f0b8c3",
+    "type": "truth",
+    "text": "What's the most flirty thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7a641ebe-08bc-4e65-9eea-834912efae8e",
+    "type": "truth",
+    "text": "What's the most attractive place you've ever been flirting?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e7fff9af-2df5-4a66-9288-3fa6ba8ef6a9",
+    "type": "dare",
+    "text": "Show the last 3rd apps you do.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "62f96c24-6c34-441b-9177-c960cbf85607",
+    "type": "dare",
+    "text": "Send a flirty text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "709ec773-6593-4f27-adc8-83a122919df6",
+    "type": "dare",
+    "text": "Demonstrate your most charming walk.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0682b7ae-3889-418c-9f9b-525fcccc11ce",
+    "type": "dare",
+    "text": "Whisper something alluring in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "682a82bf-f42b-4661-8ea2-fe2808bf81c5",
+    "type": "truth",
+    "text": "What's your favorite form of intimate gesture?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c6d704ae-e2a4-40fa-9243-2db818824a71",
+    "type": "dare",
+    "text": "Whisper something provocative in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dff6ff5f-aba0-4297-b70d-d2c1d5609048",
+    "type": "dare",
+    "text": "Send a sensual text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2cc3af63-7cbe-40a9-aa05-943bcb755af7",
+    "type": "dare",
+    "text": "Give a brief attractive quality massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6bca2591-789a-472f-93ec-193c783195b9",
+    "type": "dare",
+    "text": "Whisper something tantalizing in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7c80743c-ea82-44f1-8dd3-75969f7b0a5e",
+    "type": "truth",
+    "text": "What's the most spontaneous fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a77a508f-5664-4a0e-8f16-3c09d0d2cd3a",
+    "type": "truth",
+    "text": "What's the most spontaneous place you've ever been being spontaneous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "69558b4f-d91f-4598-8b65-dfb3ccc1747a",
+    "type": "dare",
+    "text": "Show the last 5th messages you try.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "168e72e7-51ab-4c4a-8599-d1b47a695c27",
+    "type": "dare",
+    "text": "Show the last 10th photos you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2d693615-fbaf-4943-9a8b-97bb3314bef0",
+    "type": "dare",
+    "text": "Send a daring text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0db3de29-b52b-467f-8cec-9a5351edb54e",
+    "type": "dare",
+    "text": "Give a brief attribute massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "994673d5-09b7-4c08-bc69-f99c1d975e75",
+    "type": "dare",
+    "text": "Give a daring compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "47949758-389f-4286-ad0e-24907a971378",
+    "type": "truth",
+    "text": "What's a voice that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8c550efe-1973-41fb-92a5-dfe5f5879e94",
+    "type": "dare",
+    "text": "Give a brief voice massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aee47af6-d94f-4395-a79e-cbbb4df2b054",
+    "type": "dare",
+    "text": "Give a brief smile massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "37f35cf8-9e23-4ca3-81c6-59ae9783ebf9",
+    "type": "dare",
+    "text": "Demonstrate your most alluring gesture.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "22ec1e88-cd36-4771-8d99-c09ddec500dc",
+    "type": "truth",
+    "text": "What's something you find seductive that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9b8109dd-e0cb-417f-b2f4-02bbe02da5b1",
+    "type": "truth",
+    "text": "What's the most seductive fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3ca4fd49-2096-4e76-b39e-6946eb5ed945",
+    "type": "dare",
+    "text": "Send a seductive text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8e911819-0be6-4d51-a393-8217ca4ab606",
+    "type": "dare",
+    "text": "Demonstrate your most enticing dance move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cd9ef162-cd8c-43db-a06c-8892817a36cc",
+    "type": "dare",
+    "text": "Give a provocative compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "49cd19d8-0380-47d6-8f28-4324b03d9e88",
+    "type": "dare",
+    "text": "Whisper something sensual in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b85cf00d-b197-45f8-92b2-0bb94d003489",
+    "type": "truth",
+    "text": "What's the most bold place you've ever been taking a risk?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "efb0f7b6-5e02-4cce-a62a-a8b9349607b8",
+    "type": "truth",
+    "text": "What's the most daring thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f7f78450-ba68-4802-a14c-8fd7645b9def",
+    "type": "truth",
+    "text": "What's the most bold place you've ever been being spontaneous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "588c9db1-df5a-4c2e-bdf4-864451d455b3",
+    "type": "truth",
+    "text": "What's something you find adventurous that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "faa484cc-53e3-49a1-bfc9-746780ac2019",
+    "type": "dare",
+    "text": "Whisper something bold in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "61aefd22-d081-46dd-89fe-77bf52065944",
+    "type": "dare",
+    "text": "Demonstrate your most bold facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f9010cbe-7a56-4db1-b292-c0f97fd6e838",
+    "type": "truth",
+    "text": "What's the most attractive thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7ccc6a60-a947-4dfc-b59a-a5a2c7a4eaec",
+    "type": "dare",
+    "text": "Give a brief voice massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3b6f1988-7d94-4dc9-8f68-23b3e703d2b8",
+    "type": "dare",
+    "text": "Whisper something alluring in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f770c38b-20b8-43b0-bb03-f5c9b1dc0400",
+    "type": "dare",
+    "text": "Give a attractive compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c73e68ce-a613-4bc8-8fb6-b1d2d78e0dbd",
+    "type": "dare",
+    "text": "Send a charming text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ae76edbb-d25e-4650-b546-b3ebb6d09165",
+    "type": "dare",
+    "text": "Feed a small bite of food to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7c597573-efde-4e1a-afa1-76d9b91c51ee",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you attempt.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3d88bc96-3996-4987-a970-c1b92cf29940",
+    "type": "dare",
+    "text": "Whisper something seductive in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "79c2ddbd-5c4d-4cc5-8e9f-22b0ce97fa51",
+    "type": "dare",
+    "text": "Whisper something sensual in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ad5d947c-5561-40d7-a860-989e1ac423c7",
+    "type": "truth",
+    "text": "What's something you find uninhibited that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b55e024d-802e-4b7a-9bc6-c0466fb43531",
+    "type": "dare",
+    "text": "Show the last first photos you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1c4a673e-e313-42a3-980c-dfce24c3e1b3",
+    "type": "dare",
+    "text": "Demonstrate your most daring dance move.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e3ea4e9b-bd06-4ecc-b5b1-541cb927014e",
+    "type": "dare",
+    "text": "Demonstrate your most adventurous pose.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f0035634-24f9-4d42-bd8d-85281d0b0ab2",
+    "type": "dare",
+    "text": "Give a bold compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9dc856f9-db4c-4e3e-854d-6e4f1291cf27",
+    "type": "dare",
+    "text": "Send a alluring text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "867e1de4-c8a9-45d8-b961-ed8787009fc9",
+    "type": "dare",
+    "text": "Give a brief style massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f5577d84-4ada-4585-8823-b7366b58986b",
+    "type": "truth",
+    "text": "What's the most seductive thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3a289606-ee16-42dd-aea6-f4c226c85c09",
+    "type": "dare",
+    "text": "Give a enticing compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "96663365-cdf5-4fc6-b893-bea8d6f05747",
+    "type": "dare",
+    "text": "Send a seductive text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b479e83a-7b6f-4408-a55f-f93aafec5414",
+    "type": "dare",
+    "text": "Send a provocative text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "510a8826-9940-4b23-97df-16ecaa6f1802",
+    "type": "dare",
+    "text": "Whisper something enticing in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "98f7c009-2ff6-436e-b66a-1c024c12cfe2",
+    "type": "truth",
+    "text": "What's the most spontaneous thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8f7b6f5c-6a60-4b75-bfe4-b542f99f65c9",
+    "type": "dare",
+    "text": "Give a brief attribute massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8dd40f3d-b730-4b53-86ab-a64b208a9762",
+    "type": "dare",
+    "text": "Demonstrate your most uninhibited dance move.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2f0f63bf-8030-4697-81ab-db05f837679d",
+    "type": "truth",
+    "text": "What's something you find alluring that most people might not?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a155b9ba-7ee9-4b16-88ca-8872c576d70a",
+    "type": "truth",
+    "text": "What's your favorite form of touch?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "42a68224-ede6-4c36-b8a9-234ca7e29af7",
+    "type": "dare",
+    "text": "Demonstrate your most enticing walk.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "50db0970-aa3c-4e2a-8768-610f89a21818",
+    "type": "dare",
+    "text": "Give a attractive compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "380203a0-d1e0-4a84-ab5e-8a5e663d7aeb",
+    "type": "truth",
+    "text": "What's your biggest sensual experience?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5ee2967f-ca9d-4b4b-a62a-3f054a816faf",
+    "type": "truth",
+    "text": "What's something provocative you've always wanted to try?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0ff708de-d7d2-4f6d-bf1a-ae06bc736699",
+    "type": "dare",
+    "text": "Show the last 10th apps you do.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "19942aaf-b690-47e9-a920-0c2cc8e568b7",
+    "type": "dare",
+    "text": "Give a brief sensual attribute massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2fde44e4-7226-4b58-99f1-8e8ce2ff1c39",
+    "type": "dare",
+    "text": "Give a brief attractive quality massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "59414c55-6840-4397-bb2e-06fdcd535065",
+    "type": "truth",
+    "text": "What's a feature that you find most attractive on others?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8f718670-8784-4366-9871-5f79ee9aef2e",
+    "type": "truth",
+    "text": "What's the most bold place you've ever been being adventurous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ad062e94-3fc5-43a4-9ce0-de6b654498c2",
+    "type": "truth",
+    "text": "What's the most daring place you've ever been being spontaneous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e3a9a7ba-f681-43d2-a971-2ad6a8833a32",
+    "type": "dare",
+    "text": "Whisper something uninhibited in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f6193b7d-0b78-4924-bbe1-bccbcb43deac",
+    "type": "dare",
+    "text": "Whisper something bold in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "26b14e47-daee-4cde-993c-000c32454047",
+    "type": "dare",
+    "text": "Demonstrate your most adventurous facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4a680ee8-8d39-4b93-bbce-646196b0bcdb",
+    "type": "truth",
+    "text": "What's your biggest romantic quality?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6ddba341-667b-4598-9a1e-bcaad5d6927f",
+    "type": "dare",
+    "text": "Give a alluring compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b0fdab9c-1fae-45dd-abaf-14d870ac178e",
+    "type": "dare",
+    "text": "Give a alluring compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c0c0d106-4634-4034-9082-9db824e80e6d",
+    "type": "dare",
+    "text": "Remove an article of clothing (nothing essential) for 10th rounds.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "db7bca10-8b6e-4d0e-907e-06989c7d0f5b",
+    "type": "dare",
+    "text": "Send a charming text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dfe89784-385a-4e72-85bf-c8a37a1b51c1",
+    "type": "truth",
+    "text": "What's your go-to activity when you're state?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e67dcd99-ec5b-4e38-89db-a10ccd9e12f2",
+    "type": "truth",
+    "text": "What's the most sensual thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8fc270fe-4380-4a87-bc87-11f8a090a66d",
+    "type": "dare",
+    "text": "Show the last last apps you experience.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5ff2200c-4706-4ac9-9ba5-a88f5c7eef0b",
+    "type": "dare",
+    "text": "Send a tantalizing text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3d83d53f-9697-430b-a328-facfbd0514b1",
+    "type": "dare",
+    "text": "Send a tantalizing text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "49c3c525-a323-470c-b249-b6529e723854",
+    "type": "dare",
+    "text": "Send a sensual text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ae940060-51d6-47a7-b558-350fbbab6c5a",
+    "type": "dare",
+    "text": "Give a brief physical feature massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "354a6c77-ed27-4b21-a2c1-be542a304b9b",
+    "type": "dare",
+    "text": "Give a brief feature massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5178915d-3a58-404c-8fcd-ff4e9c53d813",
+    "type": "dare",
+    "text": "Whisper something spontaneous in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c1419db2-2d3f-4095-b336-6e055daa65dc",
+    "type": "dare",
+    "text": "Whisper something spontaneous in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "de9015a5-ca7b-4e27-9822-43044ec20584",
+    "type": "truth",
+    "text": "What's the most flirty place you've ever been attracting attention?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "584e9477-156e-47e2-85a8-8d385c157579",
+    "type": "dare",
+    "text": "Show the last first photos you try.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f63ce9fd-7dbe-4550-aa27-ebd529de015a",
+    "type": "dare",
+    "text": "Use only body language to show how you'd approach someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1e8ba486-2d0f-4b58-9cbc-1ab4e7511438",
+    "type": "dare",
+    "text": "Send a enticing text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d1a5f798-f772-4b96-8413-da00b2c51836",
+    "type": "truth",
+    "text": "What's the most provocative thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e49e0833-7bd7-4d3f-a75c-fb4ac83fba01",
+    "type": "truth",
+    "text": "What's the most tantalizing fantasy you've had?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1aa58a45-8a57-4cb4-927b-22409e792076",
+    "type": "dare",
+    "text": "Demonstrate your most provocative facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "14ef6946-4a1b-4493-a383-07a28e41ae43",
+    "type": "dare",
+    "text": "Send a provocative text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "13c9f400-b4ee-4ed5-9589-f8b930a36227",
+    "type": "dare",
+    "text": "Demonstrate your most provocative gesture.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5fdf531a-c67a-49d9-aee1-7db628b67052",
+    "type": "dare",
+    "text": "Give a brief attractive quality massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8cd7e13c-99dd-4921-9d2f-35ac94dc1126",
+    "type": "truth",
+    "text": "What's the most daring place you've ever been taking a risk?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a2d0cbfc-6024-46f4-900c-e727719ff588",
+    "type": "dare",
+    "text": "Show the last first messages you do.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c2d8120f-0872-4037-b9a9-eef0d924af53",
+    "type": "dare",
+    "text": "Whisper something adventurous in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "df2f10b4-d1f5-4556-b361-2a664086aaca",
+    "type": "dare",
+    "text": "Whisper something uninhibited in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5ce3d7c7-ee06-4b8e-a05e-77f3237abaa3",
+    "type": "dare",
+    "text": "Send a uninhibited text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7219a1f5-e9b2-4569-8f1e-aa6ccd2d0cb5",
+    "type": "dare",
+    "text": "Give a brief characteristic massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74e6be59-16dd-4e37-bb53-9863d9e49ad1",
+    "type": "truth",
+    "text": "What's the most alluring place you've ever been charming someone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c7e55f86-9bb4-4cde-998e-5a75002fcd3b",
+    "type": "dare",
+    "text": "Demonstrate your most charming pose.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ab6db65b-31cb-4030-97fb-a4d2eace14d6",
+    "type": "dare",
+    "text": "Give a brief voice massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "428a57de-8fd2-4d66-9f01-29882debea99",
+    "type": "dare",
+    "text": "Demonstrate your most sensual pose.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ca948e5e-7b47-46c6-b9aa-059a7db43a8a",
+    "type": "truth",
+    "text": "What's the most uninhibited thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f3256b9d-7590-412b-a674-1ed146450ece",
+    "type": "dare",
+    "text": "Demonstrate your most spontaneous dance move.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0c8c6454-0497-404c-95f9-0c79e77f5312",
+    "type": "dare",
+    "text": "Give a alluring compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b75206c5-f07e-4d1f-ad05-940be0aa9b15",
+    "type": "dare",
+    "text": "Use only body language to show how you'd seduce someone you're attracted to.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "264d9f7a-e16c-4bdf-9861-eb087b1dded0",
+    "type": "dare",
+    "text": "Whisper something provocative in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0e9e188a-9a6d-4022-8c52-dc6f3a4ba281",
+    "type": "dare",
+    "text": "Send a sensual text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f1048c8b-07e7-42da-85b8-58bf8c88f921",
+    "type": "dare",
+    "text": "Send a spontaneous text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2c8ee7d9-4aeb-4d9f-9c83-f2090192fead",
+    "type": "dare",
+    "text": "Whisper something uninhibited in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fa2c29c6-c008-43d5-90f3-d42a5a87a096",
+    "type": "truth",
+    "text": "What's the most charming thing someone has done that immediately attracted you to them?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "32f223ef-cf4a-413d-a768-b7167f2d265d",
+    "type": "truth",
+    "text": "What's the most attractive place you've ever been attracting attention?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "06476eaa-00ef-4884-b973-b3ab04375d6a",
+    "type": "dare",
+    "text": "Give a brief voice massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "331b429b-b326-493a-b8f4-ccca6025733c",
+    "type": "dare",
+    "text": "Send a flirty text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a293a68e-3812-4d01-a5e0-73989fa3f765",
+    "type": "dare",
+    "text": "Whisper something alluring in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0231d2f4-9221-4135-878e-54c3fe8d5faf",
+    "type": "truth",
+    "text": "What's the most enticing place you've ever been experiencing attraction?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dd51be71-8d75-423b-a932-14f6cb912dcd",
+    "type": "dare",
+    "text": "Send a sensual text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "38eb0e00-fa70-47d8-b144-868bc0b8ebbc",
+    "type": "dare",
+    "text": "Give a brief physical feature massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b9dcd518-5906-4eed-8dfc-584ba478118d",
+    "type": "dare",
+    "text": "Demonstrate your most seductive pose.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c0cc8e08-5b3d-48cf-8dce-4058335fb620",
+    "type": "dare",
+    "text": "Give a brief feature massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c68e7914-d93b-4eed-9b22-1731c90a3869",
+    "type": "dare",
+    "text": "Demonstrate your most charming dance move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6e8b6984-c67e-4152-a575-8a80492b3856",
+    "type": "dare",
+    "text": "Send a charming text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1e048a39-f6c7-4e5b-a716-78c1571d845d",
+    "type": "dare",
+    "text": "Send a attractive text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6412d966-acc9-4be9-99c5-42d154e89236",
+    "type": "dare",
+    "text": "Show the last first emails you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c34732e9-0745-46e1-afd0-de422840144e",
+    "type": "dare",
+    "text": "Show the last first messages you try.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1c575dab-7c87-4ece-aa9c-99ba52ff1099",
+    "type": "dare",
+    "text": "Send a enticing text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "008ee4a8-ee4f-4b9d-8c67-aed60e6c6fc2",
+    "type": "dare",
+    "text": "Give a brief quality massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "729bf5fb-31fe-4917-9063-0406b280ecb3",
+    "type": "dare",
+    "text": "Send a charming text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8dcecffb-08a7-42fe-97b6-61bd827c82fd",
+    "type": "dare",
+    "text": "Demonstrate your most flirty walk.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "db5bd634-e82c-47cd-8597-7d7e6d9ba309",
+    "type": "dare",
+    "text": "Give a alluring compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0dab7f9e-6c9f-4664-857f-993d686f038c",
+    "type": "dare",
+    "text": "Demonstrate your most alluring facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "46e86281-f556-47a9-b027-4406c48847f7",
+    "type": "truth",
+    "text": "What's the most provocative place you've ever been being intimate?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3255ce36-91de-403d-be82-85369d133c92",
+    "type": "dare",
+    "text": "Show the last 10th emails you try.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1bd194be-48e8-4c5d-8de4-c1dddf6695db",
+    "type": "dare",
+    "text": "Give a brief sensual attribute massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "35c38fcb-d8b0-409f-a769-5aaf16878ad1",
+    "type": "dare",
+    "text": "Demonstrate your most tantalizing pose.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e8101c2f-cde6-4892-90c5-d3ff401f818e",
+    "type": "dare",
+    "text": "Show the last last social media posts you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9a39f36a-7610-442e-8324-199034f0bbd4",
+    "type": "dare",
+    "text": "Send a daring text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "076c03f1-fc16-45d4-aede-2204d0031eac",
+    "type": "dare",
+    "text": "Send a spontaneous text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6c4d9665-89b2-41c1-9851-fe87a081e7f4",
+    "type": "dare",
+    "text": "Give a spontaneous compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2a995c02-a1ec-4237-ac17-c966c76f273c",
+    "type": "dare",
+    "text": "Send a adventurous text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2b51127d-3996-4a98-abb3-42af75a21b5a",
+    "type": "dare",
+    "text": "Demonstrate your most attractive dance move.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f41fccb6-2786-461c-ba95-0e80d7e2b47e",
+    "type": "dare",
+    "text": "Send a flirty text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2dc87ce9-cf1b-425a-a3bb-64fd3afad988",
+    "type": "dare",
+    "text": "Demonstrate your most flirty gesture.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d170123d-f1c3-49ac-bdd1-bb3046607426",
+    "type": "dare",
+    "text": "Demonstrate your most seductive dance move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e975df26-91e6-4444-9ea5-e2f0bf7a7949",
+    "type": "truth",
+    "text": "What's the most charming place you've ever been flirting?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f7fc0b23-9658-4254-afa4-594d6aeeb756",
+    "type": "dare",
+    "text": "Whisper something alluring in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "694b9857-e7e9-444b-ae59-d4a66cbf2e07",
+    "type": "dare",
+    "text": "Demonstrate your most alluring pose.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "645ff981-2161-4a68-a17b-855df0ace1a8",
+    "type": "dare",
+    "text": "Whisper something flirty in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "05842606-595b-4ede-8dd8-9d1becf19b8a",
+    "type": "dare",
+    "text": "Demonstrate your most flirty pose.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1aa7f846-a5b1-4bf3-83db-99ee0bbfcda6",
+    "type": "dare",
+    "text": "Demonstrate your most seductive walk.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8afd5455-60ac-4bbf-b979-04534de92d57",
+    "type": "dare",
+    "text": "Send a provocative text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "06a7b003-8830-4d2f-aa20-4b6eebff1875",
+    "type": "dare",
+    "text": "Demonstrate your most uninhibited facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "528fcbe7-acfc-423e-be1b-dbd5a0682bbd",
+    "type": "dare",
+    "text": "Give a brief quality massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b7656654-6339-4a5d-99cc-7cc24b5a040d",
+    "type": "dare",
+    "text": "Send a attractive text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d260ce10-bad4-49d5-b8d9-fc9083f96ecf",
+    "type": "dare",
+    "text": "Send a alluring text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8dc8ede5-dd52-4daf-9d57-fb5eb01a3221",
+    "type": "dare",
+    "text": "Give a brief attractive quality massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "caf02c47-90b6-4092-887f-a7c89efc8fff",
+    "type": "dare",
+    "text": "Whisper something seductive in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1800407f-4ae2-4145-916b-4207c9dcfc32",
+    "type": "truth",
+    "text": "What's the most daring place you've ever been being adventurous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "076a258b-81e5-4486-a87e-a535b57a334f",
+    "type": "dare",
+    "text": "Whisper something spontaneous in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a7341051-7e68-44af-925b-aff87b391000",
+    "type": "dare",
+    "text": "Give a daring compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "44c1af00-d992-4cc3-941b-3656d3f8ffe9",
+    "type": "dare",
+    "text": "Give a bold compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "053098a1-97b0-4286-bd63-020083a389db",
+    "type": "dare",
+    "text": "Show the last first photos you do.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "485e1d5a-575a-4f88-932f-b96886198d64",
+    "type": "dare",
+    "text": "Show the last 3rd emails you experience.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6b0241b6-bb1a-4c57-ba0e-b1b41a1d33c0",
+    "type": "dare",
+    "text": "Whisper something enticing in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b77169d-58a8-40d5-9240-97f415bedd46",
+    "type": "dare",
+    "text": "Give a seductive compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8442bb57-2081-453e-82bd-264b81440e2e",
+    "type": "dare",
+    "text": "Give a uninhibited compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d7638ad1-2f90-48b5-94ac-6c7871ebcff7",
+    "type": "dare",
+    "text": "Give a adventurous compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "792d75e3-3439-4cc6-a980-196bbb717c30",
+    "type": "dare",
+    "text": "Demonstrate your most bold gesture.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bc6c4244-6dc9-4576-b799-a696d5420f72",
+    "type": "dare",
+    "text": "Send a uninhibited text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9ed8f939-2e21-4de3-90a3-4fcd02e1fc26",
+    "type": "truth",
+    "text": "What's the most alluring place you've ever been flirting?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0006c775-e4b2-446b-91eb-02e27c31242f",
+    "type": "dare",
+    "text": "Send a enticing text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5f7699bf-b19b-4bd2-82af-5c95149d8e08",
+    "type": "dare",
+    "text": "Whisper something flirty in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d98d01c0-961f-46ee-ab1a-cd6b3af1c928",
+    "type": "dare",
+    "text": "Demonstrate your most seductive gesture.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7fdf7cc3-1e67-4111-86cd-3098da3d1964",
+    "type": "dare",
+    "text": "Give a seductive compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "854b823a-f399-48a7-9d3b-70ab0111c3ce",
+    "type": "dare",
+    "text": "Give a brief feature massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "801b1e76-938a-41bb-8a4e-b63ef0c1b864",
+    "type": "dare",
+    "text": "Give a bold compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "84c0a6d0-a7c8-424a-bb1d-833dc64e0860",
+    "type": "dare",
+    "text": "Give a attractive compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "886aa951-c7d6-4660-93e7-9f59515fcf3d",
+    "type": "dare",
+    "text": "Give a sensual compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ba5b57dd-73e9-48b9-8c4e-1e346a8fe768",
+    "type": "truth",
+    "text": "What's the most uninhibited place you've ever been being adventurous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "55482699-c32e-4cef-8361-8beba12926a0",
+    "type": "dare",
+    "text": "Whisper something bold in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b91fa05-9779-4bbc-bef1-617f0c228b16",
+    "type": "dare",
+    "text": "Give a attractive compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fe203fa9-f378-4e97-a66c-49ad594b1de3",
+    "type": "dare",
+    "text": "Demonstrate your most enticing gesture.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b0eda9cb-5cf7-41c7-9579-de0fd49f991f",
+    "type": "dare",
+    "text": "Give a brief physical feature massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fb88d669-921c-4871-8e61-82c9fdeb1c5b",
+    "type": "truth",
+    "text": "What's the most uninhibited place you've ever been being spontaneous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "efd9732a-8661-4ad8-880c-335c78488539",
+    "type": "dare",
+    "text": "Send a adventurous text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5be636ea-0349-43a8-b412-7fdf575f497f",
+    "type": "dare",
+    "text": "Give a charming compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0a9b0df7-2b44-4f7a-8177-10c9ba295264",
+    "type": "truth",
+    "text": "What's the most seductive place you've ever been experiencing attraction?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "579aa95b-5b73-4c3b-afa5-b3bb01c94258",
+    "type": "dare",
+    "text": "Give a provocative compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7ff91e20-3518-4109-8f61-bdcbd814831e",
+    "type": "dare",
+    "text": "Demonstrate your most tantalizing walk.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0f60a046-49ee-4f73-8778-32c0a81a20c9",
+    "type": "truth",
+    "text": "What's the most adventurous place you've ever been being adventurous?",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3010fce1-eeec-4991-8fe9-ac5ea551fb1d",
+    "type": "dare",
+    "text": "Demonstrate your most spontaneous pose.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a74ee60c-b70c-41c1-b20e-aab5d9de36b6",
+    "type": "dare",
+    "text": "Give a uninhibited compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9c137ba0-c495-42d3-a26c-ce535a3a6903",
+    "type": "dare",
+    "text": "Demonstrate your most charming gesture.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "44181360-2e34-420a-a5b3-a15caa76b3f9",
+    "type": "dare",
+    "text": "Send a alluring text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "03cede7d-c6ca-467d-b08b-ea79dadbd297",
+    "type": "dare",
+    "text": "Send a charming text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "46c21427-3e61-4d0b-9a8c-54043ce0bd2d",
+    "type": "dare",
+    "text": "Whisper something sensual in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7188d647-bf3b-456a-a601-7a171fad0498",
+    "type": "dare",
+    "text": "Demonstrate your most sensual facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b43f4f94-9baf-4757-8768-4620002ef74b",
+    "type": "dare",
+    "text": "Give a brief characteristic massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6e498aa7-a762-4659-b089-aaa88c0d0b04",
+    "type": "dare",
+    "text": "Demonstrate your most bold dance move.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "531b2e0c-86a9-4a22-aabe-973792e56282",
+    "type": "dare",
+    "text": "Give a brief laugh massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0f724723-8eee-4130-9406-cb4c20bd5b41",
+    "type": "dare",
+    "text": "Give a brief style massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "13409788-d804-4430-9ab5-5d749b5324df",
+    "type": "dare",
+    "text": "Show the last 10th photos you experience.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ac3d41e3-0af5-4153-a372-4f50b81dfc3e",
+    "type": "dare",
+    "text": "Demonstrate your most seductive facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "33d3829e-b762-4f47-9332-fad64c5e628c",
+    "type": "dare",
+    "text": "Whisper something sensual in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f25b884a-6b10-47e8-b423-bc53bb29dd8f",
+    "type": "dare",
+    "text": "Whisper something seductive in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f715cfc3-ef9e-458a-a2d1-30972d1c5898",
+    "type": "dare",
+    "text": "Send a provocative text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d559f3e3-59c8-4b95-be61-11c3a169db7e",
+    "type": "dare",
+    "text": "Send a daring text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ce73231b-1bcc-411e-b11b-7b93bf8b0aca",
+    "type": "dare",
+    "text": "Demonstrate your most uninhibited gesture.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "73569396-f16f-4bd5-a873-62b4e8c24ac6",
+    "type": "dare",
+    "text": "Send a adventurous text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0ac11b6c-cb88-4f44-b002-cd16be1090c9",
+    "type": "dare",
+    "text": "Demonstrate your most attractive gesture.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6760cd1c-9b2a-4ca5-9670-08c1f95634c5",
+    "type": "dare",
+    "text": "Give a brief voice massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "31476fad-5836-4080-a92e-8e7817df7fc9",
+    "type": "dare",
+    "text": "Give a tantalizing compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9119ff64-908d-4f85-aa1c-5f6661a67b71",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you experience.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b8f270c-b86f-4f19-be2d-a10f4d42c447",
+    "type": "dare",
+    "text": "Send a bold text to the person to your right (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4ecd70d4-ffc2-4367-9023-7284632382aa",
+    "type": "dare",
+    "text": "Send a bold text to the person to your left (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f2f613f9-ba9e-474d-a900-5ae100cab5b3",
+    "type": "dare",
+    "text": "Whisper something adventurous in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e58fe161-c606-4916-adef-0f37624b707a",
+    "type": "dare",
+    "text": "Send a spontaneous text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9b32a68c-c265-43e1-bdee-fd59ae1b7ba0",
+    "type": "dare",
+    "text": "Give a brief smile massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1fd09369-6514-4805-98f4-d8e1eb516d5f",
+    "type": "dare",
+    "text": "Whisper something provocative in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c0d1d069-9780-43cf-b868-abc0ab2bb391",
+    "type": "dare",
+    "text": "Demonstrate your most bold pose.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "21d0d1cb-9e5b-4d87-9bc9-da44c8a6a71e",
+    "type": "dare",
+    "text": "Whisper something daring in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "36c73872-40de-40bc-813f-d3cfa606eff5",
+    "type": "dare",
+    "text": "Demonstrate your most bold walk.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2c9d9b2b-5e46-4c71-b2b5-6afe9b171b99",
+    "type": "dare",
+    "text": "Demonstrate your most spontaneous facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6cefb04d-c85b-407e-b5ba-3b4695e3de8e",
+    "type": "dare",
+    "text": "Give a spontaneous compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "66c74d67-6fb7-4edd-aa00-8862089d24e6",
+    "type": "dare",
+    "text": "Give a daring compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "355d3adb-72fb-4d5f-93d3-48c08a35c0ce",
+    "type": "dare",
+    "text": "Give a spontaneous compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "804d539e-696d-4e7b-9c40-2c737f958d9a",
+    "type": "dare",
+    "text": "Whisper something alluring in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3e096a81-5145-4b0e-8854-6e0642206b1a",
+    "type": "dare",
+    "text": "Send a seductive text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6eb5741c-9e60-49d6-b4a9-26052695c89a",
+    "type": "dare",
+    "text": "Whisper something daring in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "574b2d23-d65a-4e92-8d4e-f3e0bd25e8bb",
+    "type": "truth",
+    "text": "What's the most sensual place you've ever been sharing a sensual moment?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "33041895-f3f0-4f29-ad7b-34b68680985e",
+    "type": "dare",
+    "text": "Give a brief physical feature massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a0c3c1d8-cb52-46f9-a272-30ec16c7ebab",
+    "type": "dare",
+    "text": "Whisper something provocative in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8ae4234c-a91b-42bb-821e-8586755cae7c",
+    "type": "dare",
+    "text": "Give a uninhibited compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ff0f3f94-1fd4-4cd5-b3e4-a9debeb6d03a",
+    "type": "dare",
+    "text": "Give a bold compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "752a8a84-9cb7-484a-a05e-370285f57225",
+    "type": "dare",
+    "text": "Give a brief style massage to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "046bf72c-a644-4f3d-9b1c-3f1f54d31cd4",
+    "type": "truth",
+    "text": "What's the most seductive place you've ever been being intimate?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b3438983-eabf-431f-8d5d-8af65cacf417",
+    "type": "dare",
+    "text": "Show the last 5th emails you do.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "98aa6d32-f4eb-42c8-b140-d22703acba6c",
+    "type": "dare",
+    "text": "Demonstrate your most spontaneous gesture.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f4cd005b-dd9f-40b2-9ffc-5c4bacf17a90",
+    "type": "dare",
+    "text": "Whisper something attractive in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9c982e11-47df-47e7-bd6f-0a8312121751",
+    "type": "dare",
+    "text": "Send a sensual text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "02c46137-b1ec-4599-9068-32c1c5d10041",
+    "type": "dare",
+    "text": "Give a uninhibited compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7b08fb58-7575-4f60-81b4-63cf82a463c3",
+    "type": "truth",
+    "text": "What's the most alluring place you've ever been attracting attention?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "654ba4d2-ff47-4565-9c8d-0dd95bd4420c",
+    "type": "dare",
+    "text": "Give a brief sensual attribute massage to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7d2b61bc-f5ab-405c-bb95-ebbcf78d779c",
+    "type": "dare",
+    "text": "Demonstrate your most uninhibited walk.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "22594ef0-4001-4a30-99de-da5f891d523c",
+    "type": "dare",
+    "text": "Whisper something daring in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "09de5073-aefa-4a6d-940a-f742e6e075ec",
+    "type": "dare",
+    "text": "Give a brief smile massage to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b2e56813-ccb1-4963-b1ac-32f13e7798bd",
+    "type": "dare",
+    "text": "Whisper something charming in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb82ec7d-21e7-44a0-bcd6-a4c5cddd6b80",
+    "type": "dare",
+    "text": "Give a brief eyes massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "38965dd6-7a45-48e4-8cf6-9f78d1f94e2e",
+    "type": "dare",
+    "text": "Whisper something flirty in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "02c2676d-68a5-439c-8b2c-aeaedfe3bc44",
+    "type": "truth",
+    "text": "What's your go-to activity when you're emotion?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "soft",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d719fbe9-466e-4d2e-88bd-17e2a16a5a03",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you try.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a31ecbe4-bee9-45bb-82f1-473c949528dd",
+    "type": "dare",
+    "text": "Give a flirty compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3be1d344-0921-424d-a601-dbefeb9edcc6",
+    "type": "dare",
+    "text": "Show the last last messages you attempt.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "37867ae7-422f-4850-b9a1-ecfb236e9677",
+    "type": "dare",
+    "text": "Give a sensual compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "380ba343-c8a8-4b53-ac32-5d697aebe735",
+    "type": "dare",
+    "text": "Whisper something attractive in the ear of everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cd75fac6-6ca8-401d-9bba-faac204f4c0d",
+    "type": "dare",
+    "text": "Give a flirty compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "36960336-d4e4-48f9-aa38-74c6deaafc5f",
+    "type": "truth",
+    "text": "What's the most sensual place you've ever been being intimate?",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d103cab8-359f-4797-84ae-571acde811d4",
+    "type": "dare",
+    "text": "Send a spontaneous text to someone in the room (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5b550c9a-e964-4802-9739-67cc249dc98f",
+    "type": "dare",
+    "text": "Whisper something bold in the ear of the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f49605e5-7301-4f7f-b863-a9c9584a7bff",
+    "type": "dare",
+    "text": "Give a brief laugh massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "351ec4ef-ea72-42e2-87a7-5c11cb531bf5",
+    "type": "dare",
+    "text": "Show the last 5th apps you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "86c871cd-8146-4856-9b86-272e5a77f192",
+    "type": "dare",
+    "text": "Give a adventurous compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2206e94a-5af2-4369-b1df-5469f068c05a",
+    "type": "dare",
+    "text": "Give a spontaneous compliment to the person to your left.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f628386b-6bed-40bd-9b7e-92a3ea95d3dc",
+    "type": "dare",
+    "text": "Send a alluring text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0dcec65f-605f-49e4-aeb8-d75388ca02ce",
+    "type": "dare",
+    "text": "Show the last 5th emails you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c54ac270-ab25-47f9-8db8-6cd74e8a3404",
+    "type": "dare",
+    "text": "Give a tantalizing compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "022a872b-1fb6-41cc-a13e-54e733ab0b05",
+    "type": "dare",
+    "text": "Send a provocative text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0aa2ab1a-e449-42a4-bdc6-0a60196e5ecc",
+    "type": "dare",
+    "text": "Give a brief quality massage to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b6647fd3-f38d-4074-8a3b-34d61d264c18",
+    "type": "truth",
+    "text": "What's the most attractive place you've ever been charming someone?",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b829c03e-f0a8-4e68-b04e-74a9e6ef65ec",
+    "type": "dare",
+    "text": "Send a flirty text to everyone (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7d76913f-d001-4b48-bc99-4c93d204dadf",
+    "type": "dare",
+    "text": "Give a bold compliment to the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "53bfd19b-a0f5-426a-9db9-8fe1cc45957f",
+    "type": "dare",
+    "text": "Whisper something adventurous in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "741b7f58-3c1e-4b62-aae3-8b5507ea9e0f",
+    "type": "dare",
+    "text": "Give a spontaneous compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5af84861-d4b4-44a4-aef0-1628e3c46f9e",
+    "type": "dare",
+    "text": "Show the last 5th apps you do.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6c5e1b98-9a05-4ec6-80f4-da080563f30e",
+    "type": "dare",
+    "text": "Give a flirty compliment to the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aec33309-4835-4893-b66f-cc09b32065d2",
+    "type": "dare",
+    "text": "Demonstrate your most provocative dance move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4d54f19f-788c-40fb-a16a-66015165cc16",
+    "type": "dare",
+    "text": "Demonstrate your most daring facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3236762c-3269-401e-8839-0afcd17e03ba",
+    "type": "dare",
+    "text": "Give a charming compliment to everyone.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cd888f96-6098-4e81-8320-d5c8caff5b68",
+    "type": "dare",
+    "text": "Give a brief smile massage to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "77e3bcb7-ffa3-46b2-9e00-da182412310b",
+    "type": "dare",
+    "text": "Demonstrate your most sensual walk.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "06b79679-5b39-4287-994c-5abb533054ad",
+    "type": "dare",
+    "text": "Show the last first apps you experience.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "614f267b-96b6-4ffe-b81b-8589310e7c47",
+    "type": "dare",
+    "text": "Show the last 10th messages you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fc6025e2-757f-46ed-8d4c-d835bf7b9cb4",
+    "type": "dare",
+    "text": "Whisper something attractive in the ear of the person to your right.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "34132a1d-8984-4f6a-83e3-8106b3f59fac",
+    "type": "dare",
+    "text": "Whisper something charming in the ear of the person across from you.",
+    "category": "hot",
+    "subOptions": [
+      "flirty"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9a0aa782-f799-43f8-bc86-fdddceed4ef8",
+    "type": "dare",
+    "text": "Send a tantalizing text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "539cd309-7a0d-4bb6-867e-e796ed1a8f92",
+    "type": "dare",
+    "text": "Give a sensual compliment to someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9f6a28bd-89e3-44f1-a032-ab144db6ec19",
+    "type": "dare",
+    "text": "Show the last 3rd messages you accomplish.",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3afdf93a-c30f-4053-a9e8-88473e4422e7",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you try.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "medium",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cfb816b5-3a54-4111-8cfc-ecc91d63f6a0",
+    "type": "dare",
+    "text": "Whisper something tantalizing in the ear of someone in the room.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "59c6e5cc-b2dc-4a87-a123-decea3d85533",
+    "type": "dare",
+    "text": "Demonstrate your most sensual dance move.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9a552942-703a-4f8d-8092-13a373361969",
+    "type": "dare",
+    "text": "Demonstrate your most tantalizing facial expression.",
+    "category": "hot",
+    "subOptions": [
+      "sensual"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b7bccece-01c3-4eb7-9ba7-e1f0b0762732",
+    "type": "dare",
+    "text": "Send a bold text to the person across from you (show the group first).",
+    "category": "hot",
+    "subOptions": [
+      "daring"
+    ],
+    "intensity": "hot",
+    "ageRestricted": true,
+    "requiresOptIn": false
+  }
+]

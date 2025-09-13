@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "369bdbdb-fc53-41d0-8b5b-dcc776cfe6e0",
+    "type": "truth",
+    "text": "What's your favorite item?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1e87673c-b21d-453e-85f5-ef13f27d89c3",
+    "type": "truth",
+    "text": "If you could try anything, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "20ec9fbe-8abe-4d80-82d2-dd624940c3e3",
+    "type": "truth",
+    "text": "What's your go-to pursuit when you're state?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8af49170-eef5-4276-8c82-43c122e52460",
+    "type": "truth",
+    "text": "If you could do anything, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6c4f684a-bd82-4663-b34f-d4fa7e2e3112",
+    "type": "truth",
+    "text": "What pursuit would you like to try?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "50383e18-a264-4f34-911a-e8934ac46192",
+    "type": "truth",
+    "text": "What pastime would you like to try?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5be24813-ef75-48bc-893e-d84a1fd60ba0",
+    "type": "truth",
+    "text": "If you could accomplish anything, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d2d431bf-7786-425f-a3d7-f4b9e79ab0af",
+    "type": "truth",
+    "text": "If you could attempt anything, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a0bc4818-523d-4c02-95ad-daa4feaac51e",
+    "type": "truth",
+    "text": "What's the most significant thing you've ever done?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d30d5d80-e52d-4b9c-9373-0a1e2aece78b",
+    "type": "truth",
+    "text": "What's the most important thing you've ever done?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d8b7dd18-1529-415f-b9da-a27e2b96b947",
+    "type": "truth",
+    "text": "What's the best occurrence you've ever attended?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f060092c-41f8-40f9-82be-4732ad635dee",
+    "type": "truth",
+    "text": "What's your go-to pursuit when you're feeling?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "991e0b78-1be5-4ba2-8729-e31392693fd3",
+    "type": "truth",
+    "text": "If you could live in any spot, where would it be?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "716876e9-2050-4269-95d0-92f20e7f4b1e",
+    "type": "truth",
+    "text": "If you could have any skill, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d58878f1-8c12-4303-b6e1-0cf74fb0cbda",
+    "type": "truth",
+    "text": "If you could have any talent, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fbbc809e-0ac9-4783-8c32-1f1e948a619d",
+    "type": "truth",
+    "text": "Who is your favorite personality?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7c91082a-ae3a-426b-b787-a1bc18df1069",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during a job interview?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c1faede5-9577-4a00-afc4-21a1a94ab41d",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "838bdddb-48bb-41af-a26c-e04c1ddc5aa5",
+    "type": "truth",
+    "text": "What's something you've done that you hope your best friend never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "109bb493-5592-4dd4-8994-f0ab4245cf13",
+    "type": "truth",
+    "text": "What's the most rebellious thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ab19dae7-e6db-4eec-a4ec-2838c0dd710b",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your best friend?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "19430c76-680f-4d5c-afcf-70db9d2bd5b9",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to career?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "88a948ba-ca97-42b2-9a55-61dd35e1653c",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your parents?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6615e1c3-6d14-49eb-99f8-c0608fa24f68",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "336addcd-a290-4453-9eda-dd8dd92e92db",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your partner?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9b550145-c3d6-4a6e-a72b-c569ffd3ed0d",
+    "type": "truth",
+    "text": "What's your biggest fear related to past?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7a61869c-1139-41b1-a18e-a42016641a37",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f218e074-46f8-4fe5-9e25-3b093727a68d",
+    "type": "truth",
+    "text": "What's something you've always wanted to reveal but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "71a9f6ad-6312-4341-8d04-165a6ea5b7df",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during a social event?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "568470a6-77fc-4512-8719-2be066fdc47e",
+    "type": "truth",
+    "text": "What's something you've done that you hope your parents never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d6ad98fd-7705-466a-b58d-60bf1a7a24a0",
+    "type": "truth",
+    "text": "What's something you've always wanted to share but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7a538221-f2d1-4a2a-a4ed-0d998c9047b2",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your past?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4c8211a6-2d3d-4ab4-b1f5-d5232a593448",
+    "type": "truth",
+    "text": "What's a secret you've kept from your parents?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e3125253-939c-439f-b6dc-6fdeb8b0ea1b",
+    "type": "truth",
+    "text": "What's your biggest concern related to relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "470e1331-45ad-40b0-bd8b-44877fd5b60a",
+    "type": "truth",
+    "text": "What's the most challenging thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "365188d9-24d4-4d2f-b331-2c349b98eb01",
+    "type": "truth",
+    "text": "What's something about your childhood that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b3754d34-9e2f-4457-b5d8-24e4840b950d",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d17951f4-4b14-4b9d-9d9a-1c9ee199072a",
+    "type": "truth",
+    "text": "What's your biggest worry related to family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a90606f2-b73c-4925-be6d-f7c4bf4580a3",
+    "type": "truth",
+    "text": "What's a risky opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb542a09-6e80-4c83-ab24-e7ed97d5dbf8",
+    "type": "truth",
+    "text": "What's the most questionable thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4fe352e3-6fe2-4dde-9253-5c03dc5fc3eb",
+    "type": "truth",
+    "text": "What's something about your relationship that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "559276eb-f5c3-4f8b-b6d3-aac4dd18c10f",
+    "type": "truth",
+    "text": "What's the most risky thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b63e87af-b900-4bee-9b36-5ce4deb029df",
+    "type": "truth",
+    "text": "What's something about your education that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "12f6df7b-f806-4b7b-9a12-263ad4fe6fd8",
+    "type": "truth",
+    "text": "What's something you've done that you hope your family never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "270a5fd8-a461-4ad8-9eeb-fe0ab6565f11",
+    "type": "truth",
+    "text": "What's a daring opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b4b54dbf-0ff5-4f43-8940-eca794b749e0",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e54d496b-fbb2-49d4-94cf-189dd0215b20",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your colleagues?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ecfc693b-a4d3-4967-84b3-82b853f8685b",
+    "type": "truth",
+    "text": "What's something about your past that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "83c622b5-f8cc-46b4-b9a8-6fca6ef0bff1",
+    "type": "truth",
+    "text": "What's something you've done that you hope your colleagues never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "70f3b864-547e-4ff3-9a55-efa86149f2da",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during a presentation?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "413166d2-6ad8-4246-934a-c4cfffd1fbc1",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to education?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "94f6ffd6-4b78-4363-a5c6-8b53a9b54742",
+    "type": "truth",
+    "text": "What's something you've always wanted to disclose but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a8deb11c-f028-4dcd-b1a3-79aca36487a1",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your childhood?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "16da0d30-b5a5-423a-9dac-feab9049b304",
+    "type": "truth",
+    "text": "What's your biggest concern related to education?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2b5c4a7c-af53-4e43-b65d-a6e761a119f9",
+    "type": "dare",
+    "text": "Tell a joke about theme.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ca2dbac9-2345-4b88-901e-fef1c36182e0",
+    "type": "dare",
+    "text": "Tell a joke about matter.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3c575bad-7d63-43e3-9038-26488fec4c72",
+    "type": "dare",
+    "text": "Strike a pose like you're endeavor.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cb6678d3-d156-48cb-b58c-b4a08ff9104b",
+    "type": "dare",
+    "text": "Tell a joke about issue.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "14ce4acb-9b74-4ee8-9817-c6353bb166a9",
+    "type": "dare",
+    "text": "Strike a pose like you're task.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8ee64d9f-c912-454e-adfd-dd587b6b40ac",
+    "type": "dare",
+    "text": "Post an risky selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8a95d26a-9b19-49b2-a83f-9c01d074dc9b",
+    "type": "dare",
+    "text": "Let someone dance move your {body_part} with a washable marker.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6d7a3b6c-2982-48b5-ab86-55263d9562ff",
+    "type": "dare",
+    "text": "Post an rebellious selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dea2ea00-7801-4a38-b047-3d2db6eae8f5",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something challenging (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "85b3a745-2da2-4ed4-9009-b4b402ac1206",
+    "type": "dare",
+    "text": "Call the person across from you and a presentation without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "613000ce-b74a-4ded-9c47-899f9b930abf",
+    "type": "dare",
+    "text": "Let someone gesture your {body_part} with a washable marker.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "27ef7abc-e12c-4945-ac5b-ee70f2e03918",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you reveal.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "beb785d2-abf8-4dc8-a408-a0c24fbee381",
+    "type": "dare",
+    "text": "Let someone walk your {body_part} with a washable marker.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2f77d2a6-f260-4ce4-a8fd-e8b4379f1c70",
+    "type": "dare",
+    "text": "Show the last last photos you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bfbc8cfe-4a83-4105-9dd1-45a55a52952e",
+    "type": "dare",
+    "text": "Call someone in the room and a presentation without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c06902bb-3a75-4cf6-b39d-9e3771ad9862",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something questionable (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c824a212-7cb3-4580-bb24-859ef6094ff6",
+    "type": "dare",
+    "text": "Show the last 5th emails you admit.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e11cc971-5369-40a8-af92-15a719c1486b",
+    "type": "dare",
+    "text": "Call everyone and a date without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6fd1d738-10e3-4298-910f-934464391a53",
+    "type": "dare",
+    "text": "Call the person to your right and a social event without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cbc70f75-c55d-4782-a026-37f7ce53cebf",
+    "type": "dare",
+    "text": "Post an bold selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a6fbb5c2-b9f0-4b62-9649-23f41a304968",
+    "type": "dare",
+    "text": "Post an questionable selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "504f7247-5439-4974-b632-dfc2bf441e46",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "91d45558-af0b-4dd8-a281-c8d24037e89e",
+    "type": "dare",
+    "text": "Show the last first apps you disclose.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "de2d5274-8a78-4432-9fef-f208228d25b9",
+    "type": "dare",
+    "text": "Let someone pose your {body_part} with a washable marker.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d975620e-46b3-49c8-b537-2b381a03e45c",
+    "type": "dare",
+    "text": "Let someone facial expression your {body_part} with a washable marker.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4a719adf-4dcd-4a41-8d03-a87fb3c1f9d7",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something challenging (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8b7acd21-3812-410d-9f6a-9cc13dd52ec8",
+    "type": "dare",
+    "text": "Text the last person in your contacts something challenging (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5bbb69a2-5796-48dc-a65e-183e04ded4a0",
+    "type": "dare",
+    "text": "Call the person across from you and a date without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9de22cae-d38b-43d6-ba94-3ed943b3fdc6",
+    "type": "truth",
+    "text": "If you could have any power, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "18d08d24-70ac-4960-82aa-db8dd2a891eb",
+    "type": "truth",
+    "text": "What's the most notable thing you've ever done?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "10dfc8df-d666-475c-8952-d5e7f3cb56cc",
+    "type": "truth",
+    "text": "What interest would you like to try?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "16d68a96-8bff-4c6b-8971-af8d0649990c",
+    "type": "truth",
+    "text": "What's your favorite way to take it easy?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "31db6cd5-4987-48d1-9373-7e65d9258ec3",
+    "type": "truth",
+    "text": "Who is your favorite individual?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "46dfd503-8801-4686-b578-b7e8b593f70a",
+    "type": "truth",
+    "text": "What's the best event you've ever attended?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7e4f135f-e426-4ce3-8e78-e656a618f5e0",
+    "type": "truth",
+    "text": "What's your favorite idea?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "75fcd929-8b56-4ff3-8482-803949b11e90",
+    "type": "truth",
+    "text": "What's your go-to task when you're mood?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "575c7002-f7fb-40a6-8ebc-fb2819925b0c",
+    "type": "truth",
+    "text": "If you could live in any place, where would it be?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1bed492c-8cbc-410c-a8f5-adb7e9ccb9d7",
+    "type": "truth",
+    "text": "What's your go-to pursuit when you're mood?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3c22c806-2b33-4274-8ee5-30069eeb1e73",
+    "type": "truth",
+    "text": "What's the best happening you've ever attended?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cad0402e-3106-4a1d-a40b-f86685c8a526",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your funny story?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c80b4289-ed34-4ec7-be0f-b0c7173bd9d1",
+    "type": "truth",
+    "text": "What's a amusing opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0d4d02f6-51b6-4864-bc23-9a0374214fa8",
+    "type": "truth",
+    "text": "What's something you've always wanted to amuse but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3d51fd17-35c4-4b5d-87ba-b310c64647a4",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your misunderstanding?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "72b9caf2-6981-429b-9ba0-416f9dd5d09e",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during dancing?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "30c11f01-a3dc-449e-94fe-bc8ef5e2cb01",
+    "type": "truth",
+    "text": "What's the most entertaining thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7d0dc156-407b-4425-8e1d-1973ca820cdd",
+    "type": "truth",
+    "text": "What's the biggest comical misunderstanding you've made in a group activity?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0d688773-1b81-42a1-999d-0b423e7f5ecd",
+    "type": "truth",
+    "text": "What's your biggest awkward encounter related to prank?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8ad03a6a-288a-4e42-8476-0e6f0416137d",
+    "type": "truth",
+    "text": "What's a amusing confession you've kept from your party guests?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5c498dc1-51e6-4353-aff0-c2e7785a4a9f",
+    "type": "truth",
+    "text": "What's something you've always wanted to entertain but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fde14257-e866-41ff-9e51-ca0206fa7257",
+    "type": "truth",
+    "text": "What's the most comical thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7c662c0e-a288-4fab-82f8-607167ac8ae2",
+    "type": "truth",
+    "text": "What's the biggest embarrassing mistake you've made in a social gathering?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aa5c5d4d-2a85-478d-be15-2a5eeaf4b1ab",
+    "type": "truth",
+    "text": "What's something you've always wanted to perform but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ff3b7540-78d1-4341-8e51-91d5a5412c47",
+    "type": "truth",
+    "text": "What's something about your misunderstanding that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "014e47c8-5217-4924-948a-2bd8cf9d85ef",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your joke?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4011aa3d-a252-40a5-877c-9cd98e1bdf72",
+    "type": "truth",
+    "text": "What's something you've done that you hope your audience never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6d28a21c-fb92-445d-a171-8c9ab6487da7",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during public speaking?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fe9f2942-7844-4b8d-aca4-0bc2b9a6755d",
+    "type": "truth",
+    "text": "What's your biggest awkward encounter related to joke?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b1f3a372-d429-4b72-89d7-8f224ae0a4dc",
+    "type": "truth",
+    "text": "What's the most hilarious thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a74dce81-8733-4b42-8486-d6e986e591ed",
+    "type": "truth",
+    "text": "What's something about your joke that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0070ceb3-d1f6-4f81-bcd9-989fd6ed812a",
+    "type": "truth",
+    "text": "What's something you've done that you hope your friends never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "117b897f-ed21-4957-923e-8e28413869b4",
+    "type": "truth",
+    "text": "What's your biggest embarrassing situation related to embarrassing moment?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "31e0e62d-9b2a-4331-863a-08723aca8f2e",
+    "type": "truth",
+    "text": "What's a funny opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "36a253d2-5e84-4995-b5b7-5323471bf87b",
+    "type": "truth",
+    "text": "What's your biggest public speaking mishap related to joke?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6661b95a-e14d-4390-8640-deafb8b983c3",
+    "type": "truth",
+    "text": "What's a amusing confession you've kept from your crowd?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b8d21a4f-3a8c-4513-8020-aa170c1d7258",
+    "type": "truth",
+    "text": "What's a funny secret you've kept from your crowd?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7b6028c1-b3de-4c17-afec-6defd41a13ce",
+    "type": "truth",
+    "text": "What's something you've always wanted to make people laugh but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bcbdb932-6291-491a-8e88-d38456cf8221",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during singing?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2f9da852-3296-42ec-9623-bb90cd8ac494",
+    "type": "truth",
+    "text": "What's your biggest embarrassing situation related to prank?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "37c65942-6088-4ca6-9422-cbee9b86dd4c",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your embarrassing moment?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ccc2f631-626f-4412-8515-d9188c8c04e3",
+    "type": "truth",
+    "text": "What's a comical opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "37618c02-7f00-427b-8fe7-635f7c0501d4",
+    "type": "truth",
+    "text": "What's something about your prank that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "624e1986-0ef3-4349-b601-429bdb4def15",
+    "type": "truth",
+    "text": "What's your biggest public speaking mishap related to misunderstanding?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "51786034-eaf0-434d-bd0a-e26d9dcc0064",
+    "type": "truth",
+    "text": "What's something about your funny story that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "566fab2b-6ce1-4f42-9a12-87139a0a65fe",
+    "type": "truth",
+    "text": "What's something you've done that you hope your party guests never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a8dc677c-8667-4a7a-b216-f1cf6d725df5",
+    "type": "truth",
+    "text": "What's the biggest comical misunderstanding you've made in a party?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2cdc246c-94b8-47d6-b336-0cfa72c8b70d",
+    "type": "truth",
+    "text": "What's the most funny thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "48a37454-3c72-4623-9700-cb19854ef028",
+    "type": "truth",
+    "text": "What's a entertaining story you've kept from your crowd?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cfb7b30b-d6dd-4611-865e-3119bd2b14e9",
+    "type": "truth",
+    "text": "What's a entertaining opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e9f82177-fc1c-4103-8a02-6784eaa1c09d",
+    "type": "dare",
+    "text": "Tell a joke about subject.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "429ef006-39ce-453d-9da4-b9c810022bce",
+    "type": "dare",
+    "text": "Strike a pose like you're action.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "16b441fa-88c2-4d0b-a544-a4aa4b1eef41",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something amusing (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "aaa0258f-dac3-4509-91fa-0a595af9387b",
+    "type": "dare",
+    "text": "Post an ridiculous selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4c59dc30-2b6b-4ecb-97d5-4aad29df4b21",
+    "type": "dare",
+    "text": "Call the person to your right and performing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e920e0f8-c302-46e6-9de3-4e19c9450fc3",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you perform.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "705b8a9c-9619-4957-bafd-2f27cc896e32",
+    "type": "dare",
+    "text": "Post an entertaining selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "89a1559a-fbf5-4790-a28d-15e890dfabae",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2aae68f4-44db-4421-9c6b-0e4330616bd0",
+    "type": "dare",
+    "text": "Call the person to your left and public speaking without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6ffeccb5-0bf5-41df-a632-451045cc848c",
+    "type": "dare",
+    "text": "Call the person to your right and public speaking without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "816cb282-68e9-4a7c-8e3a-1a013564b8b0",
+    "type": "dare",
+    "text": "Call someone in the room and dancing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74fd09f3-b171-416c-96bc-550cfc704631",
+    "type": "dare",
+    "text": "Post an amusing selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "12c906c7-2d81-4ec7-9303-94ee266c265d",
+    "type": "dare",
+    "text": "Post an hilarious selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8131c1ad-fbaf-4d71-9b0a-700683122e0c",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something entertaining (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d777a8f5-1966-4bfc-a695-506e3e5faba3",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something entertaining (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b19fa004-fd70-42aa-a596-d88e33c09c8b",
+    "type": "dare",
+    "text": "Call the person to your right and dancing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b5fc2da4-5b27-4598-9373-8d1760fde97f",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something comical (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b4e8691-6fd3-472c-86ab-a716c7dd765f",
+    "type": "dare",
+    "text": "Show the last 3rd photos you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c218c058-38ea-4900-a9f3-ed545a10df20",
+    "type": "dare",
+    "text": "Text the last person in your contacts something entertaining (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "effdab9e-7baf-4860-95b1-e1056abd5bcc",
+    "type": "dare",
+    "text": "Show the last 10th photos you make people laugh.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "228adda2-18f8-4ff4-9d62-916854212aec",
+    "type": "dare",
+    "text": "Show the last 5th photos you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0619d28c-97bd-461b-b717-6c6d7d0e7a37",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something entertaining (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1334f2e1-8fe7-42de-8df2-8e1a8afa65bc",
+    "type": "dare",
+    "text": "Call the person across from you and dancing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f2b374ed-c0fb-4cbb-8d5c-df4381108455",
+    "type": "dare",
+    "text": "Show the last 10th messages you amuse.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "672ca1ae-50d2-4622-a14b-eed06becd2b3",
+    "type": "dare",
+    "text": "Call everyone and public speaking without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "472b21ed-0d23-485a-9741-9daa8bc079e0",
+    "type": "dare",
+    "text": "Show the last 5th messages you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "79568f9b-0fb4-4d96-9359-54aeaf476d4e",
+    "type": "dare",
+    "text": "Call everyone and performing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c008edab-9130-4b76-9fd6-c2c4d90354eb",
+    "type": "dare",
+    "text": "Show the last 10th messages you perform.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6e3840a2-9e25-4c35-ab15-5daa2329f571",
+    "type": "dare",
+    "text": "Show the last last messages you perform.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2abe07ee-e3e7-49d0-8937-955bc166bd8f",
+    "type": "dare",
+    "text": "Call the person to your left and performing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "217a89ce-18ee-4881-8d1b-f054edee809d",
+    "type": "dare",
+    "text": "Show the last 10th messages you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "840a0b2d-a251-494f-87fa-5537b1dbaad1",
+    "type": "truth",
+    "text": "What's your favorite concept?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2e6ab532-0315-4ca6-ab19-092aca6d9e9b",
+    "type": "truth",
+    "text": "If you could have any ability, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "16542975-b9f5-4bb3-bb81-a629748e36b4",
+    "type": "truth",
+    "text": "If you could live in any location, where would it be?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "37c28907-6e9c-4dd0-9f61-5d2b3af0c3d0",
+    "type": "truth",
+    "text": "What's your favorite way to chill?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "17d1e749-c544-40b9-926c-500b094ee93f",
+    "type": "truth",
+    "text": "What's your favorite way to rest?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb0696c9-427f-4ad5-8371-12e0879c9ae7",
+    "type": "truth",
+    "text": "What's your go-to action when you're mood?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "86d78d39-fe6a-44f3-a8d7-facb4c04827d",
+    "type": "truth",
+    "text": "Who is your favorite person?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4909a010-25a9-49f5-95c1-fea4cb01bb61",
+    "type": "truth",
+    "text": "What's your favorite thing?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1d4ee676-7619-4118-90d9-af7d425e3c22",
+    "type": "truth",
+    "text": "What's your go-to endeavor when you're feeling?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "067a5f12-561e-464e-a341-9f5610872494",
+    "type": "truth",
+    "text": "If you could live in any region, where would it be?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "eb826fe7-6cce-45a0-b493-391478445494",
+    "type": "truth",
+    "text": "If you could live in any area, where would it be?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6ddf80dc-1068-4f33-a177-4ae200bdf554",
+    "type": "truth",
+    "text": "What's your go-to activity when you're feeling?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a7cfda99-aa85-460a-813f-f7d530509e38",
+    "type": "truth",
+    "text": "What's your biggest surprising result related to secret ability?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5ddeb459-0d1c-4020-8c4f-dd86e98a76d7",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your hidden skill?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74599afa-5189-4f76-b726-ddfb5ebd3f55",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your surprising fact?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4d7242bd-d798-40ec-9cc7-788bd177f149",
+    "type": "truth",
+    "text": "What's something about your secret ability that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b68c5d1e-5c5b-43b4-a966-861f8bb8e9b9",
+    "type": "truth",
+    "text": "What's a astonishing fact you've kept from your people who just met you?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "640b683b-53d1-4922-b6ba-300f0986a643",
+    "type": "truth",
+    "text": "What's something you've always wanted to surprise others but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7bdd5bd3-e913-4fcb-9768-9f129eebde82",
+    "type": "truth",
+    "text": "What's something you've always wanted to astonish friends but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9d7607d0-e6d2-4d80-bcaa-7b91d5dd744a",
+    "type": "truth",
+    "text": "What's a surprising revelation you've kept from your strangers?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "394a6b75-8647-4a31-b5e7-7965defe265b",
+    "type": "truth",
+    "text": "What's the most unexpected thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "26ff3974-9956-4039-8c39-2318bc8676f8",
+    "type": "truth",
+    "text": "What's something you've done that you hope your people who just met you never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ac51ab4d-ff82-44fe-bc93-3dd8ba9a8ffe",
+    "type": "truth",
+    "text": "What's the biggest unexpected error you've made in a chance meeting?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "190922cb-34f6-4578-a853-f9aeb6378778",
+    "type": "truth",
+    "text": "What's the most surprising thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5230db88-5d7e-4dd3-a420-f88c210dee13",
+    "type": "truth",
+    "text": "What's something you've done that you hope your acquaintances never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5f048c0e-81a4-4ed9-9f28-6c3eaec10a79",
+    "type": "truth",
+    "text": "What's your biggest unforeseen consequence related to hidden skill?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e9c6e70e-50c9-4425-aba6-8f892426c123",
+    "type": "truth",
+    "text": "What's a unexpected truth you've kept from your strangers?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c5d9b631-4aae-4ccc-b623-f4a6d6dd149e",
+    "type": "truth",
+    "text": "What's the biggest surprising misstep you've made in a unexpected encounter?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dcff2794-0b3d-4d08-ba6b-bda11c785c0c",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during surprising opportunity?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "15aec32b-9b17-4211-bb57-69a086c54821",
+    "type": "truth",
+    "text": "What's the biggest unforeseen problem you've made in a surprising event?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "59f3b3ea-6494-4ac1-9583-8201159400f7",
+    "type": "truth",
+    "text": "What's your biggest unforeseen consequence related to unexpected talent?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "500017e0-5802-44b2-a244-a2b6261e59db",
+    "type": "truth",
+    "text": "What's your biggest surprising result related to surprising fact?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "405acf26-c563-4405-bcd5-b96ae32a046d",
+    "type": "truth",
+    "text": "What's a surprising revelation you've kept from your new friends?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b71ad118-88ee-478a-8f58-4303e0e882d3",
+    "type": "truth",
+    "text": "What's your biggest surprising result related to unexpected talent?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b062b789-bd18-4af7-ab31-3c8da278ee75",
+    "type": "truth",
+    "text": "What's the biggest surprising misstep you've made in a chance meeting?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cebeb44f-72a2-493c-852d-727da8b764b2",
+    "type": "truth",
+    "text": "What's a unexpected truth you've kept from your new friends?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2b0dcb3f-a78e-468e-b896-d99595db0c4e",
+    "type": "truth",
+    "text": "What's a astonishing opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7d35380c-1d45-4dfa-b444-68bd50dda57d",
+    "type": "truth",
+    "text": "What's a unbelievable opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6dde26f0-cb74-465f-ac67-4aded75c100d",
+    "type": "truth",
+    "text": "What's your biggest unforeseen consequence related to surprising fact?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1abb8464-e458-4fe3-90eb-75020e620f86",
+    "type": "truth",
+    "text": "What's the most unbelievable thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "85192c56-c245-466d-9f16-3c4583e4a5e0",
+    "type": "truth",
+    "text": "What's your biggest unexpected outcome related to surprising fact?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "67905440-ab94-4f0f-a1ef-28e0d7763014",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during unexpected challenge?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f219f400-0052-4614-b63c-e832a77379d7",
+    "type": "truth",
+    "text": "What's the biggest unexpected error you've made in a unexpected encounter?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1be6d535-7dea-42b6-8597-1d0a913daf41",
+    "type": "truth",
+    "text": "What's a surprising opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81c67ac9-daa2-4be2-84a3-30f1f22d9d72",
+    "type": "truth",
+    "text": "What's your biggest unforeseen consequence related to secret ability?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a2de4f30-01d1-4cc6-a9ec-6f27ea886952",
+    "type": "truth",
+    "text": "What's the biggest unforeseen problem you've made in a chance meeting?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2ab0c352-1b85-4b21-806b-6e7c684296c2",
+    "type": "truth",
+    "text": "What's something you've done that you hope your strangers never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6e286fac-a27f-41be-aa20-85f52a9e1184",
+    "type": "truth",
+    "text": "What's something about your hidden skill that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "285f0916-c104-467a-8997-f0dadd8c7f67",
+    "type": "truth",
+    "text": "What's something you've always wanted to shock people but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ec5427fe-2d9d-402d-b96e-613d0e91cf4d",
+    "type": "truth",
+    "text": "What's the biggest surprising misstep you've made in a surprising event?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "79f00569-b396-4a6c-9064-a892b6f9232b",
+    "type": "truth",
+    "text": "What's something about your surprising fact that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e63500d3-7b36-4667-9043-da96741aed81",
+    "type": "dare",
+    "text": "Post an unexpected selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e4d8076b-2fe7-436f-84ed-7e50f8185dc5",
+    "type": "dare",
+    "text": "Call the person to your left and surprising opportunity without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3faf2193-805d-4918-84bc-e458b357e9d4",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something astonishing (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "eea46973-cbcb-4f80-8911-22d3f18995cd",
+    "type": "dare",
+    "text": "Call the person across from you and surprising opportunity without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3b40118b-56c4-45a0-9391-f07d80ee2913",
+    "type": "dare",
+    "text": "Text the last person in your contacts something shocking (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "692b9693-ae09-4b07-a808-5563bcd01cde",
+    "type": "dare",
+    "text": "Call everyone and surprising opportunity without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8123d837-cbd9-4b7d-8bc2-acf5a02d5148",
+    "type": "dare",
+    "text": "Show the last first social media posts you shock people.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4aed08ee-4186-42bc-90b6-1c617eef314b",
+    "type": "dare",
+    "text": "Post an surprising selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "169e6ea9-1bfd-4dd8-9fe1-3e77afad98c9",
+    "type": "dare",
+    "text": "Show the last 3rd messages you shock people.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "14c24f27-9747-44da-ad99-8b55969a682d",
+    "type": "dare",
+    "text": "Call the person across from you and trying something new without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "789319c5-6403-4719-bc91-384e9b015a08",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something unbelievable (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "de7166ff-9f33-40f2-9ca4-59f329deb1be",
+    "type": "dare",
+    "text": "Show the last last apps you amaze an audience.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8c71f8f5-931c-4133-9ceb-e80b34d2d28a",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something shocking (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a2869c6c-c190-4daf-a9ce-b065e58de04b",
+    "type": "dare",
+    "text": "Text the first person in your contacts something shocking (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f950f8f3-60da-4d19-9fd7-314a88bf7acd",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something unexpected (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "57949d80-044d-4c5b-a3a3-bb4f1c706a3e",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something surprising (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "725085d4-24bd-44ed-8beb-5345d9afdcef",
+    "type": "dare",
+    "text": "Post an unbelievable selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "863ec68a-a864-40be-b2a4-1d90d8ae53f2",
+    "type": "dare",
+    "text": "Call the person to your right and trying something new without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3eb2f6d3-c0b6-4fc0-ae7f-9cd58e37047c",
+    "type": "dare",
+    "text": "Show the last last apps you shock people.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2a390ecd-a86e-4153-84b4-0c236c013034",
+    "type": "dare",
+    "text": "Show the last first messages you surprise others.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0142590d-0955-4b50-83dd-4265a6044d07",
+    "type": "truth",
+    "text": "What's your go-to action when you're condition?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9bd1260a-71ce-4366-a823-aa21680fe230",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a social situation?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7fe9caee-36ac-4c3f-806b-41af2a40706d",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a social situation?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6a95e4c3-88e0-4567-be78-88f598ad5408",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your career?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b4efcbf8-6271-4517-bb81-a22bf787c08c",
+    "type": "truth",
+    "text": "What's your biggest fear related to childhood?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9bd7f86f-d9d6-4a5f-b848-a590124bd4e4",
+    "type": "truth",
+    "text": "What's a bold opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e67b0a9c-ef75-456f-bdfe-4a282909b943",
+    "type": "truth",
+    "text": "What's your biggest fear related to career?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "51879655-e100-4968-b6f0-80d84fcf94a2",
+    "type": "dare",
+    "text": "Show the last last apps you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e26d8c4d-c462-428a-8f82-cd404ca5380e",
+    "type": "dare",
+    "text": "Call everyone and a social event without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7583ab4e-6121-481d-8742-0b12a401f94d",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something daring (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4e31069d-2529-499a-b1ce-72d30c86e698",
+    "type": "dare",
+    "text": "Show the last 3rd apps you admit.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "de7cb7eb-e180-4403-9281-32f8708ad2b6",
+    "type": "dare",
+    "text": "Call the person to your left and a presentation without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e23a37f8-bff4-4bf2-a472-28bb2706854b",
+    "type": "truth",
+    "text": "If you could have any capability, what would it be?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b0c259c2-8a66-4438-997e-f497b5fdd1e7",
+    "type": "truth",
+    "text": "What's your go-to task when you're condition?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2df5e64e-56f1-4f8e-98a4-9e860fb69f20",
+    "type": "truth",
+    "text": "What's a ridiculous opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3349eb4f-9231-4a43-98e7-d41a813b721e",
+    "type": "truth",
+    "text": "What's your biggest public speaking mishap related to embarrassing moment?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "efafd27e-7987-49ba-a95b-03a845dc4de8",
+    "type": "truth",
+    "text": "What's the biggest comical misunderstanding you've made in a social gathering?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bcd0c53c-edfd-48ef-a177-9661dfe61aa0",
+    "type": "truth",
+    "text": "What's a hilarious opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5fb28179-a31c-460c-bcb4-8a3ef2d1f058",
+    "type": "truth",
+    "text": "What's something you've done that you hope your crowd never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9a24de16-1cb0-419c-956f-eacd4388868e",
+    "type": "truth",
+    "text": "What's the biggest comical misunderstanding you've made in a public event?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "88ee80f2-bcf1-4143-b419-2f9817238277",
+    "type": "truth",
+    "text": "What's the most ridiculous thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "21ac0b75-e74f-49e9-afea-c8cafa1e7029",
+    "type": "truth",
+    "text": "What's a funny secret you've kept from your group?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cd487811-b134-4e79-a290-32e7909c25a8",
+    "type": "truth",
+    "text": "What's a entertaining story you've kept from your group?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ca9df659-cb78-4db2-90a1-c34ea9edb509",
+    "type": "dare",
+    "text": "Show the last 3rd photos you perform.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c4db1aba-69a1-4038-82d3-3be7028ffe15",
+    "type": "dare",
+    "text": "Show the last 10th photos you amuse.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e94dcff2-6b8f-45a8-aa58-fb01845e1952",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you perform.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "83f9c6f3-5d63-455e-a6bc-a60bd0e5d145",
+    "type": "dare",
+    "text": "Call everyone and dancing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a00c50da-478e-4e5d-88ee-a38efee9966b",
+    "type": "dare",
+    "text": "Post an comical selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f137661c-d97a-46c3-b7c9-a5e97b49a850",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something ridiculous (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6881d375-ef32-4184-8970-a5358ffa7ad3",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something hilarious (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3ff9c347-78fd-42b2-8c2c-5c14423e06a8",
+    "type": "truth",
+    "text": "What's the best occasion you've ever attended?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ffc6b97a-e8cc-49a9-b89c-3b246a73972f",
+    "type": "truth",
+    "text": "What's a unexpected opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "80e4cef9-0c76-4ba1-bfa6-01da21c2c0a8",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something shocking (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9419a629-efe9-45ba-8517-40570ae63da2",
+    "type": "dare",
+    "text": "Call the person to your right and unexpected challenge without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "98038930-b8e8-4f6b-8078-37276f425d70",
+    "type": "dare",
+    "text": "Call someone in the room and surprising opportunity without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5bfd7efb-1b32-4abf-a5dc-ac2e6c773089",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you amaze an audience.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d9e6304f-a954-4b9c-9e45-85e2a20069ea",
+    "type": "truth",
+    "text": "What's your go-to endeavor when you're emotion?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0665ec2e-4b2d-48d5-94ab-7fd5fc548120",
+    "type": "truth",
+    "text": "Who is your favorite figure?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d3aa5ab1-8f35-42a1-8acf-687b4a217300",
+    "type": "truth",
+    "text": "What's something about your career that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d0d8d458-b310-4ce8-be97-bb0c4a99d092",
+    "type": "truth",
+    "text": "What's something you've always wanted to confess but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "92958402-ac26-4e3b-b586-34ed9fd19722",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a family gathering?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8bcf29dd-e080-41c2-b807-bb3f0f0be8fb",
+    "type": "truth",
+    "text": "What's something you've always wanted to admit but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5b30da5a-d827-4844-a255-9fe56532e3f2",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to past?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "12dd3735-20a6-430c-83fc-0c1d4b7fb3f1",
+    "type": "truth",
+    "text": "What's a questionable opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ede5845c-a806-4bc7-8ee7-1ac830f841e9",
+    "type": "truth",
+    "text": "What's your biggest fear related to education?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2d09cf5f-1158-4f28-abbb-5b141eacbe5b",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "96f2eb80-3f50-4b83-b76a-17e3093d95b0",
+    "type": "dare",
+    "text": "Post an challenging selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0f9575b0-384b-4a88-b017-f78f09b60975",
+    "type": "dare",
+    "text": "Show the last last messages you reveal.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c94ce81b-70e0-4607-92c3-cf92db628dad",
+    "type": "dare",
+    "text": "Post an daring selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7c629107-d255-41a8-9eff-db5a380d8396",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something bold (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9d93a376-9e48-4a27-8a74-452d7f99b92d",
+    "type": "dare",
+    "text": "Show the last last messages you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a86f6782-96f8-4e0c-9255-78d2595c335e",
+    "type": "truth",
+    "text": "What's the best incident you've ever attended?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a4c302f2-d7e4-4acd-a56e-ebd1a462d180",
+    "type": "truth",
+    "text": "What's the biggest embarrassing mistake you've made in a group activity?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "288f7eba-4c71-49b2-a5a6-df14d5792180",
+    "type": "truth",
+    "text": "What's the biggest embarrassing mistake you've made in a party?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "468a9f6f-68ee-450c-8e2c-8e3eb0a97745",
+    "type": "truth",
+    "text": "What's the biggest funny error you've made in a public event?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "428564b0-f4ec-4bb9-be26-19df538daf94",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during performing?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e4f4ae2f-fc51-4037-9bf1-b78ce7c9e2a7",
+    "type": "dare",
+    "text": "Text the first person in your contacts something amusing (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f638a1e3-b8c8-4442-b45f-eabcd2583e7f",
+    "type": "dare",
+    "text": "Post an funny selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bebc4050-db02-4dd2-82b7-f901328afbe7",
+    "type": "dare",
+    "text": "Call someone in the room and singing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9f057162-8b72-41cf-9d00-a193c3e239ca",
+    "type": "dare",
+    "text": "Show the last 3rd apps you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7a3cda0d-926e-453f-b8cb-2164509e00f1",
+    "type": "dare",
+    "text": "Call the person across from you and singing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "795b5a80-de49-4281-a027-b5b7c624b1ae",
+    "type": "dare",
+    "text": "Show the last last emails you perform.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "deb10270-64fe-4f1a-b96d-03b760a10675",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during trying something new?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d76de852-9f7b-4558-bb02-a05aef5b03be",
+    "type": "truth",
+    "text": "What's something you've always wanted to amaze an audience but haven't had the courage to?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "26623a56-2bee-4435-a47b-5455e37098f8",
+    "type": "truth",
+    "text": "What's a astonishing fact you've kept from your new friends?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "69787f26-3177-4b01-b360-04116438280f",
+    "type": "truth",
+    "text": "What's a shocking opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bfab3bf2-1ff8-4f14-b907-f916e40e2f89",
+    "type": "truth",
+    "text": "What's the most astonishing thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "953377f8-69da-4760-8d89-898aa7abb371",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something surprising (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "decc87dd-397e-45dd-912e-98f2d1656481",
+    "type": "dare",
+    "text": "Post an astonishing selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "94071638-20c5-497f-8b1e-cb95454f65b0",
+    "type": "dare",
+    "text": "Call everyone and unexpected challenge without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4a0447d2-034f-4dd6-8fd5-6c83d2336736",
+    "type": "dare",
+    "text": "Show the last 10th emails you astonish friends.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "66cabed2-7157-43f1-b7fb-c374d2ba86b3",
+    "type": "truth",
+    "text": "What's your favorite object?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74435911-a2ea-4abf-9491-ed417862f119",
+    "type": "truth",
+    "text": "Who is your favorite character?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1e4b6b98-6207-48c8-8a6b-92d8f1dec4c3",
+    "type": "truth",
+    "text": "What's a rebellious opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81a608e6-f2c5-44bc-9ccc-2cde4ade8222",
+    "type": "truth",
+    "text": "What's your biggest concern related to childhood?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "54a26e55-70fb-412a-b060-86d98dcac3fe",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your education?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cd038bc0-060d-4fc9-bc40-d0dbb4ffa871",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to childhood?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "354a5d73-9020-4da5-b681-dc2328397f95",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4ece05df-1ec5-4b8a-a4ec-f8750257480e",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something bold (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "29a47cf9-0446-4db3-a4f5-6242d249d8c9",
+    "type": "dare",
+    "text": "Show the last 3rd messages you admit.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8e31ad60-bff3-46e0-9c00-9b2b70e9d025",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something questionable (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "829e08da-1aff-4fe3-9ffc-4b0732fadf4c",
+    "type": "truth",
+    "text": "What's the biggest funny error you've made in a group activity?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "217ff0b3-9587-4279-9fa5-40cf995c219e",
+    "type": "truth",
+    "text": "What's a amusing confession you've kept from your group?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "69073f1b-8dc3-4dd7-984a-7320d93da12e",
+    "type": "truth",
+    "text": "What's your go-to action when you're emotion?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "27cc43df-405e-483e-9f90-c02873e53853",
+    "type": "truth",
+    "text": "What's your go-to task when you're feeling?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "eec2b849-633b-4575-8331-f5c22e680839",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your secret ability?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f0667157-b45c-4913-9ba5-1e88dabc5dba",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your unexpected talent?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81972516-1f6a-4b71-9c3f-c23cb9bd70ca",
+    "type": "truth",
+    "text": "What's a unexpected truth you've kept from your people who just met you?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e22cbd02-dc75-420f-b6a5-8f4e86ef69d0",
+    "type": "truth",
+    "text": "What's the most shocking thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "11468349-d56a-41c3-804a-086a11941c80",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something shocking (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7a9c99e2-1e89-4812-989c-33d453c8a30d",
+    "type": "dare",
+    "text": "Call the person across from you and unexpected challenge without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b92c6240-78df-4c65-bb9d-f88cb7e036f7",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something unbelievable (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b08601d6-b9b9-40ae-9130-226819d1f453",
+    "type": "dare",
+    "text": "Call someone in the room and unexpected challenge without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1db764d8-916e-4ba0-8f79-626a5d678071",
+    "type": "dare",
+    "text": "Show the last 3rd apps you shock people.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4744aa66-f615-42ba-9fc6-8a35f332dae9",
+    "type": "truth",
+    "text": "What's your biggest concern related to past?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "241ae831-79d0-47d4-b5da-5faf0c28b950",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a job?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "138a6724-27fe-45b1-bf1f-e570b90d9948",
+    "type": "truth",
+    "text": "What's your biggest apprehension related to career?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1c947a50-79ce-48d9-836f-16d11cfd2e34",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your colleagues?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "43753f97-6422-47c3-a6c9-986a2bae31fb",
+    "type": "truth",
+    "text": "What's your biggest worry related to past?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d6e50e37-e07a-4447-bcfc-86afccef20c5",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a job?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "14a65a1f-c7bf-4ca6-ae82-6d086270053b",
+    "type": "dare",
+    "text": "Show the last last apps you admit.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "df8adcd9-9e48-4a9a-beed-3fdde7ad1e1d",
+    "type": "dare",
+    "text": "Text the first person in your contacts something rebellious (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "02426a76-5e5b-4d61-88ff-c997e0bf1363",
+    "type": "dare",
+    "text": "Call the person to your right and a job interview without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "86a7a4d9-9f1a-4bdf-9763-c4c32c592b58",
+    "type": "dare",
+    "text": "Show the last 3rd apps you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8d400b73-68e5-4602-a0aa-1886eefb9840",
+    "type": "dare",
+    "text": "Call everyone and a presentation without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ceb52677-e2f1-4d38-9706-9ea66b81c2c6",
+    "type": "truth",
+    "text": "What's something you've never told anyone about your prank?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1dc5e7d9-157b-40f7-9d93-10f767637ab9",
+    "type": "dare",
+    "text": "Strike a pose like you're pursuit.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a77d241e-8543-4e09-873c-b60900742610",
+    "type": "dare",
+    "text": "Show the last last messages you make people laugh.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "157b1d32-2a5b-44f9-8f61-a7c74ab11a58",
+    "type": "dare",
+    "text": "Text the first person in your contacts something hilarious (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b1a242ba-bedd-4cdf-bb41-dee9b933be7a",
+    "type": "dare",
+    "text": "Show the last last photos you make people laugh.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e80edfc6-81a5-46b9-9ac9-e76a00089934",
+    "type": "dare",
+    "text": "Call the person to your right and singing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6fa252a6-3d2e-49dc-8f5b-161b1b51f75f",
+    "type": "truth",
+    "text": "What's something about your unexpected talent that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "16279709-fba1-4dd6-83d5-6c9a6d952fc3",
+    "type": "truth",
+    "text": "What's a astonishing fact you've kept from your acquaintances?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0a999f07-ca74-48fe-91e3-831f455a22fe",
+    "type": "truth",
+    "text": "What's something you've done that you hope your new friends never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "713b6c39-1119-4f65-81cf-1f29533c74aa",
+    "type": "dare",
+    "text": "Show the last first messages you amaze an audience.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9943a4a0-c865-40b3-8395-c2390b8c2bae",
+    "type": "dare",
+    "text": "Show the last first emails you astonish friends.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "604489fa-0446-4b0a-9a54-ada625507ca7",
+    "type": "dare",
+    "text": "Text the last person in your contacts something unbelievable (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a4a375da-1e71-4b17-8486-c2fa1292338c",
+    "type": "dare",
+    "text": "Show the last 3rd emails you shock people.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "94ded0e0-bf3f-49a4-8764-c72118724b95",
+    "type": "dare",
+    "text": "Call the person to your right and surprising opportunity without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a5a5d823-6d19-4d4d-b781-509d206c3c84",
+    "type": "truth",
+    "text": "What's your go-to pursuit when you're emotion?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "96bbc824-1184-4b42-b7f8-4995b88d8197",
+    "type": "truth",
+    "text": "What's your go-to activity when you're condition?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "896a2ec7-7f49-49a6-9896-4ef19edaabe1",
+    "type": "truth",
+    "text": "What's something about your family that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d6703bbe-efee-4d78-a57a-9add73f77edb",
+    "type": "truth",
+    "text": "What's the biggest poor decision you've made in a job?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e7f47dd7-a955-4297-bdf3-a3406305f9f6",
+    "type": "truth",
+    "text": "What's the most embarrassing thing that's happened to you during a date?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c7cfc788-d986-49eb-bff6-064eec25f112",
+    "type": "dare",
+    "text": "Show the last first messages you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a032752c-4985-45d5-8d6a-c853c02d2b6c",
+    "type": "dare",
+    "text": "Show the last first photos you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "58317444-1118-4d2a-bb3a-be7f9c239ea7",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something daring (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d247779f-5f3b-4345-b059-50c21259b068",
+    "type": "dare",
+    "text": "Call the person to your right and a date without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "de561e3c-e45a-43ba-91bc-957797e68ed7",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something challenging (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "11442f33-e02d-4ce9-8df8-3da3d67f1c08",
+    "type": "dare",
+    "text": "Text the last person in your contacts something daring (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1f52c0dd-25ab-4b1b-a6e2-1b29e1cd923f",
+    "type": "truth",
+    "text": "What's your biggest public speaking mishap related to funny story?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6912d8ca-f25c-4718-951d-ec0b6e4be5dc",
+    "type": "truth",
+    "text": "What's a funny secret you've kept from your audience?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "962b4fd5-fd5e-41a0-9d3d-988b37b82880",
+    "type": "truth",
+    "text": "What's the biggest funny error you've made in a party?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5ff02917-0c69-4c1a-bc9c-4b3c85dd78e1",
+    "type": "truth",
+    "text": "What's a entertaining story you've kept from your party guests?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d870af81-e483-4540-a8f5-4d40571728f7",
+    "type": "truth",
+    "text": "What's your biggest public speaking mishap related to prank?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "292361d0-498b-40c9-a1a1-95ae6e860fa6",
+    "type": "dare",
+    "text": "Show the last last social media posts you make people laugh.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c883a609-62b4-474c-b5dd-462930b590d6",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something funny (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dbd87aa2-eb3f-4e33-8981-539bba1cf52a",
+    "type": "dare",
+    "text": "Show the last first emails you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a7459b98-a8f4-43e7-9c78-6e15a1e260ac",
+    "type": "dare",
+    "text": "Show the last last photos you amuse.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7ee652ed-50a1-4b80-887a-b026f0f560b2",
+    "type": "truth",
+    "text": "What's a astonishing fact you've kept from your strangers?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4928a780-5222-49f4-8e67-5cf7d8357817",
+    "type": "truth",
+    "text": "What's a surprising revelation you've kept from your people who just met you?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5e9cdf22-e5d9-45b3-835f-044c4416de8d",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to education?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "54dd38ce-a3a4-43a9-8864-8ad4760b6fdb",
+    "type": "truth",
+    "text": "What's a hidden truth you've kept from your parents?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e448c700-6b13-4074-a08d-3ddfdcad457a",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a social situation?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81468210-4dec-4e41-baa1-bee96bfc8199",
+    "type": "dare",
+    "text": "Show the last 5th photos you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d482d45b-2fdc-4a15-89d9-c27ac731a93f",
+    "type": "dare",
+    "text": "Show the last 3rd messages you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "87639940-34c6-423d-a623-d0b432eadc73",
+    "type": "dare",
+    "text": "Show the last 10th apps you reveal.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cb7dec03-2fe9-4e94-8a08-1be1d4d89981",
+    "type": "truth",
+    "text": "What's a entertaining story you've kept from your friends?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "14ab5895-c95a-4375-b1ae-63621d38453f",
+    "type": "truth",
+    "text": "What's your biggest embarrassing situation related to misunderstanding?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "68201199-dbe2-44a5-99bb-845115dbf369",
+    "type": "truth",
+    "text": "What's something you've done that you hope your group never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5126831c-d8dd-4442-a0d9-746862d1873c",
+    "type": "truth",
+    "text": "What's something about your embarrassing moment that would surprise people?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3cee29b5-3539-498c-bdc8-4c8080d6f253",
+    "type": "dare",
+    "text": "Text the last person in your contacts something ridiculous (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ef394a9d-57ff-429c-bfd8-598d97c67156",
+    "type": "dare",
+    "text": "Show the last 3rd emails you make people laugh.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a962758b-3d6d-449b-a0f2-cfe08497c05f",
+    "type": "dare",
+    "text": "Call the person to your left and dancing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ce5aa594-8989-4991-9be3-b32d17d28084",
+    "type": "dare",
+    "text": "Show the last 10th apps you make people laugh.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4e454e11-116f-404e-8f98-8eae51b74ffd",
+    "type": "truth",
+    "text": "What's your go-to action when you're feeling?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "dba06cf7-edbd-440f-9ba6-1faeee0fc097",
+    "type": "truth",
+    "text": "What's your biggest surprising result related to hidden skill?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9ebf455f-47a1-40d4-84e6-36bf92079f7c",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something unbelievable (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "43579f9b-155d-4012-8144-23e914917f08",
+    "type": "dare",
+    "text": "Text the first person in your contacts something unexpected (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b8970f96-dcad-416c-9c58-639bdd03c883",
+    "type": "dare",
+    "text": "Show the last 10th social media posts you surprise others.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "890522ee-d206-447a-92b5-97c6a2cb379a",
+    "type": "truth",
+    "text": "What's a challenging opinion you have that might be controversial?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a8fd5d7d-d794-429d-888f-5108f456acc0",
+    "type": "truth",
+    "text": "What's the most daring thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cf577424-2e45-43a4-820f-c9de4c8058cb",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a family gathering?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8dff4018-0368-44cb-b675-09c71ce2a888",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something risky (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bb8e3c66-7b66-41e8-84a4-98e5aeb4a68a",
+    "type": "dare",
+    "text": "Show the last 3rd messages you disclose.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "eebb0e0f-7364-4f42-a90d-00f1297894d4",
+    "type": "dare",
+    "text": "Call the person to your right and a presentation without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5fb88905-cc71-434c-8e26-ec12a755f53d",
+    "type": "truth",
+    "text": "What's a funny secret you've kept from your party guests?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ff1eeb79-5a40-47a6-aabe-58573d6977ce",
+    "type": "truth",
+    "text": "What's the most amusing thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "001c442e-0f28-4b2d-a02d-374c668af398",
+    "type": "truth",
+    "text": "What's your biggest embarrassing situation related to funny story?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7649d2f7-73dd-45db-8d00-ccec0a9ecd83",
+    "type": "dare",
+    "text": "Show the last 3rd apps you make people laugh.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "22a8c8a3-3420-4a94-ba3f-5c363c25b23c",
+    "type": "truth",
+    "text": "What's your go-to task when you're state?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "cd6f471f-e2b2-4336-a475-6cd07cb97923",
+    "type": "dare",
+    "text": "Show the last last messages you surprise others.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e2390fd8-ba19-4608-988e-94239be986e6",
+    "type": "dare",
+    "text": "Show the last 5th messages you amaze an audience.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "eb900028-489f-4a4d-8a6b-150d4eeece5a",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something surprising (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1c7a55ec-5efe-4732-a3a4-f973d402cbcd",
+    "type": "truth",
+    "text": "What's your go-to action when you're state?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d69c1ed8-cc12-4917-a76a-fc19a8b10e55",
+    "type": "truth",
+    "text": "What activity would you like to try?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0c2414ce-b042-40a2-a009-c1e522b4cb0c",
+    "type": "truth",
+    "text": "What's the biggest regret you've made in a family gathering?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fc9f1cb1-4f24-48e8-8f58-e4ca054c08d8",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something rebellious (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3a851a72-c4d8-4f07-bc43-454cb58a7ef8",
+    "type": "dare",
+    "text": "Show the last last social media posts you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "de33022b-b8b6-42c9-b83b-4fca9a633160",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something daring (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3558c922-38fa-4af5-bdf6-b3c6020737a4",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something rebellious (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ab8cc4d4-8f9b-4a98-9f3f-599c212c887a",
+    "type": "dare",
+    "text": "Show the last first emails you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4b06fca2-4a2d-4f67-be85-ac8b9d1bf257",
+    "type": "truth",
+    "text": "What's a amusing confession you've kept from your friends?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f30cd306-4157-485d-ac10-378225e335d7",
+    "type": "truth",
+    "text": "What's the biggest embarrassing mistake you've made in a public event?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8f70b4d4-9525-4fc1-a548-26522301cc79",
+    "type": "dare",
+    "text": "Call the person to your left and singing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "65595944-6a82-4cf2-949e-f7426ecebfdf",
+    "type": "dare",
+    "text": "Show the last last apps you amuse.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2a746703-7d1b-4891-b226-5f18ac0748bf",
+    "type": "dare",
+    "text": "Text the first person in your contacts something funny (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "46351087-4aef-4ad3-b1f5-61ac66b2e755",
+    "type": "dare",
+    "text": "Post an shocking selfie on your social media of the group's choosing.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "839de06a-14b4-4fa7-986a-74d7e0c056fa",
+    "type": "dare",
+    "text": "Show the last last messages you amaze an audience.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "90411395-5e4e-4a39-aff9-c980d2840a5e",
+    "type": "dare",
+    "text": "Text the first person in your contacts something astonishing (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9ad57dda-8603-4e4d-ab3d-b45d9b8e5b46",
+    "type": "dare",
+    "text": "Show the last 5th emails you shock people.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "81d6837b-baff-411c-a16e-30bd3921b805",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "00c5e75e-aa6e-49e8-83b3-0501801dc770",
+    "type": "truth",
+    "text": "What's a secret you've kept from your best friend?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "55abb9bb-f789-4669-ae0d-feb625d535b7",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your best friend?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2839ba1d-2fa6-4cdb-92be-09bf57234167",
+    "type": "truth",
+    "text": "What's something you've done that you hope your partner never finds out about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "457f2f20-ef88-4762-beff-e5719371f666",
+    "type": "truth",
+    "text": "What's your biggest worry related to relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "776aa3ac-0d60-4183-b68b-612a6036b5de",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your best friend?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "17bc2a28-bcb3-4901-a401-a1170cb4e723",
+    "type": "dare",
+    "text": "Show the last 5th apps you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5699e56a-ba7e-480d-aa7f-90ec11bc63fd",
+    "type": "dare",
+    "text": "Show the last 3rd photos you admit.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ececd537-1ff3-438c-ac82-4ab94bbd8b6b",
+    "type": "dare",
+    "text": "Show the last last photos you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b6876256-5b34-4d72-975e-e97a74604090",
+    "type": "dare",
+    "text": "Show the last first messages you share.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "def2a315-4410-4d3b-9318-758438e1a31a",
+    "type": "dare",
+    "text": "Text the last person in your contacts something rebellious (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8e4f94de-f0fa-4b5b-8e07-f3947da5018f",
+    "type": "truth",
+    "text": "What's your go-to task when you're emotion?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "80e32051-8259-43e4-b08c-72930608bcf1",
+    "type": "dare",
+    "text": "Show the last 3rd emails you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "65268c98-2f89-4c40-9862-8cda464c7683",
+    "type": "dare",
+    "text": "Text the last person in your contacts something funny (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "bc549bea-e86d-4f10-9913-35c655767bd8",
+    "type": "dare",
+    "text": "Show the last last messages you amuse.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "50398401-5040-47f1-845c-7dc42f6ca29e",
+    "type": "truth",
+    "text": "What's a surprising revelation you've kept from your acquaintances?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "eaed55a7-fab4-4299-b1ad-ed3889474285",
+    "type": "dare",
+    "text": "Show the last 10th messages you astonish friends.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e521f831-91bc-4af7-a519-e44f54d047b2",
+    "type": "truth",
+    "text": "What's the biggest poor decision you've made in a social situation?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "32d1a001-33d7-4f8d-8538-b843f2526644",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a friendship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "182fc380-5570-44b6-8fd5-c8d3a0f56575",
+    "type": "truth",
+    "text": "What's your biggest worry related to career?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "971ddc9f-1ad8-4246-a7a9-173f52806e2c",
+    "type": "dare",
+    "text": "Text the last person in your contacts something questionable (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ef0bc547-d173-4d2b-9cf9-d60b91d7baa3",
+    "type": "dare",
+    "text": "Text the 5th person in your contacts something funny (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e286f05d-c5b9-4085-a621-ea168a51c6d2",
+    "type": "dare",
+    "text": "Show the last 5th social media posts you entertain.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3f0092af-28c8-44cd-a3dd-0a594b179eeb",
+    "type": "truth",
+    "text": "What's your biggest unexpected outcome related to secret ability?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3b545e0f-03b6-4b3c-b48d-70648dd6c958",
+    "type": "truth",
+    "text": "What's the biggest mistake you've made in a job?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "80cb0c41-624f-41f5-b877-288d0562ede4",
+    "type": "truth",
+    "text": "What's a private matter you've kept from your colleagues?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ace5f4e3-f7c9-47a2-99df-9ead9246db2a",
+    "type": "truth",
+    "text": "What's the biggest error you've made in a friendship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b6a7fb58-213a-4b8e-97ea-b7aa08cce335",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "4c285372-5439-44cc-a34b-5cde87229b55",
+    "type": "truth",
+    "text": "What's a confidential information you've kept from your family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9523fb34-c80d-428f-b9ea-2f9e8cb75af8",
+    "type": "truth",
+    "text": "What's the biggest poor decision you've made in a friendship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d37dcdbb-5286-4d8e-97b0-559543c50198",
+    "type": "truth",
+    "text": "What's the biggest misjudgment you've made in a relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "896cec2c-152b-4c36-b5e2-910854251d70",
+    "type": "dare",
+    "text": "Text the first person in your contacts something risky (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "a9669f34-1a72-4a29-8b54-f9450275741d",
+    "type": "dare",
+    "text": "Text the last person in your contacts something risky (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "804c5b23-378f-4e8f-8740-166220717f89",
+    "type": "dare",
+    "text": "Show the last 5th photos you reveal.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fa62b770-29e5-4908-b6e0-7322f03d6e1b",
+    "type": "dare",
+    "text": "Show the last 5th apps you reveal.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "04318fe0-f18b-482c-91b3-2bdbc7c465a9",
+    "type": "truth",
+    "text": "What's your go-to endeavor when you're condition?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "95e45727-8a6d-455e-8e1f-895dfca819c2",
+    "type": "truth",
+    "text": "What's the biggest funny error you've made in a social gathering?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "74ee5be8-a5ba-4357-9eda-1850253cd95a",
+    "type": "truth",
+    "text": "What's your biggest awkward encounter related to funny story?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d96cadc0-d142-46d9-a4e0-23b7155b7921",
+    "type": "dare",
+    "text": "Show the last first emails you perform.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "55df2f87-d2f4-42f6-a6f5-047b5ce1bc54",
+    "type": "truth",
+    "text": "What's your go-to endeavor when you're mood?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7374b68c-1ca3-48c5-a161-ae08a9a4d5ff",
+    "type": "dare",
+    "text": "Call the person to your left and unexpected challenge without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2af646d3-c522-487d-8259-56f33339c348",
+    "type": "dare",
+    "text": "Show the last 10th emails you surprise others.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8e589a06-e05f-472b-a810-b9c57bab995b",
+    "type": "truth",
+    "text": "What's your biggest concern related to family?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "ba02088d-84bb-4e06-8234-626b222e8e11",
+    "type": "dare",
+    "text": "Call the person to your left and a social event without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "f84d083a-f700-48e3-8377-ef984830b031",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something bold (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1a3385f4-fd01-4122-8ece-861bdd1bdb49",
+    "type": "dare",
+    "text": "Show the last 5th apps you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8775aa96-28d7-440c-ad22-7e7a371e92f0",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something hilarious (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7be3b4e2-3262-4ebf-b6e6-f1ce611d6811",
+    "type": "dare",
+    "text": "Show the last 10th emails you amuse.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "45b874d1-7b0d-4dd7-bf04-ec21a7f10616",
+    "type": "dare",
+    "text": "Text the 3rd person in your contacts something unexpected (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "989c17a8-9037-482d-ab06-870870b2183d",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you astonish friends.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2cb2f023-950c-4dd2-82d7-1575c63444f0",
+    "type": "dare",
+    "text": "Show the last 10th photos you amaze an audience.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "5f540d9e-2911-456b-b142-a23f21d1855f",
+    "type": "truth",
+    "text": "What's the biggest regret you've made in a social situation?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3b735a6d-04f9-4f37-908b-05387fb2292b",
+    "type": "dare",
+    "text": "Show the last 5th emails you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3cd14dc9-0de9-4281-af8d-2df548160624",
+    "type": "dare",
+    "text": "Show the last first photos you reveal.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "472b5d6c-6013-407d-a46e-3c1e1dbe159c",
+    "type": "dare",
+    "text": "Show the last 10th photos you confess.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "fbfe2d73-d21c-40fc-b213-ad2256b7d11c",
+    "type": "dare",
+    "text": "Call someone in the room and a job interview without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "63c587cd-727f-4c6f-b342-c6bcf07660f9",
+    "type": "dare",
+    "text": "Show the last 3rd social media posts you admit.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "0bdc7d08-8023-43c3-b8f8-9229eabc1efc",
+    "type": "dare",
+    "text": "Call everyone and singing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "d2804259-37b0-41ba-9eda-50cfbc0a53bf",
+    "type": "dare",
+    "text": "Text the first person in your contacts something entertaining (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "30500379-20e8-4157-8b99-d7dfc765ce34",
+    "type": "dare",
+    "text": "Call the person across from you and performing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "6eef21ad-b51d-40df-a3d3-18b039cf1352",
+    "type": "dare",
+    "text": "Text the 10th person in your contacts something ridiculous (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "8901df4d-39f9-428e-b4b9-65a39b9fd1f3",
+    "type": "truth",
+    "text": "What's a unexpected truth you've kept from your acquaintances?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "2ad0b5cf-feff-4ee8-874e-21597dafaaf8",
+    "type": "truth",
+    "text": "What's your biggest unexpected outcome related to unexpected talent?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "581bdc67-bfc5-4b9c-b069-f85a273e58a2",
+    "type": "truth",
+    "text": "What's the biggest unexpected error you've made in a surprising event?",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "88b02120-76ae-4303-9c47-bc37f3742d93",
+    "type": "truth",
+    "text": "What's your go-to activity when you're mood?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "b8a21678-6b72-4c11-9735-16daf474aece",
+    "type": "truth",
+    "text": "What's the most bold thing you've done that no one knows about?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3a2bc47d-e315-4531-b331-9b66d3a87e15",
+    "type": "truth",
+    "text": "What's a secret you've kept from your colleagues?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c16f05b9-2ac7-4a48-b142-a48839c0f41d",
+    "type": "truth",
+    "text": "What's your biggest anxiety related to relationship?",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "7960bd90-17da-4c4e-b0cb-a174c0dcaa1f",
+    "type": "dare",
+    "text": "Show the last 3rd emails you admit.",
+    "category": "medium",
+    "subOptions": [
+      "challenging"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "c3c7269e-8ddc-4aae-b13e-6b63d8d40cfa",
+    "type": "truth",
+    "text": "What's your go-to pursuit when you're condition?",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "soft",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9378becf-b524-4786-9f4b-7ebbb6a11873",
+    "type": "dare",
+    "text": "Text the last person in your contacts something amusing (show the group before sending).",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "3b343672-54c3-4643-9d8d-c03983f10924",
+    "type": "dare",
+    "text": "Call someone in the room and performing without explaining why.",
+    "category": "medium",
+    "subOptions": [
+      "entertaining"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "e44610df-9a45-4870-90f7-8c4020495235",
+    "type": "dare",
+    "text": "Show the last 5th social media posts you surprise others.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "9ee4ce72-fe25-4863-827a-1677351a55ac",
+    "type": "dare",
+    "text": "Show the last 10th messages you surprise others.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  },
+  {
+    "id": "1f66b554-a474-4499-a63e-e2892b0e3c8e",
+    "type": "dare",
+    "text": "Show the last 10th messages you shock people.",
+    "category": "medium",
+    "subOptions": [
+      "surprising"
+    ],
+    "intensity": "medium",
+    "ageRestricted": false,
+    "requiresOptIn": false
+  }
+]

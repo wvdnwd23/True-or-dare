@@ -1,0 +1,485 @@
+{
+  "category": "soft",
+  "items": [
+    {
+      "id": "soft-truth-1",
+      "type": "truth",
+      "text": "What's your favorite way to spend a lazy Sunday?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-2",
+      "type": "truth",
+      "text": "If you could have any animal as a pet, what would it be and why?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-3",
+      "type": "truth",
+      "text": "What's your go-to karaoke song?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-4",
+      "type": "truth",
+      "text": "What's the best piece of advice you've ever received?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-5",
+      "type": "truth",
+      "text": "What's your favorite season and why?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-6",
+      "type": "truth",
+      "text": "What's a small thing that always makes your day better?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-7",
+      "type": "truth",
+      "text": "If you could master any skill instantly, what would it be?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-8",
+      "type": "truth",
+      "text": "What's your favorite childhood memory?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-9",
+      "type": "truth",
+      "text": "If you could live in any fictional world, which would you choose?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-10",
+      "type": "truth",
+      "text": "What's your favorite comfort food?",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-1",
+      "type": "dare",
+      "text": "Do your best impression of a celebrity for 30 seconds.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-2",
+      "type": "dare",
+      "text": "Show everyone your most recent photo on your phone.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-3",
+      "type": "dare",
+      "text": "Tell a joke that will make everyone laugh.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-4",
+      "type": "dare",
+      "text": "Sing the chorus of your favorite song.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-5",
+      "type": "dare",
+      "text": "Strike a pose like you're on the cover of a magazine.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-6",
+      "type": "dare",
+      "text": "Give a compliment to each person in the room.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-7",
+      "type": "dare",
+      "text": "Do your best dance move for 15 seconds.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-8",
+      "type": "dare",
+      "text": "Take a selfie with the person to your right and set it as your phone wallpaper for the next hour.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-9",
+      "type": "dare",
+      "text": "Close your eyes and let someone feed you a small bite of food or drink.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-10",
+      "type": "dare",
+      "text": "Do your best impression of another player until your next turn.",
+      "category": "soft",
+      "subOptions": ["icebreaker"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-11",
+      "type": "truth",
+      "text": "What's the silliest thing you've ever done in public?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-12",
+      "type": "truth",
+      "text": "What's your funniest childhood memory?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-13",
+      "type": "truth",
+      "text": "If you were a cartoon character, who would you be and why?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-14",
+      "type": "truth",
+      "text": "What's the weirdest food combination you actually enjoy?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-15",
+      "type": "truth",
+      "text": "What's the most embarrassing song on your playlist?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-16",
+      "type": "truth",
+      "text": "What's the strangest dream you've ever had?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-17",
+      "type": "truth",
+      "text": "What's your silliest fear or phobia?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-18",
+      "type": "truth",
+      "text": "What's the funniest joke you know by heart?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-19",
+      "type": "truth",
+      "text": "If you had to eat one food for the rest of your life, what would it be?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-20",
+      "type": "truth",
+      "text": "What's the most ridiculous thing you've ever bought?",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-11",
+      "type": "dare",
+      "text": "Do your best chicken impression for 15 seconds.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-12",
+      "type": "dare",
+      "text": "Put as many socks on one foot as you can in 30 seconds.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-13",
+      "type": "dare",
+      "text": "Speak in an accent of the group's choosing until your next turn.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-14",
+      "type": "dare",
+      "text": "Make up a short rap about the person to your left.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-15",
+      "type": "dare",
+      "text": "Do your best impression of a runway model walking down the catwalk.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-16",
+      "type": "dare",
+      "text": "Try to lick your elbow for 10 seconds.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-17",
+      "type": "dare",
+      "text": "Make a hat out of whatever materials are available and wear it for the next three rounds.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-18",
+      "type": "dare",
+      "text": "Pretend to be a news reporter and give a 30-second report about something that happened today.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-19",
+      "type": "dare",
+      "text": "Do your best impression of a famous movie scene.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-20",
+      "type": "dare",
+      "text": "Switch clothes with the person to your right for one round.",
+      "category": "soft",
+      "subOptions": ["silly"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-21",
+      "type": "truth",
+      "text": "If you could invent anything, what would it be?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-22",
+      "type": "truth",
+      "text": "What's a creative talent you wish you had?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-23",
+      "type": "truth",
+      "text": "If you could design your dream house, what unique feature would it have?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-24",
+      "type": "truth",
+      "text": "If you wrote a book, what would it be about?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-25",
+      "type": "truth",
+      "text": "What's the most creative excuse you've ever used?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-26",
+      "type": "truth",
+      "text": "If you could create a new holiday, what would it celebrate and what traditions would it have?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-27",
+      "type": "truth",
+      "text": "If you could create a new ice cream flavor, what would it be?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-28",
+      "type": "truth",
+      "text": "If you were to create a new board game, what would it be about?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-29",
+      "type": "truth",
+      "text": "If you could design a theme park ride, what would it be like?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-truth-30",
+      "type": "truth",
+      "text": "If you could create a new sport, what would the rules be?",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-21",
+      "type": "dare",
+      "text": "Draw a portrait of someone in the room with your non-dominant hand.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-22",
+      "type": "dare",
+      "text": "Create a short commercial for an everyday object near you.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-23",
+      "type": "dare",
+      "text": "Make up a short story that includes three random words chosen by the group.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-24",
+      "type": "dare",
+      "text": "Create a new dance move and teach it to everyone.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-25",
+      "type": "dare",
+      "text": "Design a superhero logo using only items in the room.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-26",
+      "type": "dare",
+      "text": "Create a 30-second jingle about the person to your right.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-27",
+      "type": "dare",
+      "text": "Make up a haiku (5-7-5 syllable poem) about your day.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-28",
+      "type": "dare",
+      "text": "Create a new handshake with the person across from you.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-29",
+      "type": "dare",
+      "text": "Using objects around you, create a musical instrument and play a short tune.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    },
+    {
+      "id": "soft-dare-30",
+      "type": "dare",
+      "text": "Create a fashion accessory using only paper and wear it for the next three rounds.",
+      "category": "soft",
+      "subOptions": ["creative"],
+      "intensity": "soft"
+    }
+  ]
+}
